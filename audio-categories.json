@@ -1,0 +1,175 @@
+[
+  {
+    "title": "Trending",
+    "audios": [
+      {
+        "artistName": "Soothing Voices",
+        "artistImage": "https://example.com/images/artist1.jpg",
+        "audioUrl": "https://example.com/audio/trending1.mp3",
+        "duration": "10:34",
+        "title": "Calm Ocean Breeze"
+      },
+      {
+        "artistName": "Whisper Wonders",
+        "artistImage": "https://example.com/images/artist2.jpg",
+        "audioUrl": "https://example.com/audio/trending2.mp3",
+        "duration": "15:47",
+        "title": "Relaxing Forest Walk"
+      },
+      {
+        "artistName": "Dreamweaver",
+        "artistImage": "https://example.com/images/artist3.jpg",
+        "audioUrl": "https://example.com/audio/trending3.mp3",
+        "duration": "12:21",
+        "title": "Gentle Rainfall"
+      },
+      {
+        "artistName": "Echo Chamber",
+        "artistImage": "https://example.com/images/artist4.jpg",
+        "audioUrl": "https://example.com/audio/trending4.mp3",
+        "duration": "9:12",
+        "title": "Midnight Whispers"
+      },
+      {
+        "artistName": "Velvet Tones",
+        "artistImage": "https://example.com/images/artist5.jpg",
+        "audioUrl": "https://example.com/audio/trending5.mp3",
+        "duration": "14:10",
+        "title": "Morning Coffee ASMR"
+      }
+    ]
+  },
+  {
+    "title": "Breakup Comfort",
+    "detailedAudios": [
+      {
+        "artistName": "Whispered Haven",
+        "artistImage": "https://example.com/images/artist15.jpg",
+        "audioUrl": "https://example.com/audio/breakup1.mp3",
+        "duration": "12:45",
+        "title": "Heartbreak Healing",
+        "subtitle": "A gentle voice for a broken heart",
+        "tags": "[f4m] [comfort] [sad]"
+      },
+      {
+        "artistName": "Velvet Muse",
+        "artistImage": "https://example.com/images/artist16.jpg",
+        "audioUrl": "https://example.com/audio/breakup2.mp3",
+        "duration": "14:20",
+        "title": "Mending Together",
+        "subtitle": "When words feel like a warm hug",
+        "tags": "[f4a] [comfort] [healing]"
+      },
+      {
+        "artistName": "Golden Glow",
+        "artistImage": "https://example.com/images/artist8.jpg",
+        "audioUrl": "https://example.com/audio/breakup3.mp3",
+        "duration": "10:50",
+        "title": "Hopeful New Beginnings",
+        "subtitle": "Finding strength in words",
+        "tags": "[f4f] [inspiration] [comfort]"
+      }
+    ]
+  },
+  {
+    "title": "Quickies",
+    "audios": [
+      {
+        "artistName": "Whispered Touch",
+        "artistImage": "https://example.com/images/artist11.jpg",
+        "audioUrl": "https://example.com/audio/quick1.mp3",
+        "duration": "6:23",
+        "title": "5-Minute Relaxation"
+      },
+      {
+        "artistName": "Soft Serenade",
+        "artistImage": "https://example.com/images/artist12.jpg",
+        "audioUrl": "https://example.com/audio/quick2.mp3",
+        "duration": "4:12",
+        "title": "Short Comforting Words"
+      },
+      {
+        "artistName": "Serene Whisperer",
+        "artistImage": "https://example.com/images/artist13.jpg",
+        "audioUrl": "https://example.com/audio/quick3.mp3",
+        "duration": "5:10",
+        "title": "Affirmation Boost"
+      },
+      {
+        "artistName": "Velvet Nights",
+        "artistImage": "https://example.com/images/artist14.jpg",
+        "audioUrl": "https://example.com/audio/quick4.mp3",
+        "duration": "3:50",
+        "title": "Evening Hug in Words"
+      }
+    ]
+  },
+  {
+    "title": "Insomnia",
+    "audios": [
+      {
+        "artistName": "Whisper Waves",
+        "artistImage": "https://example.com/images/artist19.jpg",
+        "audioUrl": "https://example.com/audio/insomnia1.mp3",
+        "duration": "30:15",
+        "title": "Sleep Deeply Tonight"
+      },
+      {
+        "artistName": "Serene Nightfall",
+        "artistImage": "https://example.com/images/artist20.jpg",
+        "audioUrl": "https://example.com/audio/insomnia2.mp3",
+        "duration": "28:40",
+        "title": "Dreamy Whispers"
+      },
+      {
+        "artistName": "Golden Glow",
+        "artistImage": "https://example.com/images/artist21.jpg",
+        "audioUrl": "https://example.com/audio/insomnia3.mp3",
+        "duration": "26:33",
+        "title": "Guided Sleep Meditation"
+      }
+    ]
+  },
+  {
+    "title": "Reverse Comfort",
+    "detailedAudios": [
+      {
+        "artistName": "Echo Solace",
+        "artistImage": "https://example.com/images/artist22.jpg",
+        "audioUrl": "https://example.com/audio/reverse1.mp3",
+        "duration": "12:15",
+        "title": "You Deserve Love",
+        "subtitle": "Turning care your way",
+        "tags": "[f4m] [reverse comfort]"
+      },
+      {
+        "artistName": "Velvet Care",
+        "artistImage": "https://example.com/images/artist23.jpg",
+        "audioUrl": "https://example.com/audio/reverse2.mp3",
+        "duration": "13:33",
+        "title": "Being There for You",
+        "subtitle": "Words to heal and comfort",
+        "tags": "[m4f] [comfort]"
+      }
+    ]
+  },
+  {
+    "title": "New Arrivals",
+    "audios": [
+      {
+        "artistName": "Mystic Voices",
+        "artistImage": "https://example.com/images/artist24.jpg",
+        "audioUrl": "https://example.com/audio/new1.mp3",
+        "duration": "8:50",
+        "title": "Morning Wake-Up"
+      },
+      {
+        "artistName": "Gentle Glow",
+        "artistImage": "https://example.com/images/artist25.jpg",
+        "audioUrl": "https://example.com/audio/new2.mp3",
+        "duration": "10:30",
+        "title": "Peaceful Evening"
+      }
+    ]
+  }
+]
