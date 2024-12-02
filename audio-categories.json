@@ -12,7 +12,8 @@
                 "isAdultOnly": false,
                 "audioType": "F4M",
                 "subtitle": "Whispers of love and comfort",
-                "tags": "[romance] [comfort]"
+                "tags": "[romance] [comfort]",
+                "isPlus": true
             },
             {
                 "artistName": "Gentle Voice",
@@ -23,7 +24,8 @@
                 "isAdultOnly": false,
                 "audioType": "M4F",
                 "subtitle": "Soft spoken romantic dinner date",
-                "tags": "[romance] [date]"
+                "tags": "[romance] [date]",
+                "isPlus": false
             },
             {
                 "artistName": "Loving Aura",
@@ -34,7 +36,8 @@
                 "isAdultOnly": false,
                 "audioType": "M4A",
                 "subtitle": "Comforting warmth and gentle whispers",
-                "tags": "[romance] [fireplace]"
+                "tags": "[romance] [fireplace]",
+                "isPlus": true
             },
             {
                 "artistName": "Tender Heart",
@@ -45,7 +48,8 @@
                 "isAdultOnly": false,
                 "audioType": "F4M",
                 "subtitle": "Soft whispers and rainy ambiance",
-                "tags": "[romance] [rain]"
+                "tags": "[romance] [rain]",
+                "isPlus": false
             },
             {
                 "artistName": "Romantic Dreamer",
@@ -56,7 +60,8 @@
                 "isAdultOnly": false,
                 "audioType": "F4A",
                 "subtitle": "Gentle whispers during a stroll",
-                "tags": "[romance] [nature]"
+                "tags": "[romance] [nature]",
+                "isPlus": true
             },
             {
                 "artistName": "Sweet Murmurs",
@@ -67,7 +72,8 @@
                 "isAdultOnly": false,
                 "audioType": "M4F",
                 "subtitle": "Heartfelt whispers under the stars",
-                "tags": "[romance] [confession]"
+                "tags": "[romance] [confession]",
+                "isPlus": false
             }
         ]
     },
@@ -84,7 +90,8 @@
                 "isAdultOnly": false,
                 "audioType": "F4A",
                 "subtitle": "A mystical healer tends to your wounds",
-                "tags": "[fantasy] [healing]"
+                "tags": "[fantasy] [healing]",
+                "isPlus": false
             },
             {
                 "artistName": "Enchanting Echo",
@@ -95,7 +102,8 @@
                 "isAdultOnly": true,
                 "audioType": "M4A",
                 "subtitle": "Deep and soothing whispers of a dragon",
-                "tags": "[fantasy] [dragon]"
+                "tags": "[fantasy] [dragon]",
+                "isPlus": true
             },
             {
                 "artistName": "Mystic Traveler",
@@ -106,7 +114,8 @@
                 "isAdultOnly": false,
                 "audioType": "M4A",
                 "subtitle": "Exploring ancient ruins with a guide",
-                "tags": "[fantasy] [adventure]"
+                "tags": "[fantasy] [adventure]",
+                "isPlus": false
             },
             {
                 "artistName": "Celestial Guide",
@@ -117,7 +126,8 @@
                 "isAdultOnly": true,
                 "audioType": "A4A",
                 "subtitle": "Whispers of cosmic exploration",
-                "tags": "[fantasy] [space]"
+                "tags": "[fantasy] [space]",
+                "isPlus": true
             },
             {
                 "artistName": "Fabled Wanderer",
@@ -128,7 +138,8 @@
                 "isAdultOnly": false,
                 "audioType": "F4M",
                 "subtitle": "Whispers of ancient protectors",
-                "tags": "[fantasy] [mystery]"
+                "tags": "[fantasy] [mystery]",
+                "isPlus": false
             },
             {
                 "artistName": "Whispering Wizard",
@@ -139,79 +150,8 @@
                 "isAdultOnly": false,
                 "audioType": "M4A",
                 "subtitle": "Tales of magical spells and enchantments",
-                "tags": "[fantasy] [magic]"
-            }
-        ]
-    },
-    {
-        "title": "Comfort Roleplays",
-        "display": "horizontal",
-        "audios": [
-            {
-                "artistName": "Soft Serenity",
-                "artistImage": "https://via.placeholder.com/150",
-                "audioUrl": "https://example.com/audio5.mp3",
-                "duration": "13:00",
-                "title": "Reassurance After a Long Day",
-                "isAdultOnly": false,
-                "audioType": "F4F",
-                "subtitle": "A calming voice to help you unwind",
-                "tags": "[comfort] [reassurance]"
-            },
-            {
-                "artistName": "Warm Whispers",
-                "artistImage": "https://via.placeholder.com/150",
-                "audioUrl": "https://example.com/audio6.mp3",
-                "duration": "11:22",
-                "title": "You've Got This",
-                "isAdultOnly": false,
-                "audioType": "A4A",
-                "subtitle": "Motivational whispers to boost your confidence",
-                "tags": "[comfort] [motivation]"
-            },
-            {
-                "artistName": "Kind Companion",
-                "artistImage": "https://via.placeholder.com/150",
-                "audioUrl": "https://example.com/audio15.mp3",
-                "duration": "14:40",
-                "title": "Late Night Talks",
-                "isAdultOnly": false,
-                "audioType": "M4M",
-                "subtitle": "Supportive whispers for a friend",
-                "tags": "[comfort] [friendship]"
-            },
-            {
-                "artistName": "Empathetic Listener",
-                "artistImage": "https://via.placeholder.com/150",
-                "audioUrl": "https://example.com/audio16.mp3",
-                "duration": "12:50",
-                "title": "A Shoulder to Lean On",
-                "isAdultOnly": false,
-                "audioType": "F4M",
-                "subtitle": "Whispers of understanding and care",
-                "tags": "[comfort] [empathy]"
-            },
-            {
-                "artistName": "Calm Haven",
-                "artistImage": "https://via.placeholder.com/150",
-                "audioUrl": "https://example.com/audio25.mp3",
-                "duration": "15:30",
-                "title": "Relax and Recharge",
-                "isAdultOnly": false,
-                "audioType": "F4A",
-                "subtitle": "Gentle whispers for peace of mind",
-                "tags": "[comfort] [calm]"
-            },
-            {
-                "artistName": "Peaceful Presence",
-                "artistImage": "https://via.placeholder.com/150",
-                "audioUrl": "https://example.com/audio26.mp3",
-                "duration": "14:20",
-                "title": "Moments of Tranquility",
-                "isAdultOnly": false,
-                "audioType": "A4A",
-                "subtitle": "A safe space to breathe and relax",
-                "tags": "[comfort] [relaxation]"
+                "tags": "[fantasy] [magic]",
+                "isPlus": true
             }
         ]
     }
