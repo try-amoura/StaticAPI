@@ -157,7 +157,7 @@
     },
     {
         "title": "Happy Holidays 🎅🏻🎄🥂",
-        "display": "horizontal",
+        "display": "vertical",
         "audios": [
             {
                 "artistName": "TeacupAudio",
