@@ -1,0 +1,36 @@
+[
+    {
+        "title" : "White Noise 🧘‍♂️",
+        "type": "banner",
+        "playlists": [
+            {
+                "title": "Trending Now",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/whitenoise.jpg",
+                "audios": [
+                    "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+                    "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+                ]
+            },
+            {
+                "title": "Teacups Audio",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/teacup.jpg",
+                "audios": [
+                    "https://n4.kemono.su/data/dc/53/dc5374b5a9cee804cb79c495bf8e7a62586115f3eb8e6734defb5e1d9dcf9cd5.wav"
+                ]
+            }
+        ]
+    },
+    {
+        "title" : "Popular Artists",
+        "type": "horizontal",
+        "playlists": [
+            {
+                "title": "Teacup Audios",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/teacup.jpg",
+                "audios": [
+                    "https://n4.kemono.su/data/dc/53/dc5374b5a9cee804cb79c495bf8e7a62586115f3eb8e6734defb5e1d9dcf9cd5.wav"
+                ]
+            }
+        ]
+    }
+]
