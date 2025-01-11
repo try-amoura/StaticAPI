@@ -52,5 +52,140 @@
         "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
         "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
     ]
+  },
+  {
+    "name" :  "Elly Belle Audios",
+    "gender" : "female",
+    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/ellyaudios.png",
+    "audios" : [
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+    ]
+  },
+  {
+    "name" :  "Jae ASMR",
+    "gender" : "male",
+    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/jaysamr.jpg",
+    "audios" : [
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+    ]
+  },
+  {
+    "name" :  "Miss Blue Audios",
+    "gender" : "female",
+    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/missblueaudios.jpg",
+    "audios" : [
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+    ]
+  },
+  {
+    "name" :  "Allure Enchanted",
+    "gender" : "female",
+    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/allureenchanted.jpg",
+    "audios" : [
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+    ]
+  },
+  {
+    "name" :  "Mia Girlfriend Audio",
+    "gender" : "female",
+    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/miagirlfriendaudio.jpeg",
+    "audios" : [
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+    ]
+  },
+  {
+    "name" :  "PuppyVA",
+    "gender" : "female",
+    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/puppyva.jpg",
+    "audios" : [
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+    ]
+  },
+  {
+    "name" :  "Ein Audios",
+    "gender" : "female",
+    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/einaudios.png",
+    "audios" : [
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+    ]
+  },
+  {
+    "name" :  "Audi's Apothecary",
+    "gender" : "female",
+    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/audioharlot.jpeg",
+    "audios" : [
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+    ]
+  },
+  {
+    "name" :  "BoyfriendAudio",
+    "gender" : "male",
+    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/boyfriendaudio.jpeg",
+    "audios" : [
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+    ]
+  },
+  {
+    "name" :  "Mayral",
+    "gender" : "female",
+    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/myralaudio.jpg",
+    "audios" : [
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+    ]
+  },
+  {
+    "name" :  "WhispurrAudio",
+    "gender" : "male",
+    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/whisperaudio.png",
+    "audios" : [
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+    ]
+  },
+  {
+    "name" :  "CardlinAudio",
+    "gender" : "male",
+    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/cardlinaudio.jpeg",
+    "audios" : [
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+    ]
+  },
+  {
+    "name" :  "Hank Miller Audios",
+    "gender" : "male",
+    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/hankmilleraudios.jpeg",
+    "audios" : [
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+    ]
+  },
+  {
+    "name" :  "Violent's Audio",
+    "gender" : "female",
+    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/violetsaudio.jpeg",
+    "audios" : [
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+    ]
+  },
+  {
+    "name" :  "HorizonAudios",
+    "gender" : "female",
+    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/horizonaudios.jpeg",
+    "audios" : [
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+    ]
   }
 ]
