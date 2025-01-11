@@ -1,7 +1,7 @@
 [
   {
-    "name" :  "Moon Berry Audios",
-    "gender" : "female",
+    "name" :  "White Noise",
+    "gender" : "other",
     "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/whitenoise.jpg",
     "audios" : [
         "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
@@ -9,9 +9,27 @@
     ]
   },
   {
-    "name" :  "AudiosBySky",
+    "name" :  "Moon Berry Audio",
+    "gender" : "female",
+    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/Moon_Berry_Audio.jpg",
+    "audios" : [
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+    ]
+  },
+  {
+    "name" :  "Audios by Sky",
     "gender" : "male",
-    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/whitenoise.jpg",
+    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/Audios_by_Sky.jpg",
+    "audios" : [
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+    ]
+  },
+  {
+    "name" :  "TeacupAudio",
+    "gender" : "female",
+    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/teacup.jpg",
     "audios" : [
         "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
         "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
