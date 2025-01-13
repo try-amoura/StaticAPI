@@ -22,5 +22,81 @@
             "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
             "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
         ]
+    },
+    {
+        "title" : "white noise",
+        "subtitle" : "A consistent, soothing background noise, often used for relaxation, focus, or sleep.",
+        "audios" : [
+            "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+            "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a",
+            "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Fcar.m4a?alt=media&token=076a7b4c-4e49-46c2-8e37-1cb51da997b3",
+            "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Fcampfire.m4a?alt=media&token=2fe2978b-6783-4a73-8721-cec5c0f803a6",
+            "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FThunder%20and%20rain.m4a?alt=media&token=ea33fb0c-326d-4bf8-8ca9-130466bd9513",
+            "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FLate%20Night%20Cricket%20Sounds.mp3?alt=media&token=0ba4e5e7-aa0e-403f-b488-e46e6980c4ef"
+        ]
+    },
+    {
+        "title" : "merry christmas",
+        "subtitle" : "Audios with a Christmas theme feature calming, immersive scenarios like gift-giving, holiday preparations, and festive conversations to evoke relaxation and a cozy, seasonal atmosphere.",
+        "audios" : [
+            "https://n4.kemono.su/data/dc/53/dc5374b5a9cee804cb79c495bf8e7a62586115f3eb8e6734defb5e1d9dcf9cd5.wav"
+        ]
+    },
+    {
+        "title" : "good morning",
+        "subtitle" : "Scenarios like gentle wake-ups, light conversations, and calming rituals to start the day with relaxation and peace.",
+        "audios" : [
+            "https://n2.kemono.su/data/37/dd/37dd93afa18eb17299bef9182bb39f8869f4fd55e0e2cecd31afd989c4a2deed.wav",
+            "https://n2.kemono.su/data/03/49/034911b5d4758b4eae286a8562203c9eaa90695163e4be996da4a735f07c134f.wav",
+            "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/dQzBOsgc3DE.mp3",
+            "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/RayOCScLyU.mp3",
+            "https://n4.kemono.su/data/a6/4e/a64e6ba53f236d53515d1ad763b7bc0a6b5927342039270b049f1e876f404fe6.mp3",
+            "https://n2.kemono.su/data/15/9d/159d93fda496d2e614c19f7e664aaf0795781b1c04c725eab9f96f16e67b96f3.mp3"
+        ]
+    },
+    {
+        "title" : "sleep aid",
+        "subtitle" : "Designed to help listeners relax and unwind, featuring calming sounds like soft whispers, gentle tapping, and soothing ambient noises to promote better sleep and a peaceful night.",
+        "audios" : [
+            "https://n4.kemono.su/data/49/b9/49b96239e4a105d5026f9af8b6c83d715bb461e8c81069aa24c87f054faeb258.wav",
+            "https://n2.kemono.su/data/9a/ba/9aba5128c338ca832106dd05906f7b53a40305b4dacdaae7d109f9f4e5c03b23.wav",
+            "https://n3.kemono.su/data/af/d4/afd4d15ae19f9299edf77bef9078daf5bf082e0d9e9020bb95b1eb2e47d85c0f.wav",
+            "https://n3.kemono.su/data/d5/f2/d5f223e35c9ddc5128bee95461761b310b1c0869d65d0b18c44164a7c206701e.wav",
+            "https://n4.kemono.su/data/25/32/25326229f0897ff3eabbb9bffe585ac1a116540d731bc6f1f3f197e612a7d295.wav",
+            "https://n1.kemono.su/data/b0/c4/b0c46b03bf24fbe0f0a2fdfbe4eb0a899e051682cfcc7cfecb6d50af002d3c7a.mp3",
+            "https://n1.kemono.su/data/d2/ba/d2ba6a549ebf0bc784e070b58496be3a5530053202f76d726377b9b00b24c883.wav",
+            "https://n1.kemono.su/data/30/73/3073306a9795b4065bdbd44ffd0c65638a707e1d1cbb0b4678fbc8d1b0fb0899.wav",
+            "https://n4.kemono.su/data/42/8b/428bda1a04886997be12af9a9938a28ec50895937e909be402723cb92c31570e.wav",
+            "https://n2.kemono.su/data/77/6f/776fdd341628d1a5351aab8c6e78d94a315d0f973493dc096e55ac3a2121ca27.wav",
+            "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/6MpcZgZshl4.mp3",
+            "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/Mhjb4XNNGOs.mp3"
+        ]
+    },
+    {
+        "title" : "reverse comfort",
+        "subtitle" : "Creates a contrast to traditional comforting scenarios, using unsettling or tense sounds to evoke a sense of discomfort, sometimes designed to explore unique emotional responses or provoke introspection.",
+        "audios" : [
+            "https://n4.kemono.su/data/26/de/26de0055c27d975ab3fdb3de8479dcf67bc646fa2a2389628635d3adea5b9c2b.wav",
+            "https://n4.kemono.su/data/53/60/5360027686a3a2c4f1e26b26a80c4cf403c42a43d0050654601da6246cbaf4f9.mp3",
+            "https://n1.kemono.su/data/0f/c2/0fc2a35c8b36be315dcef44a915459244a66939349a00caad78ed283e60d52e2.wav",
+            "https://n1.kemono.su/data/5f/17/5f170c328c6b11ad6a0315c9be29110061ef1e2be053615b2981738371600a33.wav",
+            "https://n4.kemono.su/data/6a/00/6a00e2c0e6ae93d7c99dc69a53fe19cc08a094a4a9f4576614dca4fdf3f8c71e.wav",
+            "https://n4.kemono.su/data/ae/5c/ae5c27e6c5437338d538369204dfbf1de2e6e7bf00778b3dcd9dd9a647be20dd.wav",
+            "https://n1.kemono.su/data/3e/f7/3ef70659b660320d90b4d1bd8ae32f0d631505df7ae57041b755f8ca659c41dc.wav",
+            "https://n3.kemono.su/data/2c/4f/2c4f1ba427cb61cd966c0a6a6930bb026bbdde1de3804e961fc9e4f27bfcd281.wav",
+            "https://n2.kemono.su/data/7b/a8/7ba838093584fd08e9c9a80c5c587f5234687973bf9ff88b915fbf5be248374b.wav",
+            "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/tOjzH2mJ3uQ.mp3",
+            "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/3OEd9svXwxM.mp3",
+            "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/0P9e8PVTBX4.mp3",
+        ]
+    },
+    {
+        "title" : "crying comfort",
+        "subtitle" : "Offers gentle, empathetic roleplay scenarios that provide emotional support and solace, with soothing voices and comforting sounds designed to help listeners process their emotions and find comfort during moments of sadness or distress.",
+        "audios" : [
+            "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/3bD0eNoB7Q8.mp3",
+            "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/Jf8-gcTuOGU.mp3",
+            "https://n4.kemono.su/data/6a/6a/6a6a70a98c519c0580226851127dad56a588131a7cd041f7a5f775cbedd74991.mp3"
+        ]
     }
 ]
