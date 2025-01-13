@@ -8,22 +8,6 @@
         ]
     },
     {
-        "title" : "british accent",
-        "subtitle" : "Audios that feature care taking after sex.",
-        "audios" : [
-            "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
-            "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
-        ]
-    },
-    {
-        "title" : "couple",
-        "subtitle" : "Audios that feature care taking after sex.",
-        "audios" : [
-            "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
-            "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
-        ]
-    },
-    {
         "title" : "white noise",
         "subtitle" : "A consistent, soothing background noise, often used for relaxation, focus, or sleep.",
         "audios" : [
@@ -144,19 +128,63 @@
     },
     {
         "title" : "FDom",
-        "subtitle" : "Dominanat partner",
+        "subtitle" : "Audios with women in dominant roles.",
         "audios" : [
             "https://n2.kemono.su/data/d5/f2/d5f223e35c9ddc5128bee95461761b310b1c0869d65d0b18c44164a7c206701e.wav"
         ]
     },
     {
-        "title" : "FSup",
-        "subtitle" : "Submissive partner",
+        "title" : "FSub",
+        "subtitle" : "Audios with women in submissive roles.",
         "audios" : [
             "https://n3.kemono.su/data/af/d4/afd4d15ae19f9299edf77bef9078daf5bf082e0d9e9020bb95b1eb2e47d85c0f.wav",
             "https://n4.kemono.su/data/ae/5c/ae5c27e6c5437338d538369204dfbf1de2e6e7bf00778b3dcd9dd9a647be20dd.wav",
             "https://n3.kemono.su/data/dd/86/dd86e17d7cd79431ad8044249542072bbc865574388e449811850c535993b217.wav"
 
+        ]
+    },
+    {
+        "title" : "cheating",
+        "subtitle" : "Cheating",
+        "audios" : [
+            "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/storemanager.mp3"
+        ]
+    },
+    {
+        "title" : "strangers to lovers",
+        "subtitle" : "Audios where strangers get more intimately acquainted.",
+        "audios" : [
+            "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/storemanager.mp3"
+        ]
+    },
+    {
+        "title" : "blowjob",
+        "subtitle" : "Audios where strangers get more intimately acquainted.",
+        "audios" : [
+            "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/storemanager.mp3"
+        ]
+    },
+    {
+        "title" : "friends to lovers",
+        "subtitle" : "Audios featuring friends getting freaky or falling for each other.",
+        "audios" : [
+            "https://n1.kemono.su/data/30/73/3073306a9795b4065bdbd44ffd0c65638a707e1d1cbb0b4678fbc8d1b0fb0899.wav",
+            "https://n4.kemono.su/data/42/8b/428bda1a04886997be12af9a9938a28ec50895937e909be402723cb92c31570e.wav",
+            "https://n4.kemono.su/data/26/de/26de0055c27d975ab3fdb3de8479dcf67bc646fa2a2389628635d3adea5b9c2b.wav",
+            "https://n1.kemono.su/data/5f/17/5f170c328c6b11ad6a0315c9be29110061ef1e2be053615b2981738371600a33.wav",
+            "https://n4.kemono.su/data/ae/5c/ae5c27e6c5437338d538369204dfbf1de2e6e7bf00778b3dcd9dd9a647be20dd.wav",
+            "https://n1.kemono.su/data/3e/f7/3ef70659b660320d90b4d1bd8ae32f0d631505df7ae57041b755f8ca659c41dc.wav",
+            "https://n3.kemono.su/data/2c/4f/2c4f1ba427cb61cd966c0a6a6930bb026bbdde1de3804e961fc9e4f27bfcd281.wav",
+            "https://n2.kemono.su/data/7b/a8/7ba838093584fd08e9c9a80c5c587f5234687973bf9ff88b915fbf5be248374b.wav",
+            "https://n4.kemono.su/data/90/fb/90fb703083dc16b2c106ce75a6b73031018de7b760069cb83ed5e9280651b957.wav"
+
+        ]
+    },
+    {
+        "title" : "nightmare comfort",
+        "subtitle" : "Audios where strangers get more intimately acquainted.",
+        "audios" : [
+            "https://n1.kemono.su/data/3e/f7/3ef70659b660320d90b4d1bd8ae32f0d631505df7ae57041b755f8ca659c41dc.wav"
         ]
     }
 ]
