@@ -56,45 +56,6 @@
         "type": "horizontal",
         "playlists": [
             {
-                "title": "Rescently Added",
-                "image": "",
-                "audios": [
-                    "https://n3.kemono.su/data/b6/49/b649b60b8a05ed4e09981220c8f1a805ff0781d8ecb9d231bb40f127521f79f8.mp3"
-                ]
-            }
-        ]
-    },
-    {
-        "title" : "",
-        "type": "horizontal",
-        "playlists": [
-            {
-                "title": "",
-                "image": "",
-                "audios": [
-                    "https://n2.kemono.su/data/ca/34/ca34777a52fd9857bc65f77042f96bd64f0f91b171e6136a6e31cd6b5d618208.mp3"
-                ]
-            }
-        ]
-    },
-    {
-        "title" : "",
-        "type": "horizontal",
-        "playlists": [
-            {
-                "title": "",
-                "image": "",
-                "audios": [
-                    "https://n2.kemono.su/data/2e/a6/2ea63e996204318d880dac99bee04093102eb09549ecfc50f1fab62a4ee8e91e.mp3"
-                ]
-            }
-        ]
-    },
-    {
-        "title" : "",
-        "type": "horizontal",
-        "playlists": [
-            {
                 "title": "Trending Now",
                 "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/teacup.jpg",
                 "audios": [
