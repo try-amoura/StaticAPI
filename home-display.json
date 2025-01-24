@@ -26,7 +26,72 @@
         ]
     },
     {
-        "title" : "Trending Now",
+        "title" : "",
+        "type": "bubble",
+        "playlists": [
+            {
+                "title": "Trending Now",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/whitenoise.jpg",
+                "audios": [
+                    "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
+                    "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+                ]
+            },
+            {
+                "title": "Teacups Audio",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/teacup.jpg",
+                "audios": [
+                    "https://n3.kemono.su/data/4c/9c/4c9cec5cca563edfd89f4b9c1b26bd0c5bdfd2c5f3cbe35b462365bfd4e968fc.mp3",
+                    "https://n2.kemono.su/data/32/e7/32e791f397bd2ba842a627e446d602d5e9f53eb4e93123c1e6729125fa5a32f2.mp3",
+                    "https://n2.kemono.su/data/00/19/001997964ea7033e48289e7769bffeba78266424321d831757eeca37a5490d06.mp3",
+                    "https://n4.kemono.su/data/dc/53/dc5374b5a9cee804cb79c495bf8e7a62586115f3eb8e6734defb5e1d9dcf9cd5.wav",
+                    "https://n3.kemono.su/data/d4/6f/d46fc9844077ba54396ef3f862b784a378bd85568779ddfbb9b11f07493eca6a.mp3",
+                    "https://n4.kemono.su/data/a3/68/a36893f6d78ab30828d32cae95175fbedc60febb0e4d7c9f37497acfc310adf1.mp3"
+                ]
+            }
+        ]
+    },
+    {
+        "title" : "",
+        "type": "horizontal",
+        "playlists": [
+            {
+                "title": "Rescently Added",
+                "image": "",
+                "audios": [
+                    "https://n3.kemono.su/data/b6/49/b649b60b8a05ed4e09981220c8f1a805ff0781d8ecb9d231bb40f127521f79f8.mp3"
+                ]
+            }
+        ]
+    },
+    {
+        "title" : "",
+        "type": "horizontal",
+        "playlists": [
+            {
+                "title": "",
+                "image": "",
+                "audios": [
+                    "https://n2.kemono.su/data/ca/34/ca34777a52fd9857bc65f77042f96bd64f0f91b171e6136a6e31cd6b5d618208.mp3"
+                ]
+            }
+        ]
+    },
+    {
+        "title" : "",
+        "type": "horizontal",
+        "playlists": [
+            {
+                "title": "",
+                "image": "",
+                "audios": [
+                    "https://n2.kemono.su/data/2e/a6/2ea63e996204318d880dac99bee04093102eb09549ecfc50f1fab62a4ee8e91e.mp3"
+                ]
+            }
+        ]
+    },
+    {
+        "title" : "",
         "type": "horizontal",
         "playlists": [
             {

@@ -136,7 +136,7 @@
         ]
     },
     {
-        "title" : "Mom",
+        "title" : "mom",
         "subtitle" : "Mom",
         "audios" : [
             "https://n1.kemono.su/data/ff/30/ff30ec23b58d4052cb7f9d5e0c27a2bc1f504608572652a93023b2f5305a20e8.mp3",
@@ -151,7 +151,15 @@
         ]
     },
     {
-        "title" : "Succubus",
+        "title" : "praise",
+        "subtitle" : "praise",
+        "audios" : [
+            "https://n3.kemono.su/data/b6/49/b649b60b8a05ed4e09981220c8f1a805ff0781d8ecb9d231bb40f127521f79f8.mp3",
+            "https://n2.kemono.su/data/77/6f/776fdd341628d1a5351aab8c6e78d94a315d0f973493dc096e55ac3a2121ca27.wav"
+        ]
+    },
+    {
+        "title" : "succubus",
         "subtitle" : "Succubus",
         "audios" : [
             "https://n4.kemono.su/data/34/c8/34c8e23b82c21eb72c9bcc9312925465037e800b93ae8ae8d7bdcdb026533413.mp3"
@@ -166,7 +174,7 @@
         ]
     },
     {
-        "title" : "Vampire",
+        "title" : "vampire",
         "subtitle" : "Vampire",
         "audios" : [
             "https://n3.kemono.su/data/ea/e0/eae03739f8443bcf6ded4d2a877d19f7280cae5e1192cc04c7172195cc2770fe.mp3"
