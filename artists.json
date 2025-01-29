@@ -86,9 +86,11 @@
       "https://n2.kemono.su/data/ca/34/ca34777a52fd9857bc65f77042f96bd64f0f91b171e6136a6e31cd6b5d618208.mp3",
       "https://n2.kemono.su/data/85/fe/85fe80257e74d8ab04104f9f7a9a79e71dc85b0f994ac9db3c7f5eb03c559d3a.wav",
       "https://n2.kemono.su/data/51/96/5196cc9eddae7762504e9617414b92ed156b950f175d6c0c246222720a99dfd6.mp3",
-      "https://n1.kemono.su/data/6d/2a/6d2a65367b4947daea30c6d8bfa306212c5bc4ebd8986454db1a5de0520aa2d6.mp3",
       "https://n3.kemono.su/data/b6/49/b649b60b8a05ed4e09981220c8f1a805ff0781d8ecb9d231bb40f127521f79f8.mp3",
-      "https://n4.kemono.su/data/34/c8/34c8e23b82c21eb72c9bcc9312925465037e800b93ae8ae8d7bdcdb026533413.mp3"
+      "https://n4.kemono.su/data/34/c8/34c8e23b82c21eb72c9bcc9312925465037e800b93ae8ae8d7bdcdb026533413.mp3",
+      "https://n2.kemono.su/data/01/f1/01f1ee587957c26b2e93b3cb13a42477a1fa9f6bd8378f61b195d8ca87a76506.mp3",
+      "https://n2.kemono.su/data/92/07/9207e6e5f9ff9a8ce20e0501e046da0e9157f5b52a810198fb8d43c6bfa7f653.mp3",
+      "https://n3.kemono.su/data/6b/34/6b3439b5d2b56a82e568b068070eeec586dce5f59457b5e83051fce2ac48e232.mp3"
     ]
   },
   {
@@ -104,7 +106,11 @@
     "gender" : "female",
     "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/endearinaudio.jpg",
     "audios" : [
-        "https://n2.kemono.su/data/15/f1/15f18d418551a928d0e512288c2ce9b566ca12c6fe620f2fb622dc34a70a1eb8.mp3"
+        "https://n4.kemono.su/data/c6/07/c6073f6ec1e3cf3e6a2adfcca7e35f0b5f98094eb62a455b4a77533790574eec.mp3",
+        "https://n2.kemono.su/data/2c/1a/2c1a30e86d934bea211bd3c30f91731ddd59eb2662cfa24bf848795a164d7409.mp3",
+        "https://n2.kemono.su/data/78/4d/784d58b05ccad622ddd1886da43b1dbb120510c61886b2c9501ef9102636f3d2.mp3",
+        "https://n4.kemono.su/data/07/da/07da1bd519c3145c7ae58086def655730a36154e2783382f1fc829dcf77430cc.mp3",
+        "https://n2.kemono.su/data/d3/d4/d3d4a1c45099323fb99ddf829c4deb93fdd1259293dd99fda8765da7e4723319.mp3"
     ]
   },
   {
@@ -112,8 +118,9 @@
     "gender" : "female",
     "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/ellyaudios.png",
     "audios" : [
-        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
-        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+        "https://n2.kemono.su/data/a2/12/a2120f0079684e48896668d27d3bf61409508e04dfa8bf0313c8869a233415b2.mp3",
+        "https://n1.kemono.su/data/a8/29/a82951a59e4ef1fbf6ff7f3f2152a0844d11cb5e1b86c0e73114af90cefdf71f.wav",
+        "https://n2.kemono.su/data/c2/e5/c2e591ac230cab89b3b39e47e0f575bc61b23c85d20904301086d621981799db.wav"
     ]
   },
   {
@@ -121,8 +128,11 @@
     "gender" : "male",
     "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/jaysamr.jpg",
     "audios" : [
-        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
-        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+        "https://n1.kemono.su/data/ac/a5/aca5171287a7ae6f4e6b0cf9c8537cb2b376a771e3ef10db7e0c3b865397f876.mp3",
+        "https://n4.kemono.su/data/6c/39/6c39cf04ede8b8637b991c144e613a461bd91066d69b8fc12212bec4d20fe098.mp3",
+        "https://n2.kemono.su/data/b5/c4/b5c45342d10a7e3b2601fc10d76729fe38f0a95411272eda93d563ba72d54de5.mp3",
+        "https://n2.kemono.su/data/b5/c4/b5c45342d10a7e3b2601fc10d76729fe38f0a95411272eda93d563ba72d54de5.mp3",
+        "https://n3.kemono.su/data/32/08/3208198fcf92bacd05d01b9b353454ba98eebfa3ff6f28b06f447a2e607c8221.mp3"
     ]
   },
   {
@@ -130,8 +140,10 @@
     "gender" : "female",
     "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/missblueaudios.jpg",
     "audios" : [
-        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
-        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+        "https://n3.kemono.su/data/32/08/3208198fcf92bacd05d01b9b353454ba98eebfa3ff6f28b06f447a2e607c8221.mp3",
+        "https://n1.kemono.su/data/69/af/69af536b42d53ea75843a56639e08f6a544d168f4bd94b2edd59072a25ae3928.mp3",
+        "https://n2.kemono.su/data/43/58/4358a2454bd60a25ef23d90e0394b6b348e9557e22aeb3e37fe1b8c7decb6931.mp3",
+        "https://n4.kemono.su/data/96/8f/968f306bac708d094179e2f427df0a0704a5811bef3a7c46eaf00a56775f3eb9.mp3"
     ]
   },
   {
@@ -139,8 +151,11 @@
     "gender" : "female",
     "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/allureenchanted.jpg",
     "audios" : [
-        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
-        "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+        "https://n4.kemono.su/data/96/8f/968f306bac708d094179e2f427df0a0704a5811bef3a7c46eaf00a56775f3eb9.mp3",
+        "https://n2.kemono.su/data/a6/94/a694999b17bc935a0e764361ee8a5863e65a4920ef21fddffe066b1ba9cc56a6.mp3",
+        "https://n2.kemono.su/data/34/e9/34e9b98c01f342872b06b5164871c5e7bd5f2c3de46442fec035affa00a83452.mp3",
+        "https://n3.kemono.su/data/86/e9/86e909915b230ec0050355ced763ac50a37aead4fa3fab5ff617b8c63ac15a80.mp3",
+        "https://n2.kemono.su/data/5c/fc/5cfc833310d398feb9b35541955ac7fc37f319421bbaa21272aa5ef6c5aa4776.mp3"
     ]
   },
   {
