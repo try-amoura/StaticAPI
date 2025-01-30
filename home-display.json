@@ -5,7 +5,7 @@
         "playlists": [
             {
                 "title": "Ex-girlfriend's Mom",
-                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/whitenoise.jpg",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/mom.png",
                 "audios": [
                     "https://n1.kemono.su/data/f5/13/f513f16f1cad1b7bc70ed03eee203ca599b05e02026bfd601665bbc548bb8b48.mp3",
                     "https://n3.kemono.su/data/4e/b2/4eb2718c22441f9a7da45e11531b4719477fe8b79c361902aa39b72ef5579c6f.mp3",
@@ -16,8 +16,8 @@
                 ]
             },
             {
-                "title": "Teacups Audio",
-                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/mom.png",
+                "title": "The Royal Knight",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/knight.png",
                 "audios": [
                     "https://n3.kemono.su/data/4c/9c/4c9cec5cca563edfd89f4b9c1b26bd0c5bdfd2c5f3cbe35b462365bfd4e968fc.mp3",
                     "https://n2.kemono.su/data/32/e7/32e791f397bd2ba842a627e446d602d5e9f53eb4e93123c1e6729125fa5a32f2.mp3",
