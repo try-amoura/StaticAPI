@@ -551,5 +551,18 @@
     "audios" : [
         "https://n2.kemono.su/data/88/7b/887ba73380f1f65cddba78edc5f9cee1bf3ac396489102dda5cf0aebd867f183.mp3"
     ]
+  },
+  {
+    "name" :  "MiyukiVA & ASMR",
+    "gender" : "female",
+    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/miyukiva.jpg",
+    "audios" : [
+        "https://n1.kemono.su/data/f5/13/f513f16f1cad1b7bc70ed03eee203ca599b05e02026bfd601665bbc548bb8b48.mp3",
+        "https://n3.kemono.su/data/4e/b2/4eb2718c22441f9a7da45e11531b4719477fe8b79c361902aa39b72ef5579c6f.mp3",
+        "https://n1.kemono.su/data/39/62/3962c9d12d33d4ad2d55943e38311f218f9694f203e8b731ac7d0b7c8d501aa9.mp3",
+        "https://n2.kemono.su/data/23/ea/23ea7dac623ec38602d02bab13b75daa8d5c38841f97190119a1942eee0b5c60.mp3",
+        "https://n2.kemono.su/data/23/ea/23ea7dac623ec38602d02bab13b75daa8d5c38841f97190119a1942eee0b5c60.mp3",
+        "https://n2.kemono.su/data/23/ea/23ea7dac623ec38602d02bab13b75daa8d5c38841f97190119a1942eee0b5c60.mp3"
+    ]
   }
 ]
