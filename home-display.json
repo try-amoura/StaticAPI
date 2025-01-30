@@ -19,13 +19,12 @@
                 "title": "The Royal Knight",
                 "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/knight.png",
                 "audios": [
-                    "https://n3.kemono.su/data/4c/9c/4c9cec5cca563edfd89f4b9c1b26bd0c5bdfd2c5f3cbe35b462365bfd4e968fc.mp3",
-                    "https://n2.kemono.su/data/32/e7/32e791f397bd2ba842a627e446d602d5e9f53eb4e93123c1e6729125fa5a32f2.mp3",
-                    "https://n2.kemono.su/data/00/19/001997964ea7033e48289e7769bffeba78266424321d831757eeca37a5490d06.mp3",
-                    "https://n4.kemono.su/data/dc/53/dc5374b5a9cee804cb79c495bf8e7a62586115f3eb8e6734defb5e1d9dcf9cd5.wav",
-                    "https://n3.kemono.su/data/d4/6f/d46fc9844077ba54396ef3f862b784a378bd85568779ddfbb9b11f07493eca6a.mp3",
-                    "https://n4.kemono.su/data/a3/68/a36893f6d78ab30828d32cae95175fbedc60febb0e4d7c9f37497acfc310adf1.mp3"
-                ]
+                    "https://n2.kemono.su/data/23/ea/23ea7dac623ec38602d02bab13b75daa8d5c38841f97190119a1942eee0b5c60.mp3",
+                    "https://n4.kemono.su/data/ad/f6/adf685c8ce0321deaef04e23d597260c5058e30826e1645f77e9149474c09be5.mp3",
+                    "https://n2.kemono.su/data/80/e5/80e52534ceb4e6f62d32d1ad2c54b9b2f02c5cd707f69ffb02c7ec96fdd3003a.mp3",
+                    "https://n4.kemono.su/data/fb/68/fb68a5472402acfeb9db07b3e8eeff9bf1dbe3b3979805f640d29c5dfe0a9e20.mp3",
+                    "https://n3.kemono.su/data/a3/0b/a30bd831aeac3d3f33d080e74c511be2c344b0dabab9bf3148774c7982184802.wav"
+                  ]
             }
         ]
     },
