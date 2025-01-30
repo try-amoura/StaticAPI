@@ -4,11 +4,15 @@
         "type": "banner",
         "playlists": [
             {
-                "title": "Trending Now",
+                "title": "Ex-girlfriend's Mom",
                 "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/whitenoise.jpg",
                 "audios": [
-                    "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2Faeroplane.m4a?alt=media&token=0967f30b-0af4-4fa3-be54-048dd25edef7",
-                    "https://firebasestorage.googleapis.com/v0/b/amoura-production.firebasestorage.app/o/Review%20Audio%2FFan.m4a?alt=media&token=344268a0-5100-4c3a-a699-78f554303d6a"
+                    "https://n1.kemono.su/data/f5/13/f513f16f1cad1b7bc70ed03eee203ca599b05e02026bfd601665bbc548bb8b48.mp3",
+                    "https://n3.kemono.su/data/4e/b2/4eb2718c22441f9a7da45e11531b4719477fe8b79c361902aa39b72ef5579c6f.mp3",
+                    "https://n1.kemono.su/data/39/62/3962c9d12d33d4ad2d55943e38311f218f9694f203e8b731ac7d0b7c8d501aa9.mp3",
+                    "https://n2.kemono.su/data/23/ea/23ea7dac623ec38602d02bab13b75daa8d5c38841f97190119a1942eee0b5c60.mp3",
+                    "https://n2.kemono.su/data/23/ea/23ea7dac623ec38602d02bab13b75daa8d5c38841f97190119a1942eee0b5c60.mp3",
+                    "https://n2.kemono.su/data/23/ea/23ea7dac623ec38602d02bab13b75daa8d5c38841f97190119a1942eee0b5c60.mp3"
                 ]
             },
             {
