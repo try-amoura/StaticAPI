@@ -140,10 +140,10 @@
     "gender" : "female",
     "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/missblueaudios.jpg",
     "audios" : [
-        "https://n3.kemono.su/data/32/08/3208198fcf92bacd05d01b9b353454ba98eebfa3ff6f28b06f447a2e607c8221.mp3",
         "https://n1.kemono.su/data/69/af/69af536b42d53ea75843a56639e08f6a544d168f4bd94b2edd59072a25ae3928.mp3",
         "https://n2.kemono.su/data/43/58/4358a2454bd60a25ef23d90e0394b6b348e9557e22aeb3e37fe1b8c7decb6931.mp3",
-        "https://n3.kemono.su/data/bf/cc/bfcc09b41e5077659f0e74a66449a032ed9e979144cc03d7a9ad676bc1af97e5.mp3"
+        "https://n3.kemono.su/data/bf/cc/bfcc09b41e5077659f0e74a66449a032ed9e979144cc03d7a9ad676bc1af97e5.mp3",
+        "https://n4.kemono.su/data/96/8f/968f306bac708d094179e2f427df0a0704a5811bef3a7c46eaf00a56775f3eb9.mp3"
     ]
   },
   {
