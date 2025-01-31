@@ -25,6 +25,26 @@
                     "https://n4.kemono.su/data/fb/68/fb68a5472402acfeb9db07b3e8eeff9bf1dbe3b3979805f640d29c5dfe0a9e20.mp3",
                     "https://n3.kemono.su/data/a3/0b/a30bd831aeac3d3f33d080e74c511be2c344b0dabab9bf3148774c7982184802.wav"
                   ]
+            },
+            {
+                "title": "Comfort Audios",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/comfort.png",
+                "audios": [
+                    "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/tOjzH2mJ3uQ8.mp3",
+                    "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/Mhjb4XNNGOs.mp3",
+                    "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/3bD0eNoB7Q8.mp3",
+                    "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/Jf8-gcTuOGU.mp3",
+                    "https://n4.kemono.su/data/6a/6a/6a6a70a98c519c0580226851127dad56a588131a7cd041f7a5f775cbedd74991.mp3",
+                    "https://n2.kemono.su/data/9a/ba/9aba5128c338ca832106dd05906f7b53a40305b4dacdaae7d109f9f4e5c03b23.wav",
+                    "https://n1.kemono.su/data/d2/ba/d2ba6a549ebf0bc784e070b58496be3a5530053202f76d726377b9b00b24c883.wav",
+                    "https://n2.kemono.su/data/77/6f/776fdd341628d1a5351aab8c6e78d94a315d0f973493dc096e55ac3a2121ca27.wav",
+                    "https://n3.kemono.su/data/1e/d4/1ed49c5be6cff86ff2127bcd0a966426244959b5a13007eee51fc88cc9e5dde3.wav",
+                    "https://n4.kemono.su/data/90/fb/90fb703083dc16b2c106ce75a6b73031018de7b760069cb83ed5e9280651b957.wav",
+                    "https://n1.kemono.su/data/a6/d6/a6d6689d73aacaaa565f248f76bdcef888d33fa1bac006ead6005152e9f50ad7.wav",
+                    "https://n3.kemono.su/data/4c/9c/4c9cec5cca563edfd89f4b9c1b26bd0c5bdfd2c5f3cbe35b462365bfd4e968fc.mp3",
+                    "https://n3.kemono.su/data/d4/6f/d46fc9844077ba54396ef3f862b784a378bd85568779ddfbb9b11f07493eca6a.mp3",
+                    "https://n2.kemono.su/data/92/07/9207e6e5f9ff9a8ce20e0501e046da0e9157f5b52a810198fb8d43c6bfa7f653.mp3"
+                  ]
             }
         ]
     },
