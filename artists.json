@@ -99,7 +99,13 @@
     "gender" : "female",
     "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/astrazelia.jpg",
     "audios" : [
-        "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/storemanager.mp3"
+        "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/storemanager.mp3",
+        "https://n3.kemono.su/data/bb/15/bb1541e6cdd01acf4d65ea3713ed3ba9e8d2ced018336af63c7cd8a3592c370d.mp3",
+        "https://n2.kemono.su/data/76/9a/769acb50a1f8ae3557b1c69b65b652a91df602bc14ccda58d6f2bbfab8eb1374.mp3",
+        "https://n2.kemono.su/data/43/7e/437eedc049f1368f73fba673073e4342df90719dffc58599c478901083ea849d.mp3",
+        "https://n2.kemono.su/data/b5/dc/b5dc7565863623161b9c5faf802546bb5fdda1f5f52fad234cdfe7b1e18c3ba8.mp3",
+        "https://n4.kemono.su/data/40/b9/40b90eb056bbc28a9bf951288a0371a14aa700d696bc447687e780ef1e449626.mp3",
+        "https://n3.kemono.su/data/83/d4/83d4f9949cf8030b96ff6c6bef26a26a265ac822aeb4e7ad73ada060dcf57a2a.mp3"
     ]
   },
   {
