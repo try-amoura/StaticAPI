@@ -407,6 +407,96 @@
         "type": "horizontal",
         "playlists": [
             {
+                "title": "Nightmare",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/playlist/nightmare.png",
+                "audios": [
+                    "https://n1.kemono.su/data/3e/f7/3ef70659b660320d90b4d1bd8ae32f0d631505df7ae57041b755f8ca659c41dc.wav"
+                ]
+            },
+            {
+                "title": "Sleep Aid",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/playlist/sleepaid.png",
+                "audios": [
+                    "https://n4.kemono.su/data/49/b9/49b96239e4a105d5026f9af8b6c83d715bb461e8c81069aa24c87f054faeb258.wav",
+                    "https://n2.kemono.su/data/9a/ba/9aba5128c338ca832106dd05906f7b53a40305b4dacdaae7d109f9f4e5c03b23.wav",
+                    "https://n3.kemono.su/data/af/d4/afd4d15ae19f9299edf77bef9078daf5bf082e0d9e9020bb95b1eb2e47d85c0f.wav",
+                    "https://n3.kemono.su/data/d5/f2/d5f223e35c9ddc5128bee95461761b310b1c0869d65d0b18c44164a7c206701e.wav",
+                    "https://n4.kemono.su/data/25/32/25326229f0897ff3eabbb9bffe585ac1a116540d731bc6f1f3f197e612a7d295.wav",
+                    "https://n1.kemono.su/data/b0/c4/b0c46b03bf24fbe0f0a2fdfbe4eb0a899e051682cfcc7cfecb6d50af002d3c7a.mp3",
+                    "https://n1.kemono.su/data/d2/ba/d2ba6a549ebf0bc784e070b58496be3a5530053202f76d726377b9b00b24c883.wav",
+                    "https://n1.kemono.su/data/30/73/3073306a9795b4065bdbd44ffd0c65638a707e1d1cbb0b4678fbc8d1b0fb0899.wav",
+                    "https://n4.kemono.su/data/42/8b/428bda1a04886997be12af9a9938a28ec50895937e909be402723cb92c31570e.wav",
+                    "https://n2.kemono.su/data/77/6f/776fdd341628d1a5351aab8c6e78d94a315d0f973493dc096e55ac3a2121ca27.wav",
+                    "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/6MpcZgZshl4.mp3",
+                    "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/Mhjb4XNNGOs.mp3",
+                    "https://n2.kemono.su/data/ca/34/ca34777a52fd9857bc65f77042f96bd64f0f91b171e6136a6e31cd6b5d618208.mp3",
+                    "https://n3.kemono.su/data/b6/49/b649b60b8a05ed4e09981220c8f1a805ff0781d8ecb9d231bb40f127521f79f8.mp3",
+                    "https://n2.kemono.su/data/76/9a/769acb50a1f8ae3557b1c69b65b652a91df602bc14ccda58d6f2bbfab8eb1374.mp3",
+                    "https://n2.kemono.su/data/76/9a/769acb50a1f8ae3557b1c69b65b652a91df602bc14ccda58d6f2bbfab8eb1374.mp3",
+                    "https://n2.kemono.su/data/b5/dc/b5dc7565863623161b9c5faf802546bb5fdda1f5f52fad234cdfe7b1e18c3ba8.mp3",
+                    "https://n4.kemono.su/data/b3/b8/b3b869899b471bac6ea59db77d903e939994158cc4a577232ad104149d2c619f.mp3",
+                    "https://n3.kemono.su/data/e0/0d/e00db588bfc18fe1621494a44350ddfefe7d576654c7bb247428afe2b32f3b8e.wav"
+                ]
+            },
+            {
+                "title": "Heartbreak",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/playlist/heartbreak.png",
+                "audios": [
+                    "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/3bD0eNoB7Q8.mp3"
+                ]
+            },
+            {
+                "title": "Sickness",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/playlist/sick.png",
+                "audios": [
+                    "https://n2.kemono.su/data/1c/19/1c19070f8e9b50127834657673f7b843cb76c9ad184f5d5f87acce21fb472111.wav",
+                    "https://n1.kemono.su/data/5f/17/5f170c328c6b11ad6a0315c9be29110061ef1e2be053615b2981738371600a33.wav"
+                ]
+            },
+            {
+                "title": "Loneliness",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/playlist/loneliness.png",
+                "audios": [
+                    "https://n2.kemono.su/data/2c/1a/2c1a30e86d934bea211bd3c30f91731ddd59eb2662cfa24bf848795a164d7409.mp3"
+                ]
+            },
+            {
+                "title": "Depression",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/playlist/depression.png",
+                "audios": [
+                    "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/3bD0eNoB7Q8.mp3"
+                ]
+            },
+            {
+                "title": "Anxiety",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/playlist/anxiety.png",
+                "audios": [
+                    "https://n3.kemono.su/data/bb/15/bb1541e6cdd01acf4d65ea3713ed3ba9e8d2ced018336af63c7cd8a3592c370d.mp3"
+                ]
+            },
+            {
+                "title": "Stress",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/playlist/stress.png",
+                "audios": [
+                    "https://n3.kemono.su/data/bb/15/bb1541e6cdd01acf4d65ea3713ed3ba9e8d2ced018336af63c7cd8a3592c370d.mp3"
+                ]
+            },
+            {
+                "title": "Crying",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/playlist/crying.png",
+                "audios": [
+                    "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/3bD0eNoB7Q8.mp3",
+                    "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/Jf8-gcTuOGU.mp3",
+                    "https://n4.kemono.su/data/6a/6a/6a6a70a98c519c0580226851127dad56a588131a7cd041f7a5f775cbedd74991.mp3"
+                ]
+            }
+        ]
+    },
+    {
+        "title" : "",
+        "type": "horizontal",
+        "playlists": [
+            {
                 "title": "New Audios",
                 "image": "",
                 "audios": [
