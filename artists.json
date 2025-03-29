@@ -178,7 +178,9 @@
         "https://n1.kemono.su/data/b6/ae/b6aed457ede230da004e1438ea8ed7fd33c5ce2641400f245a5d5b92bbacf6e6.mp3",
         "https://n3.kemono.su/data/95/e5/95e5f241fa4d58e5594e7d25e404954cd919a3af5d904efafb97903d2ed8cd1f.mp3",
         "https://n3.kemono.su/data/56/c6/56c61cf93228be56d2aaa54970da66305371fa8e26d3ae42de4e298fb9232a9a.mp3",
-        "https://n4.kemono.su/data/44/a2/44a2fdbb68eda10d341b662a79da1eb30bf713566a4751fe7567da856b2eccfb.mp3"
+        "https://n4.kemono.su/data/44/a2/44a2fdbb68eda10d341b662a79da1eb30bf713566a4751fe7567da856b2eccfb.mp3",
+        "https://n1.kemono.su/data/25/89/258971092d2382dff1764b46e42102210d280b738405b86905a88459dd73dc4a.mp3",
+        "https://n1.kemono.su/data/5e/5a/5e5a3601ee718edccff7c3c130697989c6da79fa08e7ee17e932c1d1be710b4d.mp3"
     ]
   },
   {
@@ -192,7 +194,8 @@
         "https://n2.kemono.su/data/5c/fc/5cfc833310d398feb9b35541955ac7fc37f319421bbaa21272aa5ef6c5aa4776.mp3",
         "https://n2.kemono.su/data/4c/b5/4cb5419608dcc50feefcf7551f97e1734c22c36b11da4185396f9aff281c0fbd.mp3",
         "https://n4.kemono.su/data/0f/f0/0ff01380595e817ed0884e7b48605f3d4fa5b28b72701fbd2fc9376e8ac2fdb0.mp3",
-        "https://n3.kemono.su/data/e1/d1/e1d17edb8a7854ed9b7cf4d42df80b56ba3f25671c34e814e577cac552c84b99.mp3"
+        "https://n3.kemono.su/data/e1/d1/e1d17edb8a7854ed9b7cf4d42df80b56ba3f25671c34e814e577cac552c84b99.mp3",
+        "https://n1.kemono.su/data/01/43/0143c7d296e141ae07c6fdcd4d9d10b5f644b9feba3b6523c6902e9b5896ce22.wav"
     ]
   },
   {
@@ -225,7 +228,9 @@
     "gender" : "female",
     "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/audioharlot.jpeg",
     "audios" : [
-        "https://n3.kemono.su/data/70/d6/70d6cb6e4cc536d65ac4a002b42dd93afb7e4a0a84bb527d00609c67171a20d5.oga?f=Pins+And+Needles.ogg"
+        "https://n3.kemono.su/data/70/d6/70d6cb6e4cc536d65ac4a002b42dd93afb7e4a0a84bb527d00609c67171a20d5.oga?f=Pins+And+Needles.ogg",
+        "https://n1.kemono.su/data/77/93/7793201f0754191d7452663b872f6f0d8ef33499f9d48fcf3242017663418a8d.mp3",
+        "https://n2.kemono.su/data/e4/88/e4880a0f2d7cd112ea4c0975475d445978eb56ced754bb36df85c6b942a07ad4.mp3"
     ]
   },
   {
@@ -241,7 +246,8 @@
     "gender" : "female",
     "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/myralaudio.jpg",
     "audios" : [
-        
+        "https://n4.kemono.su/data/b6/e1/b6e1e91df78d6ea6bec45398ffb29ffd157173c65af5eaa021b88b82c20eab5a.mp3",
+        "https://n1.kemono.su/data/57/a5/57a5cf6949176b5de5669f5c38c584c355a316a9f967923ab2c89b36cc310e0e.mp3"
     ]
   },
   {
@@ -281,7 +287,7 @@
     "gender" : "female",
     "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/horizonaudios.jpeg",
     "audios" : [
-        
+        "https://n2.kemono.su/data/48/8c/488c73b144588877d3baffaf47bd244c47a89846b47fc656580e2af69368a3ac.mp3"
     ]
   },
   {
