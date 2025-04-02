@@ -411,7 +411,11 @@
     "gender" : "female",
     "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/shortcake.png",
     "audios" : [
-        
+        "https://n1.kemono.su/data/c0/d0/c0d05423dd1356a8f31efefd37d3d6db45c5e20e3b8b660afd8e7b33091764a0.mp3",
+        "https://n4.kemono.su/data/6b/db/6bdbb6e66b3ddedc081582176f347bfdab2f3b2215bce5872745e37bfaf6da02.mp3",
+        "https://n3.kemono.su/data/84/49/8449225731c717206bd34138528a4f41e2f71cec986826f0986b3538a880d6b4.mp3",
+        "https://n4.kemono.su/data/dc/a6/dca65d18e39c9f135284f2e3f3fc2177f0fc4a33030408e86c9fd54af7bdf38f.mp3",
+        "https://n2.kemono.su/data/79/60/79606c500b091b36e07269511c16acb3e0692191f6a8ab63a75964307f5e8bf3.mp3"
     ]
   },
   {
