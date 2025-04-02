@@ -471,7 +471,8 @@
                 "title": "Loneliness",
                 "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/playlist/loneliness.png",
                 "audios": [
-                    "https://n2.kemono.su/data/2c/1a/2c1a30e86d934bea211bd3c30f91731ddd59eb2662cfa24bf848795a164d7409.mp3"
+                    "https://n2.kemono.su/data/2c/1a/2c1a30e86d934bea211bd3c30f91731ddd59eb2662cfa24bf848795a164d7409.mp3",
+                    "https://n2.kemono.su/data/63/b5/63b50e6578205ed9646ef4ad7f31f585f99a38fcff86715fad7cd0ac897ec53b.mp3"
                 ]
             },
             {
@@ -492,7 +493,8 @@
                 "title": "Stress",
                 "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/playlist/stress.png",
                 "audios": [
-                    "https://n3.kemono.su/data/bb/15/bb1541e6cdd01acf4d65ea3713ed3ba9e8d2ced018336af63c7cd8a3592c370d.mp3"
+                    "https://n3.kemono.su/data/bb/15/bb1541e6cdd01acf4d65ea3713ed3ba9e8d2ced018336af63c7cd8a3592c370d.mp3",
+                    "https://n2.kemono.su/data/2c/1a/2c1a30e86d934bea211bd3c30f91731ddd59eb2662cfa24bf848795a164d7409.mp3"
                 ]
             },
             {
