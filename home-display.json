@@ -839,17 +839,63 @@
         "type": "horizontal",
         "playlists": [
             {
-                "title": "Endearin’ Audio",
-                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/endearinaudio.jpg",
-                "audios": [
-                    "https://n4.kemono.su/data/c6/07/c6073f6ec1e3cf3e6a2adfcca7e35f0b5f98094eb62a455b4a77533790574eec.mp3",
-                    "https://n2.kemono.su/data/2c/1a/2c1a30e86d934bea211bd3c30f91731ddd59eb2662cfa24bf848795a164d7409.mp3",
-                    "https://n2.kemono.su/data/78/4d/784d58b05ccad622ddd1886da43b1dbb120510c61886b2c9501ef9102636f3d2.mp3",
-                    "https://n4.kemono.su/data/07/da/07da1bd519c3145c7ae58086def655730a36154e2783382f1fc829dcf77430cc.mp3",
-                    "https://n2.kemono.su/data/d3/d4/d3d4a1c45099323fb99ddf829c4deb93fdd1259293dd99fda8765da7e4723319.mp3",
-                    "https://n4.kemono.su/data/4a/78/4a78dd567d54a3c24163872da63ee96082188e40b99df4ce97fec6c296c7c69b.mp3",
-                    "https://n4.kemono.su/data/b3/b8/b3b869899b471bac6ea59db77d903e939994158cc4a577232ad104149d2c619f.mp3",
-                    "https://n3.kemono.su/data/1e/80/1e80d35a6063a6b010a99bfa1648a5c5e553451e03c2dc4bda030e2120dd59df.mp3"
+                "title" :  "PuppyVA",
+                "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/puppyva.jpg",
+                "audios" : [
+                    "https://n4.kemono.su/data/1c/5e/1c5eb7d1a67ddd17cca7e937d90a5ac850614e7c5134fe0cc1800a81a320d110.mp3",
+                    "https://n3.kemono.su/data/96/b0/96b0979b544a67127a409c02e3310a90a97cd71e73dbcc96affb0de73b694871.mp3",
+                    "https://n4.kemono.su/data/2b/85/2b85c781d12dfba32b3a6db1a3fe87d6b23dbb19d181550f2b3a69a7f13efad6.wav",
+                    "https://n1.kemono.su/data/b9/14/b91420045a4f5f9fb1b0fd17ef968224695a352dca5d3e4b2d2f21a0bc8bd919.wav",
+                    "https://n2.kemono.su/data/63/b5/63b50e6578205ed9646ef4ad7f31f585f99a38fcff86715fad7cd0ac897ec53b.mp3",
+                    "https://n3.kemono.su/data/93/a0/93a0aad39349d633236612bb151872c255a4ee58e51b65dd2b9eabdacac58ab0.mp3"
+                ]
+            },
+            {
+                "title" :  "Dangerous ASMR",
+                "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/dangerousasmr.jpg",
+                "audios" : [
+                    "https://n1.kemono.su/data/37/03/37034ca014ed708abdf22444f6641858d65cccf5c6a5c4273069d1e4791efb4f.mp3",
+                    "https://n2.kemono.su/data/f1/41/f141ed4e6f7f04e67d7db3a344caf12211c9a2aba8b61578b929c44d82effc30.mp3",
+                    "https://n1.kemono.su/data/4c/c8/4cc87ffbb22c46db002ffb93a6f13a516d46d2077db70df99f024935d2d49651.mp3",
+                    "https://n4.kemono.su/data/80/75/8075bc3d054dd401fba50f854ab3486f3d3ba41d06ab9bea1e370d69bd001330.mp3",
+                    "https://n4.kemono.su/data/09/3c/093c3a276780c1b96e4a0ab99445bc93201aafd11326d2b83731c9c2ab21d53a.mp3",
+                    "https://n2.kemono.su/data/46/fd/46fd441ac985c9a2fbe33524cfeeab2e8338d41139281d35ec138393d62a1b34.mp3",
+                    "https://n1.kemono.su/data/6e/04/6e0411d9491232029c2aebe677fd0c5d5f64ba45c4ce5abc9ff5211764753ec3.mp3",
+                    "https://n4.kemono.su/data/83/fb/83fb1bd450afaba54daf5aec61eada57a32a7e9c2da7dcdb0de41b7cb61d602c.mp3",
+                    "https://n4.kemono.su/data/8a/e3/8ae3f9a7ba9825dd7a9d8b48c4474449a36f1b135856c9d85b74f7e31dd782b4.wav"
+                ]
+            },
+            {
+                "title" :  "Afterglow ASMR",
+                "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/afterglowasmr.jpg",
+                "audios" : [
+                    "https://n4.kemono.su/data/e9/ee/e9ee65f3c8cacf98982093a8b3c1a295c68cd0427c6418197572efca35a58b73.mp3",
+                    "https://n1.kemono.su/data/5f/7c/5f7cf15b99c67c9d25552d8b62839e27542db948011bfa952146a8b7b00037f0.mp3",
+                    "https://n4.kemono.su/data/32/92/32927c18efdee8fca8341f57b3bdf00d729df304525fbcb1842226602f8ffc6f.mp3",
+                    "https://n4.kemono.su/data/32/92/32927c18efdee8fca8341f57b3bdf00d729df304525fbcb1842226602f8ffc6f.mp3",
+                    "https://n1.kemono.su/data/ac/59/ac59544ac55b85a19cdc154b3ac561c57232546e64dea9bf6f9d7c09ee145420.mp3",
+                    "https://n2.kemono.su/data/c0/25/c0250fbcef49ef9bc10c3a42ef6fd98d94576b8f675c05d16606ad5df0d72bf5.mp3",
+                    "https://n2.kemono.su/data/0c/33/0c33e7c809df0899ee1b3ec2be815da57a04ddae1d75b306f1967c75ece26fb7.mp3"
+                ]
+            },
+            {
+                "title" :  "Shortcake",
+                "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/shortcake.png",
+                "audios" : [
+                    "https://n1.kemono.su/data/c0/d0/c0d05423dd1356a8f31efefd37d3d6db45c5e20e3b8b660afd8e7b33091764a0.mp3",
+                    "https://n4.kemono.su/data/6b/db/6bdbb6e66b3ddedc081582176f347bfdab2f3b2215bce5872745e37bfaf6da02.mp3",
+                    "https://n3.kemono.su/data/84/49/8449225731c717206bd34138528a4f41e2f71cec986826f0986b3538a880d6b4.mp3",
+                    "https://n4.kemono.su/data/dc/a6/dca65d18e39c9f135284f2e3f3fc2177f0fc4a33030408e86c9fd54af7bdf38f.mp3",
+                    "https://n2.kemono.su/data/79/60/79606c500b091b36e07269511c16acb3e0692191f6a8ab63a75964307f5e8bf3.mp3"
+                ]
+            },
+            {
+                "title" :  "Audi's Apothecary",
+                "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/audioharlot.jpeg",
+                "audios" : [
+                    "https://n1.kemono.su/data/77/93/7793201f0754191d7452663b872f6f0d8ef33499f9d48fcf3242017663418a8d.mp3",
+                    "https://n2.kemono.su/data/e4/88/e4880a0f2d7cd112ea4c0975475d445978eb56ced754bb36df85c6b942a07ad4.mp3",
+                    "https://n3.kemono.su/data/c4/57/c457177b9d640e31cdf28c0095c396d739fa20a01148446f2e38ec28967227d0.mp3"
                 ]
             },
             {
