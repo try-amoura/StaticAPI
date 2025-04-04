@@ -115,7 +115,8 @@
         "audios" : [
             "https://n2.kemono.su/data/43/7e/437eedc049f1368f73fba673073e4342df90719dffc58599c478901083ea849d.mp3",
             "https://n2.kemono.su/data/c2/e5/c2e591ac230cab89b3b39e47e0f575bc61b23c85d20904301086d621981799db.wav",
-            "https://n1.kemono.su/data/27/b4/27b4f263afb26572dcfe78324014e787a69e68ab5c117fa28c4c2a88c2ba1a53.mp3"
+            "https://n1.kemono.su/data/27/b4/27b4f263afb26572dcfe78324014e787a69e68ab5c117fa28c4c2a88c2ba1a53.mp3",
+            "https://n2.kemono.su/data/78/4d/784d58b05ccad622ddd1886da43b1dbb120510c61886b2c9501ef9102636f3d2.mp3"
         ]
     },
     {
@@ -1069,13 +1070,7 @@
         "subtitle" : "",
         "audios" : [
             "https://n4.kemono.su/data/09/3c/093c3a276780c1b96e4a0ab99445bc93201aafd11326d2b83731c9c2ab21d53a.mp3",
-            "https://n1.kemono.su/data/5f/7c/5f7cf15b99c67c9d25552d8b62839e27542db948011bfa952146a8b7b00037f0.mp3"
-        ]
-    },
-    {
-        "title" : "depression comfort",
-        "subtitle" : "",
-        "audios" : [
+            "https://n1.kemono.su/data/5f/7c/5f7cf15b99c67c9d25552d8b62839e27542db948011bfa952146a8b7b00037f0.mp3",
             "https://n4.kemono.su/data/79/70/7970813d175c54369156bfae94809e4f10412f0b561b6773833fafe983fbb92c.mp3"
         ]
     }
