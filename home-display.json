@@ -4,41 +4,31 @@
         "type": "banner",
         "playlists": [
             {
-                "title": "Thicc Girlfriend Series",
-                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/thiccgirlfriendseries.png",
+                "title": "Friends To Lovers",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/friendsToLovers.png",
                 "audios": [
-                    "https://n3.kemono.su/data/cd/19/cd19996bfc04c0b88596a804a1bd5e06fe9421ba2f58ffc6e7fba73659e7a87e.mp3",
-                    "https://n4.kemono.su/data/a2/e3/a2e3962e4bcb759d9a4d7a1b92ac0eef76236ad5789479efbd51cf2d135c2fc3.mp3",
-                    "https://n3.kemono.su/data/56/c6/56c61cf93228be56d2aaa54970da66305371fa8e26d3ae42de4e298fb9232a9a.mp3",
-                    "https://n3.kemono.su/data/86/e9/86e909915b230ec0050355ced763ac50a37aead4fa3fab5ff617b8c63ac15a80.mp3",
-                    "https://n4.kemono.su/data/da/2c/da2c3496d00de32515a79e2b9c14b9067c0bb2ff49df693bdd267a0fae7c2830.mp3",
-                    "https://n4.kemono.su/data/7a/7d/7a7da26ded33254df6957404a60443b88a4c7fd5eeb0eb626dda062377cdba75.mp3",
-                    "https://n2.kemono.su/data/27/a7/27a7e152f16f3d8a995cd20533c8f7fd3abb5199463bf2227632820db5f198a9.mp3",
-                    "https://n1.kemono.su/data/f2/e0/f2e0227e21acd936bb02a6bbe7cf790eff9265fa35faaa5cbb4bd21f157389ba.mp3"
+                    "https://n1.kemono.su/data/30/73/3073306a9795b4065bdbd44ffd0c65638a707e1d1cbb0b4678fbc8d1b0fb0899.wav",
+                    "https://n4.kemono.su/data/42/8b/428bda1a04886997be12af9a9938a28ec50895937e909be402723cb92c31570e.wav",
+                    "https://n4.kemono.su/data/26/de/26de0055c27d975ab3fdb3de8479dcf67bc646fa2a2389628635d3adea5b9c2b.wav",
+                    "https://n1.kemono.su/data/5f/17/5f170c328c6b11ad6a0315c9be29110061ef1e2be053615b2981738371600a33.wav",
+                    "https://n4.kemono.su/data/ae/5c/ae5c27e6c5437338d538369204dfbf1de2e6e7bf00778b3dcd9dd9a647be20dd.wav",
+                    "https://n1.kemono.su/data/3e/f7/3ef70659b660320d90b4d1bd8ae32f0d631505df7ae57041b755f8ca659c41dc.wav",
+                    "https://n3.kemono.su/data/2c/4f/2c4f1ba427cb61cd966c0a6a6930bb026bbdde1de3804e961fc9e4f27bfcd281.wav",
+                    "https://n2.kemono.su/data/7b/a8/7ba838093584fd08e9c9a80c5c587f5234687973bf9ff88b915fbf5be248374b.wav",
+                    "https://n4.kemono.su/data/90/fb/90fb703083dc16b2c106ce75a6b73031018de7b760069cb83ed5e9280651b957.wav",
+                    "https://n2.kemono.su/data/78/4d/784d58b05ccad622ddd1886da43b1dbb120510c61886b2c9501ef9102636f3d2.mp3",
+                    "https://n4.kemono.su/data/07/da/07da1bd519c3145c7ae58086def655730a36154e2783382f1fc829dcf77430cc.mp3",
+                    "https://n2.kemono.su/data/a2/12/a2120f0079684e48896668d27d3bf61409508e04dfa8bf0313c8869a233415b2.mp3",
+                    "https://n1.kemono.su/data/a8/29/a82951a59e4ef1fbf6ff7f3f2152a0844d11cb5e1b86c0e73114af90cefdf71f.wav",
+                    "https://n2.kemono.su/data/b5/c4/b5c45342d10a7e3b2601fc10d76729fe38f0a95411272eda93d563ba72d54de5.mp3",
+                    "https://n1.kemono.su/data/69/af/69af536b42d53ea75843a56639e08f6a544d168f4bd94b2edd59072a25ae3928.mp3",
+                    "https://n4.kemono.su/data/89/78/897857767ad29f10c5282d35f9ca1731b2378e3cf7af84eaf7102b0ba3c5556c.mp3",
+                    "https://n3.kemono.su/data/6b/34/6b3439b5d2b56a82e568b068070eeec586dce5f59457b5e83051fce2ac48e232.mp3",
+                    "https://n3.kemono.su/data/bf/ac/bfacea12949a3f7c1f76aada4da793a6b15eb2c906126077d83db95202001ea3.mp3",
+                    "https://n2.kemono.su/data/f6/c7/f6c72f984312df135fc5a77f42d6ca2597d7cd4db334f60a890476bf7112a354.mp3",
+                    "https://n4.kemono.su/data/32/92/32927c18efdee8fca8341f57b3bdf00d729df304525fbcb1842226602f8ffc6f.mp3",
+                    "https://n1.kemono.su/data/ac/59/ac59544ac55b85a19cdc154b3ac561c57232546e64dea9bf6f9d7c09ee145420.mp3"
                 ]
-            },
-            {
-                "title": "Ex-girlfriend's Mom",
-                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/mom.png",
-                "audios": [
-                    "https://n1.kemono.su/data/f5/13/f513f16f1cad1b7bc70ed03eee203ca599b05e02026bfd601665bbc548bb8b48.mp3",
-                    "https://n3.kemono.su/data/4e/b2/4eb2718c22441f9a7da45e11531b4719477fe8b79c361902aa39b72ef5579c6f.mp3",
-                    "https://n1.kemono.su/data/39/62/3962c9d12d33d4ad2d55943e38311f218f9694f203e8b731ac7d0b7c8d501aa9.mp3",
-                    "https://n2.kemono.su/data/23/ea/23ea7dac623ec38602d02bab13b75daa8d5c38841f97190119a1942eee0b5c60.mp3",
-                    "https://n3.kemono.su/data/62/ea/62ea0e2adec498eb05958a27a9fb087136b80d23dbe2ae85b93883ee37abbe62.mp3",
-                    "https://n1.kemono.su/data/97/68/9768940a62dde69d82b132c4fa5948e7d1ddd6f3716829d90e0fe026b8a83826.wav"
-                ]
-            },
-            {
-                "title": "The Royal Knight",
-                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/knight2.png",
-                "audios": [
-                    "https://n4.kemono.su/data/b1/9c/b19c899998a797d794458f773387d2a481c7f680dfa9f6073092dcb9617078e9.mp3",
-                    "https://n4.kemono.su/data/ad/f6/adf685c8ce0321deaef04e23d597260c5058e30826e1645f77e9149474c09be5.mp3",
-                    "https://n2.kemono.su/data/80/e5/80e52534ceb4e6f62d32d1ad2c54b9b2f02c5cd707f69ffb02c7ec96fdd3003a.mp3",
-                    "https://n4.kemono.su/data/fb/68/fb68a5472402acfeb9db07b3e8eeff9bf1dbe3b3979805f640d29c5dfe0a9e20.mp3",
-                    "https://n3.kemono.su/data/a3/0b/a30bd831aeac3d3f33d080e74c511be2c344b0dabab9bf3148774c7982184802.wav"
-                  ]
             },
             {
                 "title": "Comfort Audios",
@@ -58,6 +48,31 @@
                     "https://n3.kemono.su/data/4c/9c/4c9cec5cca563edfd89f4b9c1b26bd0c5bdfd2c5f3cbe35b462365bfd4e968fc.mp3",
                     "https://n3.kemono.su/data/d4/6f/d46fc9844077ba54396ef3f862b784a378bd85568779ddfbb9b11f07493eca6a.mp3",
                     "https://n2.kemono.su/data/92/07/9207e6e5f9ff9a8ce20e0501e046da0e9157f5b52a810198fb8d43c6bfa7f653.mp3"
+                  ]
+            }
+            {
+                "title": "Thicc Girlfriend Series",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/thiccgirlfriendseries.png",
+                "audios": [
+                    "https://n3.kemono.su/data/cd/19/cd19996bfc04c0b88596a804a1bd5e06fe9421ba2f58ffc6e7fba73659e7a87e.mp3",
+                    "https://n4.kemono.su/data/a2/e3/a2e3962e4bcb759d9a4d7a1b92ac0eef76236ad5789479efbd51cf2d135c2fc3.mp3",
+                    "https://n3.kemono.su/data/56/c6/56c61cf93228be56d2aaa54970da66305371fa8e26d3ae42de4e298fb9232a9a.mp3",
+                    "https://n3.kemono.su/data/86/e9/86e909915b230ec0050355ced763ac50a37aead4fa3fab5ff617b8c63ac15a80.mp3",
+                    "https://n4.kemono.su/data/da/2c/da2c3496d00de32515a79e2b9c14b9067c0bb2ff49df693bdd267a0fae7c2830.mp3",
+                    "https://n4.kemono.su/data/7a/7d/7a7da26ded33254df6957404a60443b88a4c7fd5eeb0eb626dda062377cdba75.mp3",
+                    "https://n2.kemono.su/data/27/a7/27a7e152f16f3d8a995cd20533c8f7fd3abb5199463bf2227632820db5f198a9.mp3",
+                    "https://n1.kemono.su/data/f2/e0/f2e0227e21acd936bb02a6bbe7cf790eff9265fa35faaa5cbb4bd21f157389ba.mp3"
+                ]
+            },
+            {
+                "title": "The Royal Knight",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/knight2.png",
+                "audios": [
+                    "https://n4.kemono.su/data/b1/9c/b19c899998a797d794458f773387d2a481c7f680dfa9f6073092dcb9617078e9.mp3",
+                    "https://n4.kemono.su/data/ad/f6/adf685c8ce0321deaef04e23d597260c5058e30826e1645f77e9149474c09be5.mp3",
+                    "https://n2.kemono.su/data/80/e5/80e52534ceb4e6f62d32d1ad2c54b9b2f02c5cd707f69ffb02c7ec96fdd3003a.mp3",
+                    "https://n4.kemono.su/data/fb/68/fb68a5472402acfeb9db07b3e8eeff9bf1dbe3b3979805f640d29c5dfe0a9e20.mp3",
+                    "https://n3.kemono.su/data/a3/0b/a30bd831aeac3d3f33d080e74c511be2c344b0dabab9bf3148774c7982184802.wav"
                   ]
             }
         ]
