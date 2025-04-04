@@ -343,7 +343,7 @@
         "type": "horizontal",
         "playlists": [
             {
-                "title": "Free Preview",
+                "title": "Free Preview Audios",
                 "image": "",
                 "audios": [
                     "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/XrdOr7cv9RI.mp3",
