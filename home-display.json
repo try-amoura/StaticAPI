@@ -1,22 +1,6 @@
 [
     {
         "title" : "",
-        "type": "horizontal",
-        "playlists": [
-            {
-                "title": "Free Preview",
-                "image": "",
-                "audios": [
-                    "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/XrdOr7cv9RI.mp3",
-                    "https://n4.kemono.su/data/6a/6a/6a6a70a98c519c0580226851127dad56a588131a7cd041f7a5f775cbedd74991.mp3",
-                    "https://n3.kemono.su/data/bb/15/bb1541e6cdd01acf4d65ea3713ed3ba9e8d2ced018336af63c7cd8a3592c370d.mp3",
-                    "https://n3.kemono.su/data/1e/80/1e80d35a6063a6b010a99bfa1648a5c5e553451e03c2dc4bda030e2120dd59df.mp3"
-                ]
-            }
-        ]
-    },
-    {
-        "title" : "",
         "type": "banner",
         "playlists": [
             {
@@ -350,6 +334,22 @@
                     "https://n1.kemono.su/data/b6/ae/b6aed457ede230da004e1438ea8ed7fd33c5ce2641400f245a5d5b92bbacf6e6.mp3",
                     "https://n3.kemono.su/data/95/e5/95e5f241fa4d58e5594e7d25e404954cd919a3af5d904efafb97903d2ed8cd1f.mp3",
                     "https://n4.kemono.su/data/44/a2/44a2fdbb68eda10d341b662a79da1eb30bf713566a4751fe7567da856b2eccfb.mp3"
+                ]
+            }
+        ]
+    },
+    {
+        "title" : "",
+        "type": "horizontal",
+        "playlists": [
+            {
+                "title": "Free Preview",
+                "image": "",
+                "audios": [
+                    "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/XrdOr7cv9RI.mp3",
+                    "https://n4.kemono.su/data/6a/6a/6a6a70a98c519c0580226851127dad56a588131a7cd041f7a5f775cbedd74991.mp3",
+                    "https://n3.kemono.su/data/bb/15/bb1541e6cdd01acf4d65ea3713ed3ba9e8d2ced018336af63c7cd8a3592c370d.mp3",
+                    "https://n3.kemono.su/data/1e/80/1e80d35a6063a6b010a99bfa1648a5c5e553451e03c2dc4bda030e2120dd59df.mp3"
                 ]
             }
         ]
