@@ -113,7 +113,7 @@
         ]
     },
     {
-        "title" : "Popular Categories",
+        "title" : "",
         "type": "bubble",
         "playlists": [
             {
