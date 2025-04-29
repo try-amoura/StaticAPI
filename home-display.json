@@ -4,6 +4,24 @@
         "type": "banner",
         "playlists": [
             {
+                "title": "Thighs Save Lives",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/thighs.png",
+                "audios": [
+                    "https://n3.kemono.su/data/cd/19/cd19996bfc04c0b88596a804a1bd5e06fe9421ba2f58ffc6e7fba73659e7a87e.mp3",
+                    "https://n4.kemono.su/data/7a/7d/7a7da26ded33254df6957404a60443b88a4c7fd5eeb0eb626dda062377cdba75.mp3",
+                    "https://n1.kemono.su/data/ef/99/ef994ac4802986d95cc8562487788ba4e49c71207b155db25c3f5e1588209a08.wav",
+                    "https://n1.kemono.su/data/f7/f9/f7f925701ebea4efb83af6a0b10349b682d97f73e497ee70c0309c1f88e8920f.mp3",
+                    "https://n1.kemono.su/data/f2/e0/f2e0227e21acd936bb02a6bbe7cf790eff9265fa35faaa5cbb4bd21f157389ba.mp3",
+                    "https://n3.kemono.su/data/56/c6/56c61cf93228be56d2aaa54970da66305371fa8e26d3ae42de4e298fb9232a9a.mp3",
+                    "https://n1.kemono.su/data/49/7c/497c221e6c87bf59bc29d763df73aee5e95868a089ac48bc15540b469ffdb1a0.mp3",
+                    "https://n2.kemono.su/data/93/39/9339e3e6cd6ac273b6188faba993ecb0a8adf996f00537a67674aeb72a82795b.mp3",
+                    "https://n3.kemono.su/data/86/e9/86e909915b230ec0050355ced763ac50a37aead4fa3fab5ff617b8c63ac15a80.mp3",
+                    "https://n1.kemono.su/data/0c/e0/0ce0505105360abf2bfd089070f56fda67b1cb73b0ec38bce05c9948a71c31b6.mp3",
+                    "https://n1.kemono.su/data/b9/14/b91420045a4f5f9fb1b0fd17ef968224695a352dca5d3e4b2d2f21a0bc8bd919.wav",
+                    "https://n4.kemono.su/data/da/2c/da2c3496d00de32515a79e2b9c14b9067c0bb2ff49df693bdd267a0fae7c2830.mp3"
+                ]
+            },
+            {
                 "title": "Behold the Beauty",
                 "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/beholdthebeauty.png",
                 "audios": [
@@ -59,7 +77,16 @@
                     "https://n1.kemono.su/data/0d/99/0d99eaa20511a062b492e17c1e890a49d0d7bbd84610fd3effa2f45768f23383.mp3",
                     "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/storemanager.mp3",
                     "https://n4.kemono.su/data/34/c8/34c8e23b82c21eb72c9bcc9312925465037e800b93ae8ae8d7bdcdb026533413.mp3",
-                    "https://n2.kemono.su/data/2c/1a/2c1a30e86d934bea211bd3c30f91731ddd59eb2662cfa24bf848795a164d7409.mp3"
+                    "https://n2.kemono.su/data/2c/1a/2c1a30e86d934bea211bd3c30f91731ddd59eb2662cfa24bf848795a164d7409.mp3",
+                    "https://n2.kemono.su/data/b2/df/b2df94c96ef498beef08de72457817a97b1128bf11669fbd328a0d4219895689.mp3",
+                    "https://n3.kemono.su/data/3f/d8/3fd8c4c054100403cf026785418b282489b5f89d8b20ef4415e0bf473b2964c5.mp3",
+                    "https://n3.kemono.su/data/3f/6d/3f6dcf6a07d09202375d190786f20697bb9af7b91f58af036cd99fb3ab4b071b.mp3",
+                    "https://n3.kemono.su/data/08/d5/08d5e5f386831ed9fe12d934619cfb6a77c2ebdca7a3349f6ddcd0ad219eb651.mp3",
+                    "https://n1.kemono.su/data/2e/83/2e838fec2e6b6d794d4fc1549cf4e68cdb7bae2cd17562a97601ee8ca15427bb.mp3",
+                    "https://n2.kemono.su/data/92/48/9248dfcb94301918d2bac22134ebf3719185fd390cbd1e08a3a6b7db84762365.mp3",
+                    "https://n3.kemono.su/data/f0/48/f04834ef4b80c61409e69b46f24176273995984150e4e3a758b8737c90dd08c4.mp3",
+                    "https://n2.kemono.su/data/19/67/1967035561c1600f660cab40ead85803bc59e8b2c3922860b954918450c771f0.mp3",
+                    "https://n4.kemono.su/data/da/9e/da9e2e0ed665e0e08f16fa886ba31a5fc86b50f782f45248c90b478c3f74f42e.wav"
                 ]
             },
             {
@@ -133,7 +160,11 @@
                     "https://n3.kemono.su/data/9c/b2/9cb25a08651564dec01dff1b931e2fecd28df90bf806fa81f785404381da8965.mp3",
                     "https://n4.kemono.su/data/82/de/82de1ef6a88e8e4b515516dc4885e2471216242825466e6400eae8ba489f4043.mp3",
                     "https://n4.kemono.su/data/4b/fc/4bfcb4f12954f71752201911f10dfa82dc42e41a94a49bc827fba394372451ab.mp3",
-                    "https://n1.kemono.su/data/62/67/62670df344078ec669aad0a9b03001dfc3079f38847f7efe5bc785f6f9dc88ce.mp3"
+                    "https://n1.kemono.su/data/62/67/62670df344078ec669aad0a9b03001dfc3079f38847f7efe5bc785f6f9dc88ce.mp3",
+                    "https://n1.kemono.su/data/a4/92/a49297dd384428421db947df79d97fa8c589d2676763b63b21f05ad643cbf2b9.wav",
+                    "https://n3.kemono.su/data/dd/f4/ddf48cdb436412cafd5b3f16130d48b73168dc7c73bf5c029512fb903c0ebcc6.wav",
+                    "https://n1.kemono.su/data/2e/83/2e838fec2e6b6d794d4fc1549cf4e68cdb7bae2cd17562a97601ee8ca15427bb.mp3",
+                    "https://n2.kemono.su/data/5f/c6/5fc658690240b54e7b305dec45f83c75e609a974ca8713b80f03e3da3fa2474a.mp3"
                 ]
             },
             {
@@ -163,6 +194,37 @@
                     "https://n4.kemono.su/data/6c/39/6c39cf04ede8b8637b991c144e613a461bd91066d69b8fc12212bec4d20fe098.mp3",
                     "https://n2.kemono.su/data/b5/c4/b5c45342d10a7e3b2601fc10d76729fe38f0a95411272eda93d563ba72d54de5.mp3",
                     "https://n1.kemono.su/data/ee/b1/eeb1178e9c1ac1f41beee6f299237e9fa88306c7d970cf7b293d6fcf19a0051b.mp3"
+                ]
+            },
+            {
+                "title" : "butt stuff",
+                "subtitle" : "Audios involving experimentation in and around the bum.",
+                "audios" : [
+                    "https://n2.kemono.su/data/27/a7/27a7e152f16f3d8a995cd20533c8f7fd3abb5199463bf2227632820db5f198a9.mp3",
+                    "https://n3.kemono.su/data/6a/9e/6a9ef7c4ed4138f11a0cfd4d14b16fe64895bead6a2720a59769f0dae690d506.mp3",
+                    "https://n3.kemono.su/data/08/d5/08d5e5f386831ed9fe12d934619cfb6a77c2ebdca7a3349f6ddcd0ad219eb651.mp3"
+                ]
+            },
+            {
+                "title" : "SFW",
+                "subtitle" : "Safe for Work audios without sex. Comfort, sleep aid, pillow talk, reassurance, and lots of aftercare.",
+                "audios" : [
+                    "https://n2.kemono.su/data/b5/dc/b5dc7565863623161b9c5faf802546bb5fdda1f5f52fad234cdfe7b1e18c3ba8.mp3",
+                    "https://n3.kemono.su/data/e0/0d/e00db588bfc18fe1621494a44350ddfefe7d576654c7bb247428afe2b32f3b8e.wav",
+                    "https://n1.kemono.su/data/b6/ae/b6aed457ede230da004e1438ea8ed7fd33c5ce2641400f245a5d5b92bbacf6e6.mp3",
+                    "https://n3.kemono.su/data/82/16/8216342803ac8982de6c258a7b4b6bec83b31f11bb332be5afa73d7c234bb2b9.mp3",
+                    "https://n4.kemono.su/data/13/25/13255c83cdbef2bc6796d01315de4166ac07a44c1b2430f93dbbec739e1eb589.mp3",
+                    "https://n1.kemono.su/data/0d/48/0d485b89bffd2d17241939a61168694aa7f9739b6d609ea98ae951f23f5f7676.mp3",
+                    "https://n2.kemono.su/data/e2/38/e238310f2fbae9ea21a4ef3fe74c28bb99dceb73fe939c8f213f0320ba4d11bc.mp3",
+                    "https://n2.kemono.su/data/6e/32/6e32c3191fdd6b9e0160e1882cdda03c8ece367149e1d8491f3cc387ddcb4aad.mp3",
+                    "https://n3.kemono.su/data/ec/03/ec037f733d7cc7d29d3542dfd0f1ed81913cb50b25e3e17c70988baad5ed3e69.mp3",
+                    "https://n4.kemono.su/data/d9/82/d982451711954e3d23ff3883cc66beac6c9fd99968281ba58fa83d71f980b55b.mp3",
+                    "https://n1.kemono.su/data/a4/92/a49297dd384428421db947df79d97fa8c589d2676763b63b21f05ad643cbf2b9.wav",
+                    "https://n1.kemono.su/data/ef/99/ef994ac4802986d95cc8562487788ba4e49c71207b155db25c3f5e1588209a08.wav",
+                    "https://n4.kemono.su/data/da/9e/da9e2e0ed665e0e08f16fa886ba31a5fc86b50f782f45248c90b478c3f74f42e.wav",
+                    "https://n3.kemono.su/data/26/71/2671a527f2704ba2f6ea3dd00d97484837e6823f731abb85fbdffd76b722d0b0.wav",
+                    "https://n2.kemono.su/data/6d/17/6d17bc0a520eb6f1e41d85eaa3a4b68423cc672552cc6ce290bbb36ce0c8f407.wav",
+                    "https://n4.kemono.su/data/a4/70/a4702104339b042bb13e62175d228b5acedfd597e4a802ffefbe1fadc152fc70.wav"
                 ]
             },
             {
@@ -270,7 +332,16 @@
                     "https://n3.kemono.su/data/4e/d5/4ed5c64767b5d7a4a3905b010b949ea4a9406dbf1a481e0b3c70fdacb4e26a58.mp3",
                     "https://n3.kemono.su/data/40/9e/409e12181fbe064192c7081243d5baf7193767d0e7e3e10f5aa281be7354ad82.mp3",
                     "https://n1.kemono.su/data/f5/04/f504044e75bab970f0811dec61ed85adf002a171bf2fc279962c7d98479e62c9.mp3",
-                    "https://n4.kemono.su/data/4f/c3/4fc3a6ef27a841063db6727ee423c34193b4c49d4b4ecb15e4cea0839d4c9610.mp3"
+                    "https://n4.kemono.su/data/4f/c3/4fc3a6ef27a841063db6727ee423c34193b4c49d4b4ecb15e4cea0839d4c9610.mp3",
+                    "https://n1.kemono.su/data/f5/c5/f5c5396d5afdec6330cca18b2b650141c2ad5c210a610442f9b8bc51d68bd3bd.wav",
+                    "https://n3.kemono.su/data/3f/d8/3fd8c4c054100403cf026785418b282489b5f89d8b20ef4415e0bf473b2964c5.mp3",
+                    "https://n2.kemono.su/data/19/67/1967035561c1600f660cab40ead85803bc59e8b2c3922860b954918450c771f0.mp3",
+                    "https://n4.kemono.su/data/5f/22/5f221986d627053a4a4c7db733376f66af2a6735bb6397190c570d7e2749e020.mp3",
+                    "https://n2.kemono.su/data/e5/98/e5989812f61f007d3c9f569365e73c8ac01897945bc2384bca368cd3d08c7248.mp3",
+                    "https://n4.kemono.su/data/da/9e/da9e2e0ed665e0e08f16fa886ba31a5fc86b50f782f45248c90b478c3f74f42e.wav",
+                    "https://n3.kemono.su/data/26/71/2671a527f2704ba2f6ea3dd00d97484837e6823f731abb85fbdffd76b722d0b0.wav",
+                    "https://n2.kemono.su/data/6d/17/6d17bc0a520eb6f1e41d85eaa3a4b68423cc672552cc6ce290bbb36ce0c8f407.wav",
+                    "https://n4.kemono.su/data/a4/70/a4702104339b042bb13e62175d228b5acedfd597e4a802ffefbe1fadc152fc70.wav"
                 ]
             },
             {
@@ -305,7 +376,11 @@
                     "https://n4.kemono.su/data/87/68/876843ad7a9e0ff25cd1ade68443d9889388170e95db973acbd84baa0387efef.mp3",
                     "https://n1.kemono.su/data/e6/78/e678850ab7b180896fd8a00bced97d1ce28868f1111b8a23946be3e0e90fa76f.mp3",
                     "https://n3.kemono.su/data/b6/9b/b69b6d132cba2a5b0f8955f093117bfbc6782f7ee9a5770d0dd9fff34e66a934.wav",
-                    "https://n3.kemono.su/data/11/64/1164fe55172d4416fcc771d999b744f56feefae07b08d30d6fcc45e83c56afdd.mp3"
+                    "https://n3.kemono.su/data/11/64/1164fe55172d4416fcc771d999b744f56feefae07b08d30d6fcc45e83c56afdd.mp3",
+                    "https://n1.kemono.su/data/a4/92/a49297dd384428421db947df79d97fa8c589d2676763b63b21f05ad643cbf2b9.wav",
+                    "https://n3.kemono.su/data/dd/f4/ddf48cdb436412cafd5b3f16130d48b73168dc7c73bf5c029512fb903c0ebcc6.wav",
+                    "https://n1.kemono.su/data/2e/83/2e838fec2e6b6d794d4fc1549cf4e68cdb7bae2cd17562a97601ee8ca15427bb.mp3",
+                    "https://n2.kemono.su/data/5f/c6/5fc658690240b54e7b305dec45f83c75e609a974ca8713b80f03e3da3fa2474a.mp3"
                 ]
             },
             {
@@ -342,7 +417,9 @@
                     "https://n1.kemono.su/data/77/93/7793201f0754191d7452663b872f6f0d8ef33499f9d48fcf3242017663418a8d.mp3",
                     "https://n4.kemono.su/data/b6/e1/b6e1e91df78d6ea6bec45398ffb29ffd157173c65af5eaa021b88b82c20eab5a.mp3",
                     "https://n4.kemono.su/data/87/b4/87b41bc56fb92eae074bd53293459d90c96cb35d4ecc2b0c05cd710e644a71ec.mp3",
-                    "https://n1.kemono.su/data/c5/95/c595532585a641d5062a9f11200465243219711ffa46dc497ee68aeb2c637ec1.mp3"
+                    "https://n1.kemono.su/data/c5/95/c595532585a641d5062a9f11200465243219711ffa46dc497ee68aeb2c637ec1.mp3",
+                    "https://n3.kemono.su/data/3f/6d/3f6dcf6a07d09202375d190786f20697bb9af7b91f58af036cd99fb3ab4b071b.mp3",
+                    "https://n3.kemono.su/data/f0/48/f04834ef4b80c61409e69b46f24176273995984150e4e3a758b8737c90dd08c4.mp3"
                 ]
             },
             {
@@ -385,7 +462,42 @@
                     "https://n1.kemono.su/data/2f/fc/2ffc958df50e77eedec4c4a32712ac5b1388bf0dfd435828aa6fa853b31aa3db.mp3",
                     "https://n3.kemono.su/data/af/d3/afd348c83a4864d30a823d5a7656d5b2cefd1a0fd606e99bb62fecb155fba884.mp3",
                     "https://n3.kemono.su/data/27/df/27df9935a7437f5e43be23f8ad6b06c6097192c949e1e50b419745edce967393.mp3",
-                    "https://n4.kemono.su/data/30/51/3051182dc45437c16d8b533d845f5d0c97fe0d0aba930b0736477e69138de445.mp3"
+                    "https://n4.kemono.su/data/30/51/3051182dc45437c16d8b533d845f5d0c97fe0d0aba930b0736477e69138de445.mp3",
+                    "https://n1.kemono.su/data/f5/c5/f5c5396d5afdec6330cca18b2b650141c2ad5c210a610442f9b8bc51d68bd3bd.wav",
+                    "https://n3.kemono.su/data/3f/d8/3fd8c4c054100403cf026785418b282489b5f89d8b20ef4415e0bf473b2964c5.mp3",
+                    "https://n2.kemono.su/data/5f/c6/5fc658690240b54e7b305dec45f83c75e609a974ca8713b80f03e3da3fa2474a.mp3"
+                ]
+            },
+            {
+                "title" : "loud",
+                "subtitle" : "Audios that are a little above-average, volume-wise.",
+                "audios" : [
+                    "https://n1.kemono.su/data/69/da/69da020dd2340ef3de9c6809c96ef44331e2a28f5b53012210b43e761963878d.mp3",
+                    "https://n4.kemono.su/data/89/78/897857767ad29f10c5282d35f9ca1731b2378e3cf7af84eaf7102b0ba3c5556c.mp3",
+                    "https://n1.kemono.su/data/69/af/69af536b42d53ea75843a56639e08f6a544d168f4bd94b2edd59072a25ae3928.mp3",
+                    "https://n3.kemono.su/data/f7/22/f7222043ad89e2b6428fe92c77ca49f319bb5fe6017534eeffff0cd109438c79.mp3",
+                    "https://n1.kemono.su/data/ef/89/ef8906789170cb0f44d9e8acdba5b425c3c2f830930bea81bf15e3e739916da1.mp3",
+                    "https://n3.kemono.su/data/6b/34/6b3439b5d2b56a82e568b068070eeec586dce5f59457b5e83051fce2ac48e232.mp3",
+                    "https://n3.kemono.su/data/1a/19/1a192a57f58b7f849fabf99c4c8017ef6d7ce9761fd2c2f87c3bc930381b0c03.mp3",
+                    "https://n4.kemono.su/data/0b/4a/0b4a7388477739cd081429e5c7bddc7d43c0706735f9f97b769fcf262a8e7378.mp3",
+                    "https://n2.kemono.su/data/04/db/04dbeeed29b13ec9e690cf16540d8d5b57113aef2d684a8f7b9de7ba93977294.mp3",
+                    "https://n2.kemono.su/data/4c/b5/4cb5419608dcc50feefcf7551f97e1734c22c36b11da4185396f9aff281c0fbd.mp3",
+                    "https://n4.kemono.su/data/0f/f0/0ff01380595e817ed0884e7b48605f3d4fa5b28b72701fbd2fc9376e8ac2fdb0.mp3",
+                    "https://n3.kemono.su/data/e1/d1/e1d17edb8a7854ed9b7cf4d42df80b56ba3f25671c34e814e577cac552c84b99.mp3",
+                    "https://n1.kemono.su/data/f4/5c/f45c3d32f3aa7b58be244196f0d344cfed397592b3e083b47fb9280d3f100f95.mp3",
+                    "https://n4.kemono.su/data/1c/5e/1c5eb7d1a67ddd17cca7e937d90a5ac850614e7c5134fe0cc1800a81a320d110.mp3",
+                    "https://n3.kemono.su/data/96/b0/96b0979b544a67127a409c02e3310a90a97cd71e73dbcc96affb0de73b694871.mp3",
+                    "https://n3.kemono.su/data/3f/6d/3f6dcf6a07d09202375d190786f20697bb9af7b91f58af036cd99fb3ab4b071b.mp3",
+                    "https://n3.kemono.su/data/08/d5/08d5e5f386831ed9fe12d934619cfb6a77c2ebdca7a3349f6ddcd0ad219eb651.mp3"
+                ]
+            },
+            {
+                "title" : "enemies to lovers",
+                "subtitle" : "Audios featuring enemies getting freaky or falling for each other.",
+                "audios" : [
+                    "https://n4.kemono.su/data/07/da/07da1bd519c3145c7ae58086def655730a36154e2783382f1fc829dcf77430cc.mp3",
+                    "https://n1.kemono.su/data/57/a5/57a5cf6949176b5de5669f5c38c584c355a316a9f967923ab2c89b36cc310e0e.mp3",
+                    "https://n3.kemono.su/data/dd/f4/ddf48cdb436412cafd5b3f16130d48b73168dc7c73bf5c029512fb903c0ebcc6.wav"
                 ]
             },
             {
@@ -411,7 +523,9 @@
                     "https://n3.kemono.su/data/26/3a/263a44c4b67f8f2d2fe1d1f5f00ab315bf6b1221fa583e0ce7b37232581ccedc.mp3",
                     "https://n2.kemono.su/data/6e/32/6e32c3191fdd6b9e0160e1882cdda03c8ece367149e1d8491f3cc387ddcb4aad.mp3",
                     "https://n4.kemono.su/data/59/75/5975ab49fee3302a1dd62fc9c9cc43e5ded476a197fc5eb1a6c10044ed3991d2.mp3",
-                    "https://n2.kemono.su/data/93/39/9339e3e6cd6ac273b6188faba993ecb0a8adf996f00537a67674aeb72a82795b.mp3"
+                    "https://n2.kemono.su/data/93/39/9339e3e6cd6ac273b6188faba993ecb0a8adf996f00537a67674aeb72a82795b.mp3",
+                    "https://n3.kemono.su/data/08/d5/08d5e5f386831ed9fe12d934619cfb6a77c2ebdca7a3349f6ddcd0ad219eb651.mp3",
+                    "https://n2.kemono.su/data/e5/98/e5989812f61f007d3c9f569365e73c8ac01897945bc2384bca368cd3d08c7248.mp3"
                 ]
             },
             {
@@ -428,7 +542,9 @@
                     "https://n2.kemono.su/data/4c/b5/4cb5419608dcc50feefcf7551f97e1734c22c36b11da4185396f9aff281c0fbd.mp3",
                     "https://n3.kemono.su/data/1e/80/1e80d35a6063a6b010a99bfa1648a5c5e553451e03c2dc4bda030e2120dd59df.mp3",
                     "https://n1.kemono.su/data/b6/ae/b6aed457ede230da004e1438ea8ed7fd33c5ce2641400f245a5d5b92bbacf6e6.mp3",
-                    "https://n1.kemono.su/data/4a/54/4a5475d765558b71c163713fca340cabdaacfc46aeb15774b1df9debcb2f0c7f.mp3"
+                    "https://n1.kemono.su/data/4a/54/4a5475d765558b71c163713fca340cabdaacfc46aeb15774b1df9debcb2f0c7f.mp3",
+                    "https://n1.kemono.su/data/2e/83/2e838fec2e6b6d794d4fc1549cf4e68cdb7bae2cd17562a97601ee8ca15427bb.mp3",
+                    "https://n2.kemono.su/data/19/67/1967035561c1600f660cab40ead85803bc59e8b2c3922860b954918450c771f0.mp3"
                 ]
             },
             {
@@ -457,13 +573,30 @@
                     "https://n3.kemono.su/data/c4/a4/c4a42dc9432b8af7c46d192bc677ea047fec8a5dbf295132262e5e8055c35334.wav",
                     "https://n3.kemono.su/data/b6/9b/b69b6d132cba2a5b0f8955f093117bfbc6782f7ee9a5770d0dd9fff34e66a934.wav",
                     "https://n4.kemono.su/data/35/33/35332bc342f8ec5bc986e7f819514a5ff724e0e2401f2f264deadc887a51d21d.mp3",
-                    "https://n1.kemono.su/data/0d/99/0d99eaa20511a062b492e17c1e890a49d0d7bbd84610fd3effa2f45768f23383.mp3"
+                    "https://n1.kemono.su/data/0d/99/0d99eaa20511a062b492e17c1e890a49d0d7bbd84610fd3effa2f45768f23383.mp3",
+                    "https://n2.kemono.su/data/b2/df/b2df94c96ef498beef08de72457817a97b1128bf11669fbd328a0d4219895689.mp3",
+                    "https://n3.kemono.su/data/3f/6d/3f6dcf6a07d09202375d190786f20697bb9af7b91f58af036cd99fb3ab4b071b.mp3",
+                    "https://n1.kemono.su/data/2e/83/2e838fec2e6b6d794d4fc1549cf4e68cdb7bae2cd17562a97601ee8ca15427bb.mp3",
+                    "https://n2.kemono.su/data/92/48/9248dfcb94301918d2bac22134ebf3719185fd390cbd1e08a3a6b7db84762365.mp3",
+                    "https://n3.kemono.su/data/f0/48/f04834ef4b80c61409e69b46f24176273995984150e4e3a758b8737c90dd08c4.mp3"
+                ]
+            },
+            {
+                "title" : "moaning",
+                "subtitle" : "Audios featuring moaning sounds of sexual pleasure.",
+                "audios" : [
+                    "https://n3.kemono.su/data/95/e5/95e5f241fa4d58e5594e7d25e404954cd919a3af5d904efafb97903d2ed8cd1f.mp3",
+                    "https://n3.kemono.su/data/56/c6/56c61cf93228be56d2aaa54970da66305371fa8e26d3ae42de4e298fb9232a9a.mp3",
+                    "https://n3.kemono.su/data/08/d5/08d5e5f386831ed9fe12d934619cfb6a77c2ebdca7a3349f6ddcd0ad219eb651.mp3"
                 ]
             },
             {
                 "title" : "coworkers",
                 "subtitle" : "Audios involving office fantasies with colleagues.",
                 "audios" : [
+                    "https://n2.kemono.su/data/b2/df/b2df94c96ef498beef08de72457817a97b1128bf11669fbd328a0d4219895689.mp3",
+                    "https://n1.kemono.su/data/0d/99/0d99eaa20511a062b492e17c1e890a49d0d7bbd84610fd3effa2f45768f23383.mp3",
+                    "https://n2.kemono.su/data/b5/c4/b5c45342d10a7e3b2601fc10d76729fe38f0a95411272eda93d563ba72d54de5.mp3"
                 ]
             },
             {
@@ -493,7 +626,8 @@
                     "https://n3.kemono.su/data/93/a0/93a0aad39349d633236612bb151872c255a4ee58e51b65dd2b9eabdacac58ab0.mp3",
                     "https://n1.kemono.su/data/01/4b/014be37c4cb193326efcac052aef7e3dee59562a98bc667f7d586a8d5b5614f1.wav",
                     "https://n2.kemono.su/data/46/fd/46fd441ac985c9a2fbe33524cfeeab2e8338d41139281d35ec138393d62a1b34.mp3",
-                    "https://n1.kemono.su/data/eb/f9/ebf9e8ee50990d4534da09272372da2ae828f71a31c7a143bc519475620fc491.mp3"
+                    "https://n1.kemono.su/data/eb/f9/ebf9e8ee50990d4534da09272372da2ae828f71a31c7a143bc519475620fc491.mp3",
+                    "https://n1.kemono.su/data/2e/83/2e838fec2e6b6d794d4fc1549cf4e68cdb7bae2cd17562a97601ee8ca15427bb.mp3"
                 ]
             },
             {
@@ -516,6 +650,10 @@
                 "title" : "edging",
                 "subtitle" : "Audios that bring you right* to the edge.",
                 "audios" : [
+                    "https://n2.kemono.su/data/c2/e5/c2e591ac230cab89b3b39e47e0f575bc61b23c85d20904301086d621981799db.wav",
+                    "https://n2.kemono.su/data/a6/94/a694999b17bc935a0e764361ee8a5863e65a4920ef21fddffe066b1ba9cc56a6.mp3",
+                    "https://n3.kemono.su/data/86/e9/86e909915b230ec0050355ced763ac50a37aead4fa3fab5ff617b8c63ac15a80.mp3",
+                    "https://n2.kemono.su/data/b2/df/b2df94c96ef498beef08de72457817a97b1128bf11669fbd328a0d4219895689.mp3"
                 ]
             },
             {
@@ -552,7 +690,10 @@
                     "https://n2.kemono.su/data/16/28/1628e052caaf90ae99e8d64ca2088b9767f1143ef0eed30b12ff37caac9834fa.mp3",
                     "https://n1.kemono.su/data/0c/e0/0ce0505105360abf2bfd089070f56fda67b1cb73b0ec38bce05c9948a71c31b6.mp3",
                     "https://n2.kemono.su/data/bf/cf/bfcf8188fbfd42bc35de69845ef7dc7edefe87c53ac76b54f08ba7a882b7c327.mp3",
-                    "https://n1.kemono.su/data/f5/04/f504044e75bab970f0811dec61ed85adf002a171bf2fc279962c7d98479e62c9.mp3"
+                    "https://n1.kemono.su/data/f5/04/f504044e75bab970f0811dec61ed85adf002a171bf2fc279962c7d98479e62c9.mp3",
+                    "https://n1.kemono.su/data/f5/c5/f5c5396d5afdec6330cca18b2b650141c2ad5c210a610442f9b8bc51d68bd3bd.wav",
+                    "https://n3.kemono.su/data/3f/6d/3f6dcf6a07d09202375d190786f20697bb9af7b91f58af036cd99fb3ab4b071b.mp3",
+                    "https://n3.kemono.su/data/08/d5/08d5e5f386831ed9fe12d934619cfb6a77c2ebdca7a3349f6ddcd0ad219eb651.mp3"
                 ]
             },
             {
@@ -563,7 +704,8 @@
                     "https://n2.kemono.su/data/4c/b5/4cb5419608dcc50feefcf7551f97e1734c22c36b11da4185396f9aff281c0fbd.mp3",
                     "https://n1.kemono.su/data/f2/e0/f2e0227e21acd936bb02a6bbe7cf790eff9265fa35faaa5cbb4bd21f157389ba.mp3",
                     "https://n3.kemono.su/data/26/3a/263a44c4b67f8f2d2fe1d1f5f00ab315bf6b1221fa583e0ce7b37232581ccedc.mp3",
-                    "https://n3.kemono.su/data/11/64/1164fe55172d4416fcc771d999b744f56feefae07b08d30d6fcc45e83c56afdd.mp3"
+                    "https://n3.kemono.su/data/11/64/1164fe55172d4416fcc771d999b744f56feefae07b08d30d6fcc45e83c56afdd.mp3",
+                    "https://n3.kemono.su/data/08/d5/08d5e5f386831ed9fe12d934619cfb6a77c2ebdca7a3349f6ddcd0ad219eb651.mp3"
                 ]
             },
             {
@@ -579,7 +721,9 @@
                     "https://n1.kemono.su/data/f5/13/f513f16f1cad1b7bc70ed03eee203ca599b05e02026bfd601665bbc548bb8b48.mp3",
                     "https://n1.kemono.su/data/5e/5a/5e5a3601ee718edccff7c3c130697989c6da79fa08e7ee17e932c1d1be710b4d.mp3",
                     "https://n4.kemono.su/data/32/92/32927c18efdee8fca8341f57b3bdf00d729df304525fbcb1842226602f8ffc6f.mp3",
-                    "https://n4.kemono.su/data/8a/e3/8ae3f9a7ba9825dd7a9d8b48c4474449a36f1b135856c9d85b74f7e31dd782b4.wav"
+                    "https://n4.kemono.su/data/8a/e3/8ae3f9a7ba9825dd7a9d8b48c4474449a36f1b135856c9d85b74f7e31dd782b4.wav",
+                    "https://n2.kemono.su/data/92/48/9248dfcb94301918d2bac22134ebf3719185fd390cbd1e08a3a6b7db84762365.mp3",
+                    "https://n4.kemono.su/data/26/30/2630cfa75781a1ce58f39777d44791bf5f13f3607ef12c5f95ee451d7d73b545.wav"
                 ]
             },
             {
@@ -635,6 +779,30 @@
                     "https://n3.kemono.su/data/74/66/74662cc81421f49252577789ed831922e8b7802d7fcc2746924ebb5955885b21.wav",
                     "https://n1.kemono.su/data/c6/cd/c6cd5039c64fcfae7376d6953d10992cc3a45617d8d4af992174c240d23c8209.mp3",
                     "https://n2.kemono.su/data/4c/b5/4cb5419608dcc50feefcf7551f97e1734c22c36b11da4185396f9aff281c0fbd.mp3"
+                ]
+            }
+        ]
+    },
+    {
+        "title" : "",
+        "type": "horizontal",
+        "playlists": [
+            {
+                "title": "Audi's Apothecary",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/audioharlot.jpeg",
+                "audios": [
+                    "https://n1.kemono.su/data/77/93/7793201f0754191d7452663b872f6f0d8ef33499f9d48fcf3242017663418a8d.mp3",
+                    "https://n2.kemono.su/data/e4/88/e4880a0f2d7cd112ea4c0975475d445978eb56ced754bb36df85c6b942a07ad4.mp3",
+                    "https://n3.kemono.su/data/c4/57/c457177b9d640e31cdf28c0095c396d739fa20a01148446f2e38ec28967227d0.mp3",
+                    "https://n2.kemono.su/data/b2/df/b2df94c96ef498beef08de72457817a97b1128bf11669fbd328a0d4219895689.mp3",
+                    "https://n3.kemono.su/data/3f/d8/3fd8c4c054100403cf026785418b282489b5f89d8b20ef4415e0bf473b2964c5.mp3",
+                    "https://n3.kemono.su/data/3f/6d/3f6dcf6a07d09202375d190786f20697bb9af7b91f58af036cd99fb3ab4b071b.mp3",
+                    "https://n3.kemono.su/data/08/d5/08d5e5f386831ed9fe12d934619cfb6a77c2ebdca7a3349f6ddcd0ad219eb651.mp3",
+                    "https://n1.kemono.su/data/2e/83/2e838fec2e6b6d794d4fc1549cf4e68cdb7bae2cd17562a97601ee8ca15427bb.mp3",
+                    "https://n1.kemono.su/data/2e/83/2e838fec2e6b6d794d4fc1549cf4e68cdb7bae2cd17562a97601ee8ca15427bb.mp3",
+                    "https://n2.kemono.su/data/92/48/9248dfcb94301918d2bac22134ebf3719185fd390cbd1e08a3a6b7db84762365.mp3",
+                    "https://n3.kemono.su/data/f0/48/f04834ef4b80c61409e69b46f24176273995984150e4e3a758b8737c90dd08c4.mp3",
+                    "https://n2.kemono.su/data/19/67/1967035561c1600f660cab40ead85803bc59e8b2c3922860b954918450c771f0.mp3"
                 ]
             }
         ]
@@ -794,7 +962,9 @@
                     "https://n1.kemono.su/data/01/4b/014be37c4cb193326efcac052aef7e3dee59562a98bc667f7d586a8d5b5614f1.wav",
                     "https://n1.kemono.su/data/37/03/37034ca014ed708abdf22444f6641858d65cccf5c6a5c4273069d1e4791efb4f.mp3",
                     "https://n3.kemono.su/data/bd/9c/bd9cb6cfce052e4a18cc739ad9075a1315934fa35f096fe5b0befd0a390f60f4.wav",
-                    "https://n2.kemono.su/data/a7/f3/a7f3e50d320ea277a7e0cec9a791bf3c5d1cf3529eadffc4de2bbfc59b635977.mp3"
+                    "https://n2.kemono.su/data/a7/f3/a7f3e50d320ea277a7e0cec9a791bf3c5d1cf3529eadffc4de2bbfc59b635977.mp3",
+                    "https://n3.kemono.su/data/26/71/2671a527f2704ba2f6ea3dd00d97484837e6823f731abb85fbdffd76b722d0b0.wav",
+                    "https://n2.kemono.su/data/6d/17/6d17bc0a520eb6f1e41d85eaa3a4b68423cc672552cc6ce290bbb36ce0c8f407.wav"
                 ]
             },
             {
@@ -841,7 +1011,11 @@
                     "https://n3.kemono.su/data/ec/03/ec037f733d7cc7d29d3542dfd0f1ed81913cb50b25e3e17c70988baad5ed3e69.mp3",
                     "https://n3.kemono.su/data/6a/9e/6a9ef7c4ed4138f11a0cfd4d14b16fe64895bead6a2720a59769f0dae690d506.mp3",
                     "https://n4.kemono.su/data/d9/82/d982451711954e3d23ff3883cc66beac6c9fd99968281ba58fa83d71f980b55b.mp3",
-                    "https://n3.kemono.su/data/4e/d5/4ed5c64767b5d7a4a3905b010b949ea4a9406dbf1a481e0b3c70fdacb4e26a58.mp3"
+                    "https://n3.kemono.su/data/4e/d5/4ed5c64767b5d7a4a3905b010b949ea4a9406dbf1a481e0b3c70fdacb4e26a58.mp3",
+                    "https://n4.kemono.su/data/da/9e/da9e2e0ed665e0e08f16fa886ba31a5fc86b50f782f45248c90b478c3f74f42e.wav",
+                    "https://n3.kemono.su/data/26/71/2671a527f2704ba2f6ea3dd00d97484837e6823f731abb85fbdffd76b722d0b0.wav",
+                    "https://n2.kemono.su/data/6d/17/6d17bc0a520eb6f1e41d85eaa3a4b68423cc672552cc6ce290bbb36ce0c8f407.wav",
+                    "https://n4.kemono.su/data/a4/70/a4702104339b042bb13e62175d228b5acedfd597e4a802ffefbe1fadc152fc70.wav"
                 ]
             },
             {
@@ -856,7 +1030,8 @@
                     "https://n4.kemono.su/data/32/92/32927c18efdee8fca8341f57b3bdf00d729df304525fbcb1842226602f8ffc6f.mp3",
                     "https://n2.kemono.su/data/2f/fc/2ffc2ee1106dfcf068554d5d220a728179ed41086a60a04f4d2e4b51e4f91c1b.mp3",
                     "https://n4.kemono.su/data/82/de/82de1ef6a88e8e4b515516dc4885e2471216242825466e6400eae8ba489f4043.mp3",
-                    "https://n4.kemono.su/data/4b/fc/4bfcb4f12954f71752201911f10dfa82dc42e41a94a49bc827fba394372451ab.mp3"
+                    "https://n4.kemono.su/data/4b/fc/4bfcb4f12954f71752201911f10dfa82dc42e41a94a49bc827fba394372451ab.mp3",
+                    "https://n1.kemono.su/data/2e/83/2e838fec2e6b6d794d4fc1549cf4e68cdb7bae2cd17562a97601ee8ca15427bb.mp3"
                 ]
             },
             {
@@ -889,7 +1064,8 @@
                     "https://n4.kemono.su/data/79/70/7970813d175c54369156bfae94809e4f10412f0b561b6773833fafe983fbb92c.mp3",
                     "https://n4.kemono.su/data/6d/57/6d573016c9bfcad3b3c8178100117b8237c2564ede57bc5ffa23dbc870f32b1b.mp3",
                     "https://n3.kemono.su/data/e7/95/e79566b9395cf99d7f2b161d02210c37a309c96597c04cfda760192dbad4f10a.mp3",
-                    "https://n2.kemono.su/data/e2/3c/e23c18fd87d5abba6f56b4aec267e2457950932550d89a4302e7e6328b84fc3e.mp3"
+                    "https://n2.kemono.su/data/e2/3c/e23c18fd87d5abba6f56b4aec267e2457950932550d89a4302e7e6328b84fc3e.mp3",
+                    "https://n2.kemono.su/data/e5/98/e5989812f61f007d3c9f569365e73c8ac01897945bc2384bca368cd3d08c7248.mp3"
                 ]
             },
             {
@@ -899,7 +1075,8 @@
                     "https://n4.kemono.su/data/09/3c/093c3a276780c1b96e4a0ab99445bc93201aafd11326d2b83731c9c2ab21d53a.mp3",
                     "https://n1.kemono.su/data/ac/59/ac59544ac55b85a19cdc154b3ac561c57232546e64dea9bf6f9d7c09ee145420.mp3",
                     "https://n2.kemono.su/data/5b/d8/5bd89f310d274a7f7298a50a8b8bc4d59a94972566422d0b748a059f4f6799f8.mp3",
-                    "https://n2.kemono.su/data/d4/5a/d45acd16bf053d3cd8418ad48cc260dd949e0f177361ff71a229121f8a47f498.mp3"
+                    "https://n2.kemono.su/data/d4/5a/d45acd16bf053d3cd8418ad48cc260dd949e0f177361ff71a229121f8a47f498.mp3",
+                    "https://n4.kemono.su/data/5f/22/5f221986d627053a4a4c7db733376f66af2a6735bb6397190c570d7e2749e020.mp3"
                 ]
             },
             {
@@ -913,7 +1090,8 @@
                     "https://n3.kemono.su/data/84/49/8449225731c717206bd34138528a4f41e2f71cec986826f0986b3538a880d6b4.mp3",
                     "https://n3.kemono.su/data/bd/9c/bd9cb6cfce052e4a18cc739ad9075a1315934fa35f096fe5b0befd0a390f60f4.wav",
                     "https://n4.kemono.su/data/fb/59/fb599245533669d82b3b9d1d1739411d0dd3efe61857e78428f4018eebb6edd8.mp3",
-                    "https://n1.kemono.su/data/f8/bd/f8bd9d10d2e355a1ba691368ad7f82de3e2abed7d77512fca8a4f4999ae0f1cd.mp3"
+                    "https://n1.kemono.su/data/f8/bd/f8bd9d10d2e355a1ba691368ad7f82de3e2abed7d77512fca8a4f4999ae0f1cd.mp3",
+                    "https://n2.kemono.su/data/19/67/1967035561c1600f660cab40ead85803bc59e8b2c3922860b954918450c771f0.mp3"
                 ]
             },
             {
@@ -949,11 +1127,11 @@
                     "https://n3.kemono.su/data/26/3a/263a44c4b67f8f2d2fe1d1f5f00ab315bf6b1221fa583e0ce7b37232581ccedc.mp3",
                     "https://n2.kemono.su/data/6e/32/6e32c3191fdd6b9e0160e1882cdda03c8ece367149e1d8491f3cc387ddcb4aad.mp3",
                     "https://n4.kemono.su/data/35/33/35332bc342f8ec5bc986e7f819514a5ff724e0e2401f2f264deadc887a51d21d.mp3",
-                    "https://n3.kemono.su/data/af/d3/afd348c83a4864d30a823d5a7656d5b2cefd1a0fd606e99bb62fecb155fba884.mp3",
-                    "https://n3.kemono.su/data/11/64/1164fe55172d4416fcc771d999b744f56feefae07b08d30d6fcc45e83c56afdd.mp3",
-                    "https://n2.kemono.su/data/0c/33/0c33e7c809df0899ee1b3ec2be815da57a04ddae1d75b306f1967c75ece26fb7.mp3",
-                    "https://n4.kemono.su/data/4b/e3/4be327ee9ae04a5fbb318a798a77bf1ca0e74e4f62834b66cc51cd3657fbb577.mp3",
-                    "https://n4.kemono.su/data/d9/82/d982451711954e3d23ff3883cc66beac6c9fd99968281ba58fa83d71f980b55b.mp3"
+                    "https://n2.kemono.su/data/92/48/9248dfcb94301918d2bac22134ebf3719185fd390cbd1e08a3a6b7db84762365.mp3",
+                    "https://n3.kemono.su/data/3f/d8/3fd8c4c054100403cf026785418b282489b5f89d8b20ef4415e0bf473b2964c5.mp3",
+                    "https://n2.kemono.su/data/5f/c6/5fc658690240b54e7b305dec45f83c75e609a974ca8713b80f03e3da3fa2474a.mp3",
+                    "https://n4.kemono.su/data/da/9e/da9e2e0ed665e0e08f16fa886ba31a5fc86b50f782f45248c90b478c3f74f42e.wav",
+                    "https://n4.kemono.su/data/a4/70/a4702104339b042bb13e62175d228b5acedfd597e4a802ffefbe1fadc152fc70.wav"
                 ]
             }
         ]
@@ -1027,7 +1205,14 @@
                     "https://n1.kemono.su/data/eb/f9/ebf9e8ee50990d4534da09272372da2ae828f71a31c7a143bc519475620fc491.mp3",
                     "https://n3.kemono.su/data/6a/9e/6a9ef7c4ed4138f11a0cfd4d14b16fe64895bead6a2720a59769f0dae690d506.mp3",
                     "https://n4.kemono.su/data/4b/e3/4be327ee9ae04a5fbb318a798a77bf1ca0e74e4f62834b66cc51cd3657fbb577.mp3",
-                    "https://n3.kemono.su/data/4e/d5/4ed5c64767b5d7a4a3905b010b949ea4a9406dbf1a481e0b3c70fdacb4e26a58.mp3"
+                    "https://n3.kemono.su/data/4e/d5/4ed5c64767b5d7a4a3905b010b949ea4a9406dbf1a481e0b3c70fdacb4e26a58.mp3",
+                    "https://n3.kemono.su/data/3f/d8/3fd8c4c054100403cf026785418b282489b5f89d8b20ef4415e0bf473b2964c5.mp3",
+                    "https://n1.kemono.su/data/2e/83/2e838fec2e6b6d794d4fc1549cf4e68cdb7bae2cd17562a97601ee8ca15427bb.mp3",
+                    "https://n2.kemono.su/data/e5/98/e5989812f61f007d3c9f569365e73c8ac01897945bc2384bca368cd3d08c7248.mp3",
+                    "https://n4.kemono.su/data/da/9e/da9e2e0ed665e0e08f16fa886ba31a5fc86b50f782f45248c90b478c3f74f42e.wav",
+                    "https://n3.kemono.su/data/26/71/2671a527f2704ba2f6ea3dd00d97484837e6823f731abb85fbdffd76b722d0b0.wav",
+                    "https://n2.kemono.su/data/6d/17/6d17bc0a520eb6f1e41d85eaa3a4b68423cc672552cc6ce290bbb36ce0c8f407.wav",
+                    "https://n4.kemono.su/data/a4/70/a4702104339b042bb13e62175d228b5acedfd597e4a802ffefbe1fadc152fc70.wav"
                 ]
             }
         ]
@@ -1064,7 +1249,10 @@
                     "https://n4.kemono.su/data/4b/e3/4be327ee9ae04a5fbb318a798a77bf1ca0e74e4f62834b66cc51cd3657fbb577.mp3",
                     "https://n3.kemono.su/data/43/27/4327cd2f5c2c5c007961e6b3799aab6b2d8c19cfb5e725cc6a7ca523268dccd3.mp3",
                     "https://n4.kemono.su/data/30/51/3051182dc45437c16d8b533d845f5d0c97fe0d0aba930b0736477e69138de445.mp3",
-                    "https://n3.kemono.su/data/40/9e/409e12181fbe064192c7081243d5baf7193767d0e7e3e10f5aa281be7354ad82.mp3"
+                    "https://n3.kemono.su/data/40/9e/409e12181fbe064192c7081243d5baf7193767d0e7e3e10f5aa281be7354ad82.mp3",
+                    "https://n3.kemono.su/data/3f/6d/3f6dcf6a07d09202375d190786f20697bb9af7b91f58af036cd99fb3ab4b071b.mp3",
+                    "https://n3.kemono.su/data/f0/48/f04834ef4b80c61409e69b46f24176273995984150e4e3a758b8737c90dd08c4.mp3",
+                    "https://n2.kemono.su/data/5f/c6/5fc658690240b54e7b305dec45f83c75e609a974ca8713b80f03e3da3fa2474a.mp3"
                 ]
             }
         ]
@@ -1176,7 +1364,11 @@
                     "https://n3.kemono.su/data/ec/03/ec037f733d7cc7d29d3542dfd0f1ed81913cb50b25e3e17c70988baad5ed3e69.mp3",
                     "https://n3.kemono.su/data/6a/9e/6a9ef7c4ed4138f11a0cfd4d14b16fe64895bead6a2720a59769f0dae690d506.mp3",
                     "https://n4.kemono.su/data/d9/82/d982451711954e3d23ff3883cc66beac6c9fd99968281ba58fa83d71f980b55b.mp3",
-                    "https://n3.kemono.su/data/4e/d5/4ed5c64767b5d7a4a3905b010b949ea4a9406dbf1a481e0b3c70fdacb4e26a58.mp3"
+                    "https://n3.kemono.su/data/4e/d5/4ed5c64767b5d7a4a3905b010b949ea4a9406dbf1a481e0b3c70fdacb4e26a58.mp3",
+                    "https://n4.kemono.su/data/da/9e/da9e2e0ed665e0e08f16fa886ba31a5fc86b50f782f45248c90b478c3f74f42e.wav",
+                    "https://n3.kemono.su/data/26/71/2671a527f2704ba2f6ea3dd00d97484837e6823f731abb85fbdffd76b722d0b0.wav",
+                    "https://n2.kemono.su/data/6d/17/6d17bc0a520eb6f1e41d85eaa3a4b68423cc672552cc6ce290bbb36ce0c8f407.wav",
+                    "https://n4.kemono.su/data/a4/70/a4702104339b042bb13e62175d228b5acedfd597e4a802ffefbe1fadc152fc70.wav"
                 ]
             }
         ]
@@ -1222,7 +1414,8 @@
                     "https://n2.kemono.su/data/46/fd/46fd441ac985c9a2fbe33524cfeeab2e8338d41139281d35ec138393d62a1b34.mp3",
                     "https://n1.kemono.su/data/6e/04/6e0411d9491232029c2aebe677fd0c5d5f64ba45c4ce5abc9ff5211764753ec3.mp3",
                     "https://n1.kemono.su/data/eb/f9/ebf9e8ee50990d4534da09272372da2ae828f71a31c7a143bc519475620fc491.mp3",
-                    "https://n4.kemono.su/data/30/51/3051182dc45437c16d8b533d845f5d0c97fe0d0aba930b0736477e69138de445.mp3"
+                    "https://n4.kemono.su/data/30/51/3051182dc45437c16d8b533d845f5d0c97fe0d0aba930b0736477e69138de445.mp3",
+                    "https://n3.kemono.su/data/3f/d8/3fd8c4c054100403cf026785418b282489b5f89d8b20ef4415e0bf473b2964c5.mp3"
                 ]
             }
         ]
@@ -1246,7 +1439,85 @@
                     "https://n4.kemono.su/data/87/b4/87b41bc56fb92eae074bd53293459d90c96cb35d4ecc2b0c05cd710e644a71ec.mp3",
                     "https://n1.kemono.su/data/c0/d0/c0d05423dd1356a8f31efefd37d3d6db45c5e20e3b8b660afd8e7b33091764a0.mp3",
                     "https://n1.kemono.su/data/f7/f9/f7f925701ebea4efb83af6a0b10349b682d97f73e497ee70c0309c1f88e8920f.mp3",
-                    "https://n3.kemono.su/data/5f/27/5f273af10c1c8114da1a16d307d3c36fa0a4c32e8f8953aca1fc429520764ce5.mp3"
+                    "https://n3.kemono.su/data/5f/27/5f273af10c1c8114da1a16d307d3c36fa0a4c32e8f8953aca1fc429520764ce5.mp3",
+                    "https://n2.kemono.su/data/5f/c6/5fc658690240b54e7b305dec45f83c75e609a974ca8713b80f03e3da3fa2474a.mp3"
+                ]
+            },
+            {
+                "title" : "roommate",
+                "subtitle" : "roommate",
+                "audios" : [
+                    "https://n3.kemono.su/data/af/d4/afd4d15ae19f9299edf77bef9078daf5bf082e0d9e9020bb95b1eb2e47d85c0f.wav",
+                    "https://n2.kemono.su/data/88/7b/887ba73380f1f65cddba78edc5f9cee1bf3ac396489102dda5cf0aebd867f183.mp3",
+                    "https://n4.kemono.su/data/07/da/07da1bd519c3145c7ae58086def655730a36154e2783382f1fc829dcf77430cc.mp3",
+                    "https://n4.kemono.su/data/07/da/07da1bd519c3145c7ae58086def655730a36154e2783382f1fc829dcf77430cc.mp3",
+                    "https://n2.kemono.su/data/a2/12/a2120f0079684e48896668d27d3bf61409508e04dfa8bf0313c8869a233415b2.mp3",
+                    "https://n1.kemono.su/data/69/af/69af536b42d53ea75843a56639e08f6a544d168f4bd94b2edd59072a25ae3928.mp3",
+                    "https://n2.kemono.su/data/34/e9/34e9b98c01f342872b06b5164871c5e7bd5f2c3de46442fec035affa00a83452.mp3",
+                    "https://n4.kemono.su/data/0b/4a/0b4a7388477739cd081429e5c7bddc7d43c0706735f9f97b769fcf262a8e7378.mp3",
+                    "https://n3.kemono.su/data/9c/b2/9cb25a08651564dec01dff1b931e2fecd28df90bf806fa81f785404381da8965.mp3",
+                    "https://n4.kemono.su/data/82/de/82de1ef6a88e8e4b515516dc4885e2471216242825466e6400eae8ba489f4043.mp3",
+                    "https://n1.kemono.su/data/a4/92/a49297dd384428421db947df79d97fa8c589d2676763b63b21f05ad643cbf2b9.wav"
+                ]
+            },
+            {
+                "title" : "reverse comfort",
+                "subtitle" : "Creates a contrast to traditional comforting scenarios, using unsettling or tense sounds to evoke a sense of discomfort, sometimes designed to explore unique emotional responses or provoke introspection.",
+                "audios" : [
+                    "https://n4.kemono.su/data/26/de/26de0055c27d975ab3fdb3de8479dcf67bc646fa2a2389628635d3adea5b9c2b.wav",
+                    "https://n4.kemono.su/data/53/60/5360027686a3a2c4f1e26b26a80c4cf403c42a43d0050654601da6246cbaf4f9.mp3",
+                    "https://n1.kemono.su/data/0f/c2/0fc2a35c8b36be315dcef44a915459244a66939349a00caad78ed283e60d52e2.wav",
+                    "https://n1.kemono.su/data/5f/17/5f170c328c6b11ad6a0315c9be29110061ef1e2be053615b2981738371600a33.wav",
+                    "https://n4.kemono.su/data/6a/00/6a00e2c0e6ae93d7c99dc69a53fe19cc08a094a4a9f4576614dca4fdf3f8c71e.wav",
+                    "https://n4.kemono.su/data/ae/5c/ae5c27e6c5437338d538369204dfbf1de2e6e7bf00778b3dcd9dd9a647be20dd.wav",
+                    "https://n1.kemono.su/data/3e/f7/3ef70659b660320d90b4d1bd8ae32f0d631505df7ae57041b755f8ca659c41dc.wav",
+                    "https://n3.kemono.su/data/2c/4f/2c4f1ba427cb61cd966c0a6a6930bb026bbdde1de3804e961fc9e4f27bfcd281.wav",
+                    "https://n2.kemono.su/data/7b/a8/7ba838093584fd08e9c9a80c5c587f5234687973bf9ff88b915fbf5be248374b.wav",
+                    "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/tOjzH2mJ3uQ.mp3",
+                    "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/3OEd9svXwxM.mp3",
+                    "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/0P9e8PVTBX4.mp3",
+                    "https://n2.kemono.su/data/54/e2/54e27cbdcc1f04710f80a0028fdc412bfebf19eed242290467a07b3cc2ec519b.mp3",
+                    "https://n4.kemono.su/data/c6/07/c6073f6ec1e3cf3e6a2adfcca7e35f0b5f98094eb62a455b4a77533790574eec.mp3",
+                    "https://n2.kemono.su/data/1c/19/1c19070f8e9b50127834657673f7b843cb76c9ad184f5d5f87acce21fb472111.wav",
+                    "https://n4.kemono.su/data/2b/85/2b85c781d12dfba32b3a6db1a3fe87d6b23dbb19d181550f2b3a69a7f13efad6.wav",
+                    "https://n1.kemono.su/data/b9/14/b91420045a4f5f9fb1b0fd17ef968224695a352dca5d3e4b2d2f21a0bc8bd919.wav",
+                    "https://n4.kemono.su/data/8a/e3/8ae3f9a7ba9825dd7a9d8b48c4474449a36f1b135856c9d85b74f7e31dd782b4.wav",
+                    "https://n2.kemono.su/data/5f/c6/5fc658690240b54e7b305dec45f83c75e609a974ca8713b80f03e3da3fa2474a.mp3"
+                ]
+            },
+            {
+                "title" : "older man",
+                "subtitle" : "Audios featuring older men, often with a younger partner.",
+                "audios" : [
+                    "https://n2.kemono.su/data/88/7b/887ba73380f1f65cddba78edc5f9cee1bf3ac396489102dda5cf0aebd867f183.mp3",
+                    "https://n2.kemono.su/data/b5/c4/b5c45342d10a7e3b2601fc10d76729fe38f0a95411272eda93d563ba72d54de5.mp3",
+                    "https://n3.kemono.su/data/83/d4/83d4f9949cf8030b96ff6c6bef26a26a265ac822aeb4e7ad73ada060dcf57a2a.mp3",
+                    "https://n3.kemono.su/data/08/d5/08d5e5f386831ed9fe12d934619cfb6a77c2ebdca7a3349f6ddcd0ad219eb651.mp3"
+                ]
+            },
+            {
+                "title" : "age difference",
+                "subtitle" : "Audios involving an older man/younger woman or vice versa.",
+                "audios" : [
+                    "https://n2.kemono.su/data/88/7b/887ba73380f1f65cddba78edc5f9cee1bf3ac396489102dda5cf0aebd867f183.mp3",
+                    "https://n1.kemono.su/data/f5/13/f513f16f1cad1b7bc70ed03eee203ca599b05e02026bfd601665bbc548bb8b48.mp3",
+                    "https://n3.kemono.su/data/4e/b2/4eb2718c22441f9a7da45e11531b4719477fe8b79c361902aa39b72ef5579c6f.mp3",
+                    "https://n2.kemono.su/data/23/ea/23ea7dac623ec38602d02bab13b75daa8d5c38841f97190119a1942eee0b5c60.mp3",
+                    "https://n3.kemono.su/data/62/ea/62ea0e2adec498eb05958a27a9fb087136b80d23dbe2ae85b93883ee37abbe62.mp3",
+                    "https://n4.kemono.su/data/40/b9/40b90eb056bbc28a9bf951288a0371a14aa700d696bc447687e780ef1e449626.mp3",
+                    "https://n3.kemono.su/data/83/d4/83d4f9949cf8030b96ff6c6bef26a26a265ac822aeb4e7ad73ada060dcf57a2a.mp3",
+                    "https://n1.kemono.su/data/ef/99/ef994ac4802986d95cc8562487788ba4e49c71207b155db25c3f5e1588209a08.wav",
+                    "https://n3.kemono.su/data/08/d5/08d5e5f386831ed9fe12d934619cfb6a77c2ebdca7a3349f6ddcd0ad219eb651.mp3"
+                ]
+            },
+            {
+                "title" : "voyeurism",
+                "subtitle" : "Audios involving watching others.",
+                "audios" : [
+                    "https://n2.kemono.su/data/e4/88/e4880a0f2d7cd112ea4c0975475d445978eb56ced754bb36df85c6b942a07ad4.mp3",
+                    "https://n2.kemono.su/data/48/8c/488c73b144588877d3baffaf47bd244c47a89846b47fc656580e2af69368a3ac.mp3",
+                    "https://n3.kemono.su/data/11/64/1164fe55172d4416fcc771d999b744f56feefae07b08d30d6fcc45e83c56afdd.mp3",
+                    "https://n1.kemono.su/data/2e/83/2e838fec2e6b6d794d4fc1549cf4e68cdb7bae2cd17562a97601ee8ca15427bb.mp3"
                 ]
             },
             {
@@ -1332,7 +1603,9 @@
                     "https://n3.kemono.su/data/6a/9e/6a9ef7c4ed4138f11a0cfd4d14b16fe64895bead6a2720a59769f0dae690d506.mp3",
                     "https://n3.kemono.su/data/11/64/1164fe55172d4416fcc771d999b744f56feefae07b08d30d6fcc45e83c56afdd.mp3",
                     "https://n2.kemono.su/data/bf/cf/bfcf8188fbfd42bc35de69845ef7dc7edefe87c53ac76b54f08ba7a882b7c327.mp3",
-                    "https://n1.kemono.su/data/f5/04/f504044e75bab970f0811dec61ed85adf002a171bf2fc279962c7d98479e62c9.mp3"
+                    "https://n1.kemono.su/data/f5/04/f504044e75bab970f0811dec61ed85adf002a171bf2fc279962c7d98479e62c9.mp3",
+                    "https://n3.kemono.su/data/08/d5/08d5e5f386831ed9fe12d934619cfb6a77c2ebdca7a3349f6ddcd0ad219eb651.mp3",
+                    "https://n2.kemono.su/data/92/48/9248dfcb94301918d2bac22134ebf3719185fd390cbd1e08a3a6b7db84762365.mp3"
                 ]
             },
             {
@@ -1407,7 +1680,10 @@
                     "https://n1.kemono.su/data/2f/fc/2ffc958df50e77eedec4c4a32712ac5b1388bf0dfd435828aa6fa853b31aa3db.mp3",
                     "https://n3.kemono.su/data/af/d3/afd348c83a4864d30a823d5a7656d5b2cefd1a0fd606e99bb62fecb155fba884.mp3",
                     "https://n3.kemono.su/data/27/df/27df9935a7437f5e43be23f8ad6b06c6097192c949e1e50b419745edce967393.mp3",
-                    "https://n4.kemono.su/data/30/51/3051182dc45437c16d8b533d845f5d0c97fe0d0aba930b0736477e69138de445.mp3"
+                    "https://n4.kemono.su/data/30/51/3051182dc45437c16d8b533d845f5d0c97fe0d0aba930b0736477e69138de445.mp3",
+                    "https://n1.kemono.su/data/f5/c5/f5c5396d5afdec6330cca18b2b650141c2ad5c210a610442f9b8bc51d68bd3bd.wav",
+                    "https://n3.kemono.su/data/3f/d8/3fd8c4c054100403cf026785418b282489b5f89d8b20ef4415e0bf473b2964c5.mp3",
+                    "https://n2.kemono.su/data/5f/c6/5fc658690240b54e7b305dec45f83c75e609a974ca8713b80f03e3da3fa2474a.mp3"
                 ]
             }
         ]
@@ -1429,7 +1705,9 @@
                     "https://n1.kemono.su/data/f5/13/f513f16f1cad1b7bc70ed03eee203ca599b05e02026bfd601665bbc548bb8b48.mp3",
                     "https://n1.kemono.su/data/5e/5a/5e5a3601ee718edccff7c3c130697989c6da79fa08e7ee17e932c1d1be710b4d.mp3",
                     "https://n4.kemono.su/data/32/92/32927c18efdee8fca8341f57b3bdf00d729df304525fbcb1842226602f8ffc6f.mp3",
-                    "https://n4.kemono.su/data/8a/e3/8ae3f9a7ba9825dd7a9d8b48c4474449a36f1b135856c9d85b74f7e31dd782b4.wav"
+                    "https://n4.kemono.su/data/8a/e3/8ae3f9a7ba9825dd7a9d8b48c4474449a36f1b135856c9d85b74f7e31dd782b4.wav",
+                    "https://n2.kemono.su/data/92/48/9248dfcb94301918d2bac22134ebf3719185fd390cbd1e08a3a6b7db84762365.mp3",
+                    "https://n4.kemono.su/data/26/30/2630cfa75781a1ce58f39777d44791bf5f13f3607ef12c5f95ee451d7d73b545.wav"
                 ]
             }
         ]
@@ -1500,6 +1778,17 @@
                 ]
             },
             {
+                "title" :  "Mayral",
+                "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/myralaudio.jpg",
+                "audios" : [
+                    "https://n4.kemono.su/data/b6/e1/b6e1e91df78d6ea6bec45398ffb29ffd157173c65af5eaa021b88b82c20eab5a.mp3",
+                    "https://n1.kemono.su/data/57/a5/57a5cf6949176b5de5669f5c38c584c355a316a9f967923ab2c89b36cc310e0e.mp3",
+                    "https://n4.kemono.su/data/5f/22/5f221986d627053a4a4c7db733376f66af2a6735bb6397190c570d7e2749e020.mp3",
+                    "https://n2.kemono.su/data/5f/c6/5fc658690240b54e7b305dec45f83c75e609a974ca8713b80f03e3da3fa2474a.mp3",
+                    "https://n2.kemono.su/data/e5/98/e5989812f61f007d3c9f569365e73c8ac01897945bc2384bca368cd3d08c7248.mp3"
+                ]
+            },
+            {
                 "title" :  "SunflowerASMR",
                 "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/sunflowerasmr.jpg",
                 "audios" : [
@@ -1511,17 +1800,16 @@
                 ]
             },
             {
-                "title" :  "PuppyVA",
-                "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/puppyva.jpg",
+                "title" :  "Ein Audios",
+                "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/einaudios.png",
                 "audios" : [
-                    "https://n4.kemono.su/data/1c/5e/1c5eb7d1a67ddd17cca7e937d90a5ac850614e7c5134fe0cc1800a81a320d110.mp3",
-                    "https://n3.kemono.su/data/96/b0/96b0979b544a67127a409c02e3310a90a97cd71e73dbcc96affb0de73b694871.mp3",
-                    "https://n4.kemono.su/data/2b/85/2b85c781d12dfba32b3a6db1a3fe87d6b23dbb19d181550f2b3a69a7f13efad6.wav",
-                    "https://n1.kemono.su/data/b9/14/b91420045a4f5f9fb1b0fd17ef968224695a352dca5d3e4b2d2f21a0bc8bd919.wav",
-                    "https://n2.kemono.su/data/63/b5/63b50e6578205ed9646ef4ad7f31f585f99a38fcff86715fad7cd0ac897ec53b.mp3",
-                    "https://n3.kemono.su/data/93/a0/93a0aad39349d633236612bb151872c255a4ee58e51b65dd2b9eabdacac58ab0.mp3"
+                    "https://n3.kemono.su/data/93/a0/93a0aad39349d633236612bb151872c255a4ee58e51b65dd2b9eabdacac58ab0.mp3",
+                    "https://n1.kemono.su/data/a4/92/a49297dd384428421db947df79d97fa8c589d2676763b63b21f05ad643cbf2b9.wav",
+                    "https://n3.kemono.su/data/dd/f4/ddf48cdb436412cafd5b3f16130d48b73168dc7c73bf5c029512fb903c0ebcc6.wav",
+                    "https://n1.kemono.su/data/ef/99/ef994ac4802986d95cc8562487788ba4e49c71207b155db25c3f5e1588209a08.wav",
+                    "https://n1.kemono.su/data/f5/c5/f5c5396d5afdec6330cca18b2b650141c2ad5c210a610442f9b8bc51d68bd3bd.wav"
                 ]
-            },
+              },
             {
                 "title" :  "Dangerous ASMR",
                 "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/dangerousasmr.jpg",
@@ -1567,7 +1855,16 @@
                 "audios" : [
                     "https://n1.kemono.su/data/77/93/7793201f0754191d7452663b872f6f0d8ef33499f9d48fcf3242017663418a8d.mp3",
                     "https://n2.kemono.su/data/e4/88/e4880a0f2d7cd112ea4c0975475d445978eb56ced754bb36df85c6b942a07ad4.mp3",
-                    "https://n3.kemono.su/data/c4/57/c457177b9d640e31cdf28c0095c396d739fa20a01148446f2e38ec28967227d0.mp3"
+                    "https://n3.kemono.su/data/c4/57/c457177b9d640e31cdf28c0095c396d739fa20a01148446f2e38ec28967227d0.mp3",
+                    "https://n2.kemono.su/data/b2/df/b2df94c96ef498beef08de72457817a97b1128bf11669fbd328a0d4219895689.mp3",
+                    "https://n3.kemono.su/data/3f/d8/3fd8c4c054100403cf026785418b282489b5f89d8b20ef4415e0bf473b2964c5.mp3",
+                    "https://n3.kemono.su/data/3f/6d/3f6dcf6a07d09202375d190786f20697bb9af7b91f58af036cd99fb3ab4b071b.mp3",
+                    "https://n3.kemono.su/data/08/d5/08d5e5f386831ed9fe12d934619cfb6a77c2ebdca7a3349f6ddcd0ad219eb651.mp3",
+                    "https://n1.kemono.su/data/2e/83/2e838fec2e6b6d794d4fc1549cf4e68cdb7bae2cd17562a97601ee8ca15427bb.mp3",
+                    "https://n1.kemono.su/data/2e/83/2e838fec2e6b6d794d4fc1549cf4e68cdb7bae2cd17562a97601ee8ca15427bb.mp3",
+                    "https://n2.kemono.su/data/92/48/9248dfcb94301918d2bac22134ebf3719185fd390cbd1e08a3a6b7db84762365.mp3",
+                    "https://n3.kemono.su/data/f0/48/f04834ef4b80c61409e69b46f24176273995984150e4e3a758b8737c90dd08c4.mp3",
+                    "https://n2.kemono.su/data/19/67/1967035561c1600f660cab40ead85803bc59e8b2c3922860b954918450c771f0.mp3"
                 ]
             },
             {
@@ -1662,7 +1959,11 @@
                     "https://n4.kemono.su/data/87/68/876843ad7a9e0ff25cd1ade68443d9889388170e95db973acbd84baa0387efef.mp3",
                     "https://n1.kemono.su/data/e6/78/e678850ab7b180896fd8a00bced97d1ce28868f1111b8a23946be3e0e90fa76f.mp3",
                     "https://n3.kemono.su/data/b6/9b/b69b6d132cba2a5b0f8955f093117bfbc6782f7ee9a5770d0dd9fff34e66a934.wav",
-                    "https://n3.kemono.su/data/11/64/1164fe55172d4416fcc771d999b744f56feefae07b08d30d6fcc45e83c56afdd.mp3"
+                    "https://n3.kemono.su/data/11/64/1164fe55172d4416fcc771d999b744f56feefae07b08d30d6fcc45e83c56afdd.mp3",
+                    "https://n1.kemono.su/data/a4/92/a49297dd384428421db947df79d97fa8c589d2676763b63b21f05ad643cbf2b9.wav",
+                    "https://n3.kemono.su/data/dd/f4/ddf48cdb436412cafd5b3f16130d48b73168dc7c73bf5c029512fb903c0ebcc6.wav",
+                    "https://n1.kemono.su/data/2e/83/2e838fec2e6b6d794d4fc1549cf4e68cdb7bae2cd17562a97601ee8ca15427bb.mp3",
+                    "https://n2.kemono.su/data/5f/c6/5fc658690240b54e7b305dec45f83c75e609a974ca8713b80f03e3da3fa2474a.mp3"
                 ]
             }
         ]
@@ -1699,7 +2000,10 @@
                     "https://n2.kemono.su/data/16/28/1628e052caaf90ae99e8d64ca2088b9767f1143ef0eed30b12ff37caac9834fa.mp3",
                     "https://n1.kemono.su/data/0c/e0/0ce0505105360abf2bfd089070f56fda67b1cb73b0ec38bce05c9948a71c31b6.mp3",
                     "https://n2.kemono.su/data/bf/cf/bfcf8188fbfd42bc35de69845ef7dc7edefe87c53ac76b54f08ba7a882b7c327.mp3",
-                    "https://n1.kemono.su/data/f5/04/f504044e75bab970f0811dec61ed85adf002a171bf2fc279962c7d98479e62c9.mp3"
+                    "https://n1.kemono.su/data/f5/04/f504044e75bab970f0811dec61ed85adf002a171bf2fc279962c7d98479e62c9.mp3",
+                    "https://n1.kemono.su/data/f5/c5/f5c5396d5afdec6330cca18b2b650141c2ad5c210a610442f9b8bc51d68bd3bd.wav",
+                    "https://n3.kemono.su/data/3f/6d/3f6dcf6a07d09202375d190786f20697bb9af7b91f58af036cd99fb3ab4b071b.mp3",
+                    "https://n3.kemono.su/data/08/d5/08d5e5f386831ed9fe12d934619cfb6a77c2ebdca7a3349f6ddcd0ad219eb651.mp3"
                 ]
             }
         ]
@@ -1751,7 +2055,16 @@
                     "https://n1.kemono.su/data/0d/99/0d99eaa20511a062b492e17c1e890a49d0d7bbd84610fd3effa2f45768f23383.mp3",
                     "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/storemanager.mp3",
                     "https://n4.kemono.su/data/34/c8/34c8e23b82c21eb72c9bcc9312925465037e800b93ae8ae8d7bdcdb026533413.mp3",
-                    "https://n2.kemono.su/data/2c/1a/2c1a30e86d934bea211bd3c30f91731ddd59eb2662cfa24bf848795a164d7409.mp3"
+                    "https://n2.kemono.su/data/2c/1a/2c1a30e86d934bea211bd3c30f91731ddd59eb2662cfa24bf848795a164d7409.mp3",
+                    "https://n2.kemono.su/data/b2/df/b2df94c96ef498beef08de72457817a97b1128bf11669fbd328a0d4219895689.mp3",
+                    "https://n3.kemono.su/data/3f/d8/3fd8c4c054100403cf026785418b282489b5f89d8b20ef4415e0bf473b2964c5.mp3",
+                    "https://n3.kemono.su/data/3f/6d/3f6dcf6a07d09202375d190786f20697bb9af7b91f58af036cd99fb3ab4b071b.mp3",
+                    "https://n3.kemono.su/data/08/d5/08d5e5f386831ed9fe12d934619cfb6a77c2ebdca7a3349f6ddcd0ad219eb651.mp3",
+                    "https://n1.kemono.su/data/2e/83/2e838fec2e6b6d794d4fc1549cf4e68cdb7bae2cd17562a97601ee8ca15427bb.mp3",
+                    "https://n2.kemono.su/data/92/48/9248dfcb94301918d2bac22134ebf3719185fd390cbd1e08a3a6b7db84762365.mp3",
+                    "https://n3.kemono.su/data/f0/48/f04834ef4b80c61409e69b46f24176273995984150e4e3a758b8737c90dd08c4.mp3",
+                    "https://n2.kemono.su/data/19/67/1967035561c1600f660cab40ead85803bc59e8b2c3922860b954918450c771f0.mp3",
+                    "https://n4.kemono.su/data/da/9e/da9e2e0ed665e0e08f16fa886ba31a5fc86b50f782f45248c90b478c3f74f42e.wav"
                 ]
             }
         ]
@@ -1784,7 +2097,9 @@
                     "https://n3.kemono.su/data/26/3a/263a44c4b67f8f2d2fe1d1f5f00ab315bf6b1221fa583e0ce7b37232581ccedc.mp3",
                     "https://n2.kemono.su/data/6e/32/6e32c3191fdd6b9e0160e1882cdda03c8ece367149e1d8491f3cc387ddcb4aad.mp3",
                     "https://n4.kemono.su/data/59/75/5975ab49fee3302a1dd62fc9c9cc43e5ded476a197fc5eb1a6c10044ed3991d2.mp3",
-                    "https://n2.kemono.su/data/93/39/9339e3e6cd6ac273b6188faba993ecb0a8adf996f00537a67674aeb72a82795b.mp3"
+                    "https://n2.kemono.su/data/93/39/9339e3e6cd6ac273b6188faba993ecb0a8adf996f00537a67674aeb72a82795b.mp3",
+                    "https://n3.kemono.su/data/08/d5/08d5e5f386831ed9fe12d934619cfb6a77c2ebdca7a3349f6ddcd0ad219eb651.mp3",
+                    "https://n2.kemono.su/data/e5/98/e5989812f61f007d3c9f569365e73c8ac01897945bc2384bca368cd3d08c7248.mp3"
                 ]
             }
         ]

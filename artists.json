@@ -238,7 +238,11 @@
     "gender" : "female",
     "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/einaudios.png",
     "audios" : [
-        "https://n3.kemono.su/data/93/a0/93a0aad39349d633236612bb151872c255a4ee58e51b65dd2b9eabdacac58ab0.mp3"
+        "https://n3.kemono.su/data/93/a0/93a0aad39349d633236612bb151872c255a4ee58e51b65dd2b9eabdacac58ab0.mp3",
+        "https://n1.kemono.su/data/a4/92/a49297dd384428421db947df79d97fa8c589d2676763b63b21f05ad643cbf2b9.wav",
+        "https://n3.kemono.su/data/dd/f4/ddf48cdb436412cafd5b3f16130d48b73168dc7c73bf5c029512fb903c0ebcc6.wav",
+        "https://n1.kemono.su/data/ef/99/ef994ac4802986d95cc8562487788ba4e49c71207b155db25c3f5e1588209a08.wav",
+        "https://n1.kemono.su/data/f5/c5/f5c5396d5afdec6330cca18b2b650141c2ad5c210a610442f9b8bc51d68bd3bd.wav"
     ]
   },
   {
@@ -248,7 +252,16 @@
     "audios" : [
         "https://n1.kemono.su/data/77/93/7793201f0754191d7452663b872f6f0d8ef33499f9d48fcf3242017663418a8d.mp3",
         "https://n2.kemono.su/data/e4/88/e4880a0f2d7cd112ea4c0975475d445978eb56ced754bb36df85c6b942a07ad4.mp3",
-        "https://n3.kemono.su/data/c4/57/c457177b9d640e31cdf28c0095c396d739fa20a01148446f2e38ec28967227d0.mp3"
+        "https://n3.kemono.su/data/c4/57/c457177b9d640e31cdf28c0095c396d739fa20a01148446f2e38ec28967227d0.mp3",
+        "https://n2.kemono.su/data/b2/df/b2df94c96ef498beef08de72457817a97b1128bf11669fbd328a0d4219895689.mp3",
+        "https://n3.kemono.su/data/3f/d8/3fd8c4c054100403cf026785418b282489b5f89d8b20ef4415e0bf473b2964c5.mp3",
+        "https://n3.kemono.su/data/3f/6d/3f6dcf6a07d09202375d190786f20697bb9af7b91f58af036cd99fb3ab4b071b.mp3",
+        "https://n3.kemono.su/data/08/d5/08d5e5f386831ed9fe12d934619cfb6a77c2ebdca7a3349f6ddcd0ad219eb651.mp3",
+        "https://n1.kemono.su/data/2e/83/2e838fec2e6b6d794d4fc1549cf4e68cdb7bae2cd17562a97601ee8ca15427bb.mp3",
+        "https://n1.kemono.su/data/2e/83/2e838fec2e6b6d794d4fc1549cf4e68cdb7bae2cd17562a97601ee8ca15427bb.mp3",
+        "https://n2.kemono.su/data/92/48/9248dfcb94301918d2bac22134ebf3719185fd390cbd1e08a3a6b7db84762365.mp3",
+        "https://n3.kemono.su/data/f0/48/f04834ef4b80c61409e69b46f24176273995984150e4e3a758b8737c90dd08c4.mp3",
+        "https://n2.kemono.su/data/19/67/1967035561c1600f660cab40ead85803bc59e8b2c3922860b954918450c771f0.mp3"
     ]
   },
   {
@@ -265,7 +278,10 @@
     "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/myralaudio.jpg",
     "audios" : [
         "https://n4.kemono.su/data/b6/e1/b6e1e91df78d6ea6bec45398ffb29ffd157173c65af5eaa021b88b82c20eab5a.mp3",
-        "https://n1.kemono.su/data/57/a5/57a5cf6949176b5de5669f5c38c584c355a316a9f967923ab2c89b36cc310e0e.mp3"
+        "https://n1.kemono.su/data/57/a5/57a5cf6949176b5de5669f5c38c584c355a316a9f967923ab2c89b36cc310e0e.mp3",
+        "https://n4.kemono.su/data/5f/22/5f221986d627053a4a4c7db733376f66af2a6735bb6397190c570d7e2749e020.mp3",
+        "https://n2.kemono.su/data/5f/c6/5fc658690240b54e7b305dec45f83c75e609a974ca8713b80f03e3da3fa2474a.mp3",
+        "https://n2.kemono.su/data/e5/98/e5989812f61f007d3c9f569365e73c8ac01897945bc2384bca368cd3d08c7248.mp3"
     ]
   },
   {
@@ -431,7 +447,12 @@
     "gender" : "female",
     "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/noceurasmr.jpg",
     "audios" : [
-        "https://n4.kemono.su/data/d9/82/d982451711954e3d23ff3883cc66beac6c9fd99968281ba58fa83d71f980b55b.mp3"
+        "https://n4.kemono.su/data/d9/82/d982451711954e3d23ff3883cc66beac6c9fd99968281ba58fa83d71f980b55b.mp3",
+        "https://n4.kemono.su/data/da/9e/da9e2e0ed665e0e08f16fa886ba31a5fc86b50f782f45248c90b478c3f74f42e.wav",
+        "https://n4.kemono.su/data/26/30/2630cfa75781a1ce58f39777d44791bf5f13f3607ef12c5f95ee451d7d73b545.wav",
+        "https://n3.kemono.su/data/26/71/2671a527f2704ba2f6ea3dd00d97484837e6823f731abb85fbdffd76b722d0b0.wav",
+        "https://n2.kemono.su/data/6d/17/6d17bc0a520eb6f1e41d85eaa3a4b68423cc672552cc6ce290bbb36ce0c8f407.wav",
+        "https://n4.kemono.su/data/a4/70/a4702104339b042bb13e62175d228b5acedfd597e4a802ffefbe1fadc152fc70.wav"
     ]
   },
   {
