@@ -456,14 +456,6 @@
     ]
   },
   {
-    "name" :  "DarkerDreams",
-    "gender" : "female",
-    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/darkerdreams.jpg",
-    "audios" : [
-        
-    ]
-  },
-  {
     "name" :  "Shortcake",
     "gender" : "female",
     "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/shortcake.png",
@@ -476,25 +468,9 @@
     ]
   },
   {
-    "name" :  "Mommykins ASMR",
-    "gender" : "female",
-    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/mommykinksasmr.png",
-    "audios" : [
-        
-    ]
-  },
-  {
     "name" :  "Redacted Audio",
     "gender" : "male",
     "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/reactedaudio.png",
-    "audios" : [
-        
-    ]
-  },
-  {
-    "name" :  "Spring Asmr",
-    "gender" : "female",
-    "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/springasmr.jpg",
     "audios" : [
         
     ]
@@ -504,7 +480,24 @@
     "gender" : "female",
     "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/nylaasmr.jpg",
     "audios" : [
-        
+        "https://n4.kemono.su/data/46/32/4632a51c0bb118430771517c038e5cd8418b0550f9c78eba709f2c7e28759f89.mp3",
+        "https://n4.kemono.su/data/db/8d/db8d4b33c6cd98db37e64d78f9ea88473f466c3e6dcba508a321cd118564c526.mp3",
+        "https://n1.kemono.su/data/1d/46/1d46cc216bc9e7bca7c4f0dc8d36568a60d1f13f5c7bffa6b4cbc770e0a20b10.mp3",
+        "https://n2.kemono.su/data/50/aa/50aabd85df0c928fe407ea2ed782fc08f5c1bd75bcc90cdd1d48fb71ab979db0.mp3",
+        "https://n3.kemono.su/data/6d/9a/6d9aaf32e7148fe3ece3761911e110e46ea2200387d02017c18b76537363ca5c.mp3",
+        "https://n1.kemono.su/data/c7/3c/c73c545cf283fa7cf8c65085d9fc0e16e10121ef1344803f1f6f8a4d0141145f.mp3",
+        "https://n3.kemono.su/data/f8/6d/f86d2952e8758f29501522cbd47511776df4c6a3db1b0cc604175cd47b5a2af3.mp3",
+        "https://n4.kemono.su/data/08/f6/08f6c4cadaefe704c4fae01384d4fbd0e0207b349de52bd9bc03cc55ade5cdfe.mp3",
+        "https://n2.kemono.su/data/f0/1f/f01f26a24b1b83460d51165e1bcacd7338fd5a89eb242f76b6fa3afc8a58933d.mp3",
+        "https://n1.kemono.su/data/f1/f4/f1f4c716d917e040b9f9abdd49e2549e3efd58192fbe317eea9195da5538db17.mp3",
+        "https://n4.kemono.su/data/83/41/8341eb9991f68da12d7288e6263ff26cc533fc3a727a6cf2e424d7db4e228a73.mp3",
+        "https://n2.kemono.su/data/11/76/117657744634c9c4a3b3268bd5b91e73f8d896583c81cf5025c3631a3ac79935.mp3",
+        "https://n2.kemono.su/data/ad/85/ad855e26077af5b24837f806f1536437443eed56b3ce7330de1be98480c1d4c3.mp3",
+        "https://n2.kemono.su/data/71/fb/71fba2677e3d299fb0c972cfae7718f44b23b6f58d31a0c2362fd1c6985bf252.mp3",
+        "https://n2.kemono.su/data/6b/2d/6b2d50b87013a6e8b84275d11a669255a1dd1d628e8c67dc729a91ffb7a25d30.mp3",
+        "https://n2.kemono.su/data/0a/74/0a74178e4ea930f5374750cdd8337911ffbad7674e34d0e35bcd61f141294c0c.mp3",
+        "https://n2.kemono.su/data/dd/c3/ddc33c92321ad6d5fc0cc46f89ee860000e449cb5bfe2ccb2df509d19dd90426.mp3",
+        "https://n1.kemono.su/data/25/b3/25b391102c32b87428dafd091bfbdaf8fbb4252f97d9b4c3383e2bc9bf6e20f3.mp3"
     ]
   },
   {
@@ -512,7 +505,11 @@
     "gender" : "female",
     "image" : "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/kanadeasmr.png",
     "audios" : [
-        
+        "https://n2.kemono.su/data/d0/d7/d0d7bcd10b27eda6d79caba03445edda33a6308c64c8577c8203f59a8592b169.mp3",
+        "https://n3.kemono.su/data/79/a6/79a6020cf96c5cf0ed5c00b9498c483d0175ce726177c72b0f1274e8d20a8663.mp3",
+        "https://n4.kemono.su/data/9a/e9/9ae9fdab97db9fdb71c85998a1b702c4ca5a913780bd5b53a4cff44b792da349.mp3",
+        "https://n3.kemono.su/data/2c/14/2c1425214f769bb731aefbf69822aa23bec891cbbacd25357d2b138d205da0bf.mp3",
+        "https://n2.kemono.su/data/a7/cc/a7ccd4a69bc1d752805ee93f41c42d8d511a0d366d6e691ab1d551e6db932106.mp3"
     ]
   },
   {
