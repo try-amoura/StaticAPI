@@ -4,40 +4,16 @@
         "type": "banner",
         "playlists": [
             {
-                "title": "Breast Play",
-                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/breastplay.png",
+                "title": "Behold the Beauty",
+                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/beholdthebeauty.png",
                 "audios": [
-                    "https://n4.kemono.cr/data/dc/a6/dca65d18e39c9f135284f2e3f3fc2177f0fc4a33030408e86c9fd54af7bdf38f.mp3",
-                    "https://n3.kemono.cr/data/74/66/74662cc81421f49252577789ed831922e8b7802d7fcc2746924ebb5955885b21.wav",
-                    "https://n2.kemono.cr/data/32/e7/32e791f397bd2ba842a627e446d602d5e9f53eb4e93123c1e6729125fa5a32f2.mp3",
-                    "https://n1.kemono.cr/data/e6/78/e678850ab7b180896fd8a00bced97d1ce28868f1111b8a23946be3e0e90fa76f.mp3",
-                    "https://n3.kemono.cr/data/84/49/8449225731c717206bd34138528a4f41e2f71cec986826f0986b3538a880d6b4.mp3",
-                    "https://n1.kemono.cr/data/01/43/0143c7d296e141ae07c6fdcd4d9d10b5f644b9feba3b6523c6902e9b5896ce22.wav",
-                    "https://n3.kemono.cr/data/08/d5/08d5e5f386831ed9fe12d934619cfb6a77c2ebdca7a3349f6ddcd0ad219eb651.mp3",
-                    "https://n3.kemono.cr/data/af/d3/afd348c83a4864d30a823d5a7656d5b2cefd1a0fd606e99bb62fecb155fba884.mp3",
-                    "https://n2.kemono.cr/data/92/07/9207e6e5f9ff9a8ce20e0501e046da0e9157f5b52a810198fb8d43c6bfa7f653.mp3",
-                    "https://n2.kemono.cr/data/b2/df/b2df94c96ef498beef08de72457817a97b1128bf11669fbd328a0d4219895689.mp3",
-                    "https://n1.kemono.cr/data/ff/30/ff30ec23b58d4052cb7f9d5e0c27a2bc1f504608572652a93023b2f5305a20e8.mp3",
-                    "https://n3.kemono.cr/data/95/e5/95e5f241fa4d58e5594e7d25e404954cd919a3af5d904efafb97903d2ed8cd1f.mp3",
-                    "https://n2.kemono.cr/data/ca/34/ca34777a52fd9857bc65f77042f96bd64f0f91b171e6136a6e31cd6b5d618208.mp3"
-                ]
-            },
-            {
-                "title": "Thighs Save Lives",
-                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/thighssavelives.png",
-                "audios": [
-                    "https://n3.kemono.cr/data/cd/19/cd19996bfc04c0b88596a804a1bd5e06fe9421ba2f58ffc6e7fba73659e7a87e.mp3",
-                    "https://n4.kemono.cr/data/7a/7d/7a7da26ded33254df6957404a60443b88a4c7fd5eeb0eb626dda062377cdba75.mp3",
-                    "https://n1.kemono.cr/data/ef/99/ef994ac4802986d95cc8562487788ba4e49c71207b155db25c3f5e1588209a08.wav",
-                    "https://n1.kemono.cr/data/f7/f9/f7f925701ebea4efb83af6a0b10349b682d97f73e497ee70c0309c1f88e8920f.mp3",
-                    "https://n1.kemono.cr/data/f2/e0/f2e0227e21acd936bb02a6bbe7cf790eff9265fa35faaa5cbb4bd21f157389ba.mp3",
-                    "https://n3.kemono.cr/data/56/c6/56c61cf93228be56d2aaa54970da66305371fa8e26d3ae42de4e298fb9232a9a.mp3",
-                    "https://n1.kemono.cr/data/49/7c/497c221e6c87bf59bc29d763df73aee5e95868a089ac48bc15540b469ffdb1a0.mp3",
-                    "https://n2.kemono.cr/data/93/39/9339e3e6cd6ac273b6188faba993ecb0a8adf996f00537a67674aeb72a82795b.mp3",
-                    "https://n3.kemono.cr/data/86/e9/86e909915b230ec0050355ced763ac50a37aead4fa3fab5ff617b8c63ac15a80.mp3",
-                    "https://n1.kemono.cr/data/0c/e0/0ce0505105360abf2bfd089070f56fda67b1cb73b0ec38bce05c9948a71c31b6.mp3",
-                    "https://n1.kemono.cr/data/b9/14/b91420045a4f5f9fb1b0fd17ef968224695a352dca5d3e4b2d2f21a0bc8bd919.wav",
-                    "https://n4.kemono.cr/data/da/2c/da2c3496d00de32515a79e2b9c14b9067c0bb2ff49df693bdd267a0fae7c2830.mp3"
+                    "https://n4.kemono.cr/data/4f/c3/4fc3a6ef27a841063db6727ee423c34193b4c49d4b4ecb15e4cea0839d4c9610.mp3",
+                    "https://n1.kemono.cr/data/0d/99/0d99eaa20511a062b492e17c1e890a49d0d7bbd84610fd3effa2f45768f23383.mp3",
+                    "https://n2.kemono.cr/data/88/7b/887ba73380f1f65cddba78edc5f9cee1bf3ac396489102dda5cf0aebd867f183.mp3",
+                    "https://n2.kemono.cr/data/bf/cf/bfcf8188fbfd42bc35de69845ef7dc7edefe87c53ac76b54f08ba7a882b7c327.mp3",
+                    "https://n3.kemono.cr/data/4e/d5/4ed5c64767b5d7a4a3905b010b949ea4a9406dbf1a481e0b3c70fdacb4e26a58.mp3",
+                    "https://n3.kemono.cr/data/40/9e/409e12181fbe064192c7081243d5baf7193767d0e7e3e10f5aa281be7354ad82.mp3",
+                    "https://n1.kemono.cr/data/f5/04/f504044e75bab970f0811dec61ed85adf002a171bf2fc279962c7d98479e62c9.mp3"
                 ]
             },
             {
