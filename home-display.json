@@ -5,7 +5,7 @@
     "playlists": [
       {
         "title": "Happy Holidays",
-        "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/happyholidays.png",
+        "image": "https://res.cloudinary.com/dilnddg8q/image/upload/w_1080,c_fill,f_auto,q_auto:good,dpr_auto/banner/happyholidays.png",
         "audios": [
           "https://n4.kemono.cr/data/dc/53/dc5374b5a9cee804cb79c495bf8e7a62586115f3eb8e6734defb5e1d9dcf9cd5.wav",
           "https://n4.kemono.cr/data/a3/68/a36893f6d78ab30828d32cae95175fbedc60febb0e4d7c9f37497acfc310adf1.mp3",
@@ -188,7 +188,7 @@
       },
       {
         "title": "Friends To Lovers",
-        "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/friendstolovers.png",
+        "image": "https://res.cloudinary.com/dilnddg8q/image/upload/w_1080,c_fill,f_auto,q_auto:good,dpr_auto/banner/friendstolovers.png",
         "audios": [
           "https://n1.kemono.cr/data/30/73/3073306a9795b4065bdbd44ffd0c65638a707e1d1cbb0b4678fbc8d1b0fb0899.wav",
           "https://n4.kemono.cr/data/42/8b/428bda1a04886997be12af9a9938a28ec50895937e909be402723cb92c31570e.wav",
@@ -714,7 +714,7 @@
       },
       {
         "title": "The Toxic Ex",
-        "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/toxic.png",
+        "image": "https://res.cloudinary.com/dilnddg8q/image/upload/w_1080,c_fill,f_auto,q_auto:good,dpr_auto/banner/toxic.png",
         "audios": [
           "https://storage.googleapis.com/hlinapp-storage/audios/F4A_I_am_still_the_only_one_that_knows_what_you_need_o9qfdt.mp4",
           "https://storage.googleapis.com/hlinapp-storage/audios/ywrkwvnff73nzqx885w3.mp4",
@@ -965,7 +965,7 @@
       },
       {
         "title": "Butt stuff",
-        "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/buttstuff.png",
+        "image": "https://res.cloudinary.com/dilnddg8q/image/upload/w_1080,c_fill,f_auto,q_auto:good,dpr_auto/banner/buttstuff.png",
         "audios": [
           "https://n2.kemono.cr/data/27/a7/27a7e152f16f3d8a995cd20533c8f7fd3abb5199463bf2227632820db5f198a9.mp3",
           "https://n3.kemono.cr/data/6a/9e/6a9ef7c4ed4138f11a0cfd4d14b16fe64895bead6a2720a59769f0dae690d506.mp3",
@@ -1199,7 +1199,7 @@
       },
       {
         "title": "Oral",
-        "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/oral.png",
+        "image": "https://res.cloudinary.com/dilnddg8q/image/upload/w_1080,c_fill,f_auto,q_auto:good,dpr_auto/banner/oral.png",
         "audios": [
           "https://storage.googleapis.com/amoura-production.firebasestorage.app/Audios/storemanager.mp3",
           "https://n4.kemono.cr/data/34/c8/34c8e23b82c21eb72c9bcc9312925465037e800b93ae8ae8d7bdcdb026533413.mp3",
@@ -2845,7 +2845,7 @@
       },
       {
         "title": "Mommy",
-        "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/mommy.png",
+        "image": "https://res.cloudinary.com/dilnddg8q/image/upload/w_1080,c_fill,f_auto,q_auto:good,dpr_auto/banner/mommy.png",
         "audios": [
           "https://n1.kemono.cr/data/ff/30/ff30ec23b58d4052cb7f9d5e0c27a2bc1f504608572652a93023b2f5305a20e8.mp3",
           "https://n2.kemono.cr/data/ca/34/ca34777a52fd9857bc65f77042f96bd64f0f91b171e6136a6e31cd6b5d618208.mp3",
@@ -2947,7 +2947,7 @@
       },
       {
         "title": "Behold the Beauty",
-        "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/beholdthebeauty.png",
+        "image": "https://res.cloudinary.com/dilnddg8q/image/upload/w_1080,c_fill,f_auto,q_auto:good,dpr_auto/banner/beholdthebeauty.png",
         "audios": [
           "https://storage.googleapis.com/hlinapp-storage/audios/h0pvmqk3vvw0lw1j5moy.mp4",
           "https://storage.googleapis.com/hlinapp-storage/audios/e1u34mtuddttmpygyru0.mp4",
@@ -3065,7 +3065,7 @@
       },
       {
         "title": "The Royal Knight",
-        "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/banner/knight2.png",
+        "image": "https://res.cloudinary.com/dilnddg8q/image/upload/w_1080,c_fill,f_auto,q_auto:good,dpr_auto/banner/knight2.png",
         "audios": [
           "https://n4.kemono.cr/data/b1/9c/b19c899998a797d794458f773387d2a481c7f680dfa9f6073092dcb9617078e9.mp3",
           "https://n4.kemono.cr/data/ad/f6/adf685c8ce0321deaef04e23d597260c5058e30826e1645f77e9149474c09be5.mp3",
@@ -18399,7 +18399,7 @@
     "playlists": [
       {
         "title": "Anonyfun",
-        "image": "https://storage.googleapis.com/hlinapp-storage/profile-image/Screen_Shot_2021-04-05_at_11.34.46_PM.png",
+        "image": "https://res.cloudinary.com/dilnddg8q/image/upload/w_240,h_240,c_fill,f_auto,q_auto:eco,dpr_auto/v1768144790/assets/Screen_Shot_2021-04-05_at_11.34.46_PM.png",
         "audios": [
           "https://storage.googleapis.com/hlinapp-storage/audios/cymtmdw9y0pn1uzj7fia.mp4",
           "https://storage.googleapis.com/hlinapp-storage/audios/Copy_of_332_Morning_Feels_ray9wh.mp4",
@@ -18501,7 +18501,7 @@
       },
       {
         "title": "AudioEve",
-        "image": "https://storage.googleapis.com/hlinapp-storage/profile-image/image_6483441.JPG",
+        "image": "https://res.cloudinary.com/dilnddg8q/image/upload/w_240,h_240,c_fill,f_auto,q_auto:eco,dpr_auto/v1768144790/assets/image_6483441.JPG",
         "audios": [
           "https://storage.googleapis.com/hlinapp-storage/audios/movie_night_spooning_edited_final_u9dehm_online-audio-converter.com_tbluqm.mp4",
           "https://storage.googleapis.com/hlinapp-storage/audios/n8ax4e80meenvohb5gok.mp4",
@@ -18610,7 +18610,7 @@
       },
       {
         "title": "Bad Influence",
-        "image": "https://storage.googleapis.com/hlinapp-storage/profile-image/new_logo_bad_influence.png",
+        "image": "https://res.cloudinary.com/dilnddg8q/image/upload/w_240,h_240,c_fill,f_auto,q_auto:eco,dpr_auto/v1768144790/assets/new_logo_bad_influence.png",
         "audios": [
           "https://storage.googleapis.com/hlinapp-storage/audios/ylvmb8zio0ynraddta6u.mp4",
           "https://storage.googleapis.com/hlinapp-storage/audios/wrtguh6rp5l5qacz4ly7.mp4",
@@ -18863,7 +18863,7 @@
       },
       {
         "title": "Behold the Beauty",
-        "image": "https://storage.googleapis.com/hlinapp-storage/profile-image/Behold_the_Beauty_-_SFW_PFP_-_Square.png",
+        "image": "https://res.cloudinary.com/dilnddg8q/image/upload/w_240,h_240,c_fill,f_auto,q_auto:eco,dpr_auto/v1768144790/assets/Behold_the_Beauty_-_SFW_PFP_-_Square.png",
         "audios": [
           "https://n4.kemono.cr/data/4f/c3/4fc3a6ef27a841063db6727ee423c34193b4c49d4b4ecb15e4cea0839d4c9610.mp3",
           "https://n1.kemono.cr/data/0d/99/0d99eaa20511a062b492e17c1e890a49d0d7bbd84610fd3effa2f45768f23383.mp3",
@@ -18988,7 +18988,7 @@
       },
       {
         "title": "axolotl",
-        "image": "https://storage.googleapis.com/hlinapp-storage/profile-image/pfp__1_.png",
+        "image": "https://res.cloudinary.com/dilnddg8q/image/upload/w_240,h_240,c_fill,f_auto,q_auto:eco,dpr_auto/v1768144790/assets/pfp__1_.png",
         "audios": [
           "https://storage.googleapis.com/hlinapp-storage/audios/qfr8ryk0gzcvhqdz5tzz.mp4",
           "https://storage.googleapis.com/hlinapp-storage/audios/alotofaxolotl_putting_my_needy_good_girl_back_to_sleep_cajsco_j5dqx2.mp4",
@@ -19274,7 +19274,7 @@
       },
       {
         "title": "Girl In Dungarees",
-        "image": "https://storage.googleapis.com/hlinapp-storage/profile-image/IMG_9585.jpg",
+        "image": "https://res.cloudinary.com/dilnddg8q/image/upload/w_240,h_240,c_fill,f_auto,q_auto:eco,dpr_auto/v1768144790/assets/IMG_9585.jpg",
         "audios": [
           "https://storage.googleapis.com/hlinapp-storage/audios/F4F_Your_Neighbor_will_plow_you_if_you_plow_her_driveway_kjyobh.mp4",
           "https://storage.googleapis.com/hlinapp-storage/audios/You_re_always_so_good_for_me_I_want_to_be_good_to_you_4A_g6gvo2.mp4",
