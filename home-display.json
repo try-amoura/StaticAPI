@@ -1,36 +1,6 @@
 [
     {
         "title" : "",
-        "type": "banner",
-        "playlists": [
-          {
-        "title" : "",
-        "type": "horizontal",
-        "playlists": [
-            {
-                "title": "Audi's Apothecary",
-                "image": "https://storage.googleapis.com/amoura-production.firebasestorage.app/img/audioharlot.jpeg",
-                "audios": [
-                    "https://n1.kemono.cr/data/77/93/7793201f0754191d7452663b872f6f0d8ef33499f9d48fcf3242017663418a8d.mp3",
-                    "https://n2.kemono.cr/data/e4/88/e4880a0f2d7cd112ea4c0975475d445978eb56ced754bb36df85c6b942a07ad4.mp3",
-                    "https://n3.kemono.cr/data/c4/57/c457177b9d640e31cdf28c0095c396d739fa20a01148446f2e38ec28967227d0.mp3",
-                    "https://n2.kemono.cr/data/b2/df/b2df94c96ef498beef08de72457817a97b1128bf11669fbd328a0d4219895689.mp3",
-                    "https://n3.kemono.cr/data/3f/d8/3fd8c4c054100403cf026785418b282489b5f89d8b20ef4415e0bf473b2964c5.mp3",
-                    "https://n3.kemono.cr/data/3f/6d/3f6dcf6a07d09202375d190786f20697bb9af7b91f58af036cd99fb3ab4b071b.mp3",
-                    "https://n3.kemono.cr/data/08/d5/08d5e5f386831ed9fe12d934619cfb6a77c2ebdca7a3349f6ddcd0ad219eb651.mp3",
-                    "https://n1.kemono.cr/data/2e/83/2e838fec2e6b6d794d4fc1549cf4e68cdb7bae2cd17562a97601ee8ca15427bb.mp3",
-                    "https://n1.kemono.cr/data/2e/83/2e838fec2e6b6d794d4fc1549cf4e68cdb7bae2cd17562a97601ee8ca15427bb.mp3",
-                    "https://n2.kemono.cr/data/92/48/9248dfcb94301918d2bac22134ebf3719185fd390cbd1e08a3a6b7db84762365.mp3",
-                    "https://n3.kemono.cr/data/f0/48/f04834ef4b80c61409e69b46f24176273995984150e4e3a758b8737c90dd08c4.mp3",
-                    "https://n2.kemono.cr/data/19/67/1967035561c1600f660cab40ead85803bc59e8b2c3922860b954918450c771f0.mp3"
-                ]
-            }
-        ]
-    }
-        ]
-    },
-    {
-        "title" : "",
         "type": "horizontal",
         "playlists": [
             {
