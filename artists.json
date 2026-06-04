@@ -598,16 +598,6 @@
     ]
   },
   {
-    "name": "Amplified",
-    "gender": "female",
-    "image": "https://images.ctfassets.net/vfaw62ezde1i/jctANMfVVPQNujxt4oVYZ/c738f8c3ee074d8fc6635939148c6981/Untitled_design_-_2024-06-30T214307.561.png",
-    "audios": [
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1719809792/audios/AmplifiedFINAL/o5wgy34zc9wdr9lhd7fo.mp4",
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1720437135/audios/AmplifiedFINAL/kp1zhnllfw2rfwwwuty4.mp4",
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1721019916/audios/AmplifiedFINAL/euef2l6cphkwhtu5mwml.mp4"
-    ]
-  },
-  {
     "name": "Anonyfun",
     "gender": "male",
     "image": "https://images.ctfassets.net/vfaw62ezde1i/2pN41I6bQdwnJpuUKuJ4VN/bb9f4e93ba3f1df169e1153dbeac2d7e/Screen_Shot_2021-04-05_at_11.34.46_PM.png",
@@ -2298,16 +2288,6 @@
     ]
   },
   {
-    "name": "The Bodyguard",
-    "gender": "male",
-    "image": "https://images.ctfassets.net/vfaw62ezde1i/36ivTwTp2E8mV9dqRVbfaZ/044973544cb38fe9ade76d6a98195e08/Memes__Square___2_.png",
-    "audios": [
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1775179577/audios/bodyguard/z6keouvmq0qhrwbzfhrm.mp4",
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1774573024/audios/bodyguard/de4awixhas223qgqn5qj.mp4",
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1773980769/audios/bodyguard/dx7refvjos4rvvrfhlkz.mp4"
-    ]
-  },
-  {
     "name": "BritishFilth",
     "gender": "male",
     "image": "https://images.ctfassets.net/vfaw62ezde1i/7gSF121H1DM7VKfI8v4mOk/008e16267dd689eedfa44ba08c82f4c6/Untitled_design_-_2024-05-28T213701.227.png",
@@ -2974,16 +2954,6 @@
     ]
   },
   {
-    "name": "Compromised",
-    "gender": "female",
-    "image": "https://images.ctfassets.net/vfaw62ezde1i/cM7uDqlq6hd6sZkyfLAOL/53b788d2ece99a297260f5a98885b026/finalvoice.png",
-    "audios": [
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,br_96k/v1695900839/audios/Compromised/itvoajbazzck5cdjvlbn.mp4",
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1695277673/audios/Compromised/ifcixlwcly88wy2z5fed.mp4",
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1696519479/audios/Compromised/ana6baie9o655mjftja9.mp4"
-    ]
-  },
-  {
     "name": "Corvin King",
     "gender": "male",
     "image": "https://images.ctfassets.net/vfaw62ezde1i/2xGKxGc4KKMURbqAAMAG0K/43aff8d2b8d414dbe0b6288059882789/image__3_.png",
@@ -3032,17 +3002,6 @@
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/v1730772947/creators/production/7HkwD5Dg166rJ0ifdetTbK/yhobtgo3alne5upb3qva.mp4",
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/v1738553422/creators/production/7HkwD5Dg166rJ0ifdetTbK/clvfk4dpsfagjhas0rox.mp4",
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/v1739852617/creators/production/7HkwD5Dg166rJ0ifdetTbK/shyffo0fuppr4pvhazbc.mp4"
-    ]
-  },
-  {
-    "name": "Dark & Stormy",
-    "gender": "male",
-    "image": "https://images.ctfassets.net/vfaw62ezde1i/5DcPz5zTJIrj3bHdR7Qbka/7edb2dc7657807186c4d0f43559f090b/Screen_Shot_2024-10-28_at_6.07.44_AM.png",
-    "audios": [
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,br_96k/v1730099026/audios/DarkAndStormy/zihusshqgfejlojhhjhi.mp4",
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1730138845/audios/Bad%20Influence/ithzbuq3fnwbh67pdwbd.mp4",
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1730092968/audios/DarkAndStormy/kcjt15mqvlhdvu1svyti.mp4",
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,br_96k/v1730086857/audios/DarkAndStormy/zajbdmeggkbq3nnwyoyd.mp4"
     ]
   },
   {
@@ -3532,16 +3491,6 @@
     ]
   },
   {
-    "name": "Ember & Ice",
-    "gender": "male",
-    "image": "https://images.ctfassets.net/vfaw62ezde1i/6Sgi4Xdo0Gj9VjW7btn21y/fd7f100fafd66793f6f227a3292946b7/Untitled__1080_x_1080_px_.png",
-    "audios": [
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1767081437/audios/Ember%20and%20ICe/egyijoxgn8x7khmrd1sa.mp4",
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1767591093/audios/Ember%20and%20ICe/v7cfpf9lcmljgo29utng.mp4",
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1767136945/audios/Ember%20and%20ICe/a80px6zwm6j2ess2vocr.mp4"
-    ]
-  },
-  {
     "name": "Emilie",
     "gender": "female",
     "image": "https://images.ctfassets.net/vfaw62ezde1i/4TMcc8pLNf16JZltAyFRZ6/a22c009e7a66c01d2a0705840e4ca99f/Untitled_design__15_.png",
@@ -3918,16 +3867,6 @@
     ]
   },
   {
-    "name": "Hidden Harbor",
-    "gender": "male",
-    "image": "https://images.ctfassets.net/vfaw62ezde1i/2scPKspD9F1RJ9wAme3mnX/9505718f15042b44c1970f8a9f5cf94f/17_QUINN_HIDDENHARBOR_TTx3_square_launch_2x.jpg",
-    "audios": [
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1758258911/audios/Hidden%20Harbor/HH%20Ep%201.mp4",
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1758837573/audios/Hidden%20Harbor/HH%20Ep%203.mp4",
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1758654194/audios/Hidden%20Harbor/HH%20Ep%202.mp4"
-    ]
-  },
-  {
     "name": "Hydrated Baritone",
     "gender": "male",
     "image": "https://images.ctfassets.net/vfaw62ezde1i/5oJCCar8NfKru5oW9PMpB2/f4eedea25bc5a63f180d72227cee92c7/Screen_Shot_2021-09-22_at_2.16.25_PM.png",
@@ -4056,16 +3995,6 @@
     ]
   },
   {
-    "name": "Hyperdrive",
-    "gender": "male",
-    "image": "https://images.ctfassets.net/vfaw62ezde1i/0vM7ey6J2CDwXgNI8dJ5v/ae6e85bce8bf7b238349b0cc91386410/Untitled_design__13_.png",
-    "audios": [
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1760671191/audios/Hyperdrive/Hyperdrive%20Ep%203.mp4",
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1760671135/audios/Hyperdrive/Hyperdrive%20Ep%202.mp4",
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1760671061/audios/Hyperdrive/Hyperdrive%20Ep%201.mp4"
-    ]
-  },
-  {
     "name": "InternetBF",
     "gender": "male",
     "image": "https://images.ctfassets.net/vfaw62ezde1i/7wLt0QV6XTTCCb4xRsrkkN/ae9885f09fd3e2d34cd10ce43f68f193/InternetBF-option2.jpg",
@@ -4081,14 +4010,6 @@
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1677875753/audios/InternetBf/cv5jxmghifcc458zqkoy.mp4",
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1682707919/audios/InternetBf/vvpzr1kfxpk4owzycp19.mp4",
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,br_96k/v1683059200/audios/InternetBf/zmjd6hkzo5obnwx6hcmf.mp4"
-    ]
-  },
-  {
-    "name": "The Inventor's Apprentice",
-    "gender": "male",
-    "image": "https://images.ctfassets.net/vfaw62ezde1i/1N10UktPzhMRwH7Gcj21On/fb3c345cbae0f486dcfa04977c526b29/Untitled_design__53_.png",
-    "audios": [
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,br_96k/v1663796811/audios/FINALSINV/The_Inventors_Apprentice_Episode_3_060922_wf1gtr.mp4"
     ]
   },
   {
@@ -5437,16 +5358,6 @@
     ]
   },
   {
-    "name": "The Misty Door",
-    "gender": "male",
-    "image": "https://images.ctfassets.net/vfaw62ezde1i/7ncbFu6bc8aoK7y4nBIESe/755c13bc08701e98c22b1e2dc822a46f/Untitled_design__73_.png",
-    "audios": [
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1677723001/audios/TMD%20FINALS/jqcqadyg6evxxt7du6qo.mp4",
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1677724029/audios/TMD%20FINALS/fuw8kgyisuwpwonawyux.mp4",
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1678978654/audios/TMD%20FINALS/pi0zzv2us4ypr2ptoceq.mp4"
-    ]
-  },
-  {
     "name": "Mmurmuring",
     "gender": "male",
     "image": "https://images.ctfassets.net/vfaw62ezde1i/S15cDWvV42P3TOXmA8CdU/c6c80945da111f1859a2412eb83f5e86/pfp_heart.png",
@@ -5486,16 +5397,6 @@
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/v1718404670/creators/production/6gqQoNcwct80iw8NYoeoNw/fa2hulbvr8ziv8aeksqe.mp4",
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/v1717718124/creators/production/6gqQoNcwct80iw8NYoeoNw/ho970umecgv1qjawd0in.mp4",
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/v1733428737/creators/production/6gqQoNcwct80iw8NYoeoNw/r8ekei6rjtsh7fzp8wh1.mp4"
-    ]
-  },
-  {
-    "name": "The Muse",
-    "gender": "male",
-    "image": "https://images.ctfassets.net/vfaw62ezde1i/5FXHHM5o9sSKw9KdmMAEYg/40802a3f73b6974a4eefa241079fed55/Shrunken_logo2.png",
-    "audios": [
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1753336792/audios/MUSE/tfr7rd2jf0oqjcf3cvug.mp4",
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1753937829/audios/MUSE/k37jurxwxsfnhc81b2qw.mp4",
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1753336801/audios/MUSE/jurehymokixt4prmy511.mp4"
     ]
   },
   {
@@ -6145,12 +6046,6 @@
     ]
   },
   {
-    "name": "Overheard",
-    "gender": "male",
-    "image": "https://images.ctfassets.net/vfaw62ezde1i/4MgE2e7kt018SqkVNYCi4Y/9487aedcb9cde05ce25e434c6eca7479/__.png",
-    "audios": []
-  },
-  {
     "name": "Peaches",
     "gender": "male",
     "image": "https://images.ctfassets.net/vfaw62ezde1i/ED4WQvrJFz9iTQ3gHLBL6/b90ad3c83a6eaed35ad3268ea9259798/679e5dd7fc9e-Polish_20250903_170654542.jpg",
@@ -6179,22 +6074,6 @@
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/v1766403983/creators/production/6mk63TE211q2LjRmuEKdgY/b33a73d8-6936-4775-88da-7dc2b4c417ea.mp4",
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/v1759824260/creators/production/6mk63TE211q2LjRmuEKdgY/f3fa94a2-a2e4-4b75-8006-91b6f35a8e2e.mp4"
     ]
-  },
-  {
-    "name": "The Queen's Guard",
-    "gender": "male",
-    "image": "https://images.ctfassets.net/vfaw62ezde1i/4Nw3PF4v8Gr44sjPrTArkJ/b0a65acf111045056590c2d68598449c/Untitled_design__98_.png",
-    "audios": [
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1715830838/audios/TQG/wjiz4knxa2krxqbzdirk.mp4",
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,br_96k/v1717051752/audios/TQG/n5emwvydy3mjg4x8lxbn.mp4",
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1716446915/audios/TQG/sig107ezrwuvcfw1rti8.mp4"
-    ]
-  },
-  {
-    "name": "Quinn Audio Archives",
-    "gender": "female",
-    "image": "https://images.ctfassets.net/vfaw62ezde1i/5uhAloV0jXXm6OktDNVHTo/93d1441dfdf6defc31650e1cab80f4a2/1.png",
-    "audios": []
   },
   {
     "name": "Rae",
@@ -6459,16 +6338,6 @@
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/v1723526220/creators/production/2WW0pOqa8iPA8EWTr6nXFa/o8fd595ckf1exgi4iraj.mp4",
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/v1737045660/creators/production/2WW0pOqa8iPA8EWTr6nXFa/kn9ait0yxcrfqomenp36.mp4",
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/v1745335333/creators/production/2WW0pOqa8iPA8EWTr6nXFa/qleqfunvc38qsexuuakr.mp4"
-    ]
-  },
-  {
-    "name": "The Regent",
-    "gender": "male",
-    "image": "https://images.ctfassets.net/vfaw62ezde1i/6HVopoBjD3Z2BRoKkaRJ2w/46caff9db88d7a5df18de013b0b283b1/Untitled_design_-_2024-11-24T190755.038.png",
-    "audios": [
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1733108712/audios/REGENT%20FINALS/cjvismzy4qec4lr9ymwz.mp4",
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1732501598/audios/REGENT%20FINALS/iz56qxte2ggzk5shfbmr.mp4",
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1732501529/audios/REGENT%20FINALS/bvhal9oiedn7uip4lbnf.mp4"
     ]
   },
   {
@@ -7173,15 +7042,6 @@
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1635127730/audios/Smash/SMASH_-_National_Park_Hookup_ikdwuw.mp4",
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1648581255/audios/Smash/SMASH_-_Fucked_My_Neighbor_..._Outside_nqdgnd.mp4",
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1636651150/audios/Smash/SMASH_-_Highway_Adventures_Red_Light_Special_rthpxm.mp4"
-    ]
-  },
-  {
-    "name": "The Snake Handler",
-    "gender": "male",
-    "image": "https://images.ctfassets.net/vfaw62ezde1i/1BMREjFCPa4tgziym0SoYp/b27d9238fc0809969584e35c92106365/Memes__Square___1_.png",
-    "audios": [
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1773117972/audios/the%20snake%20handler/mdlpsytazl91zuqinccn.mp4",
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1772521774/audios/the%20snake%20handler/ni2xdtxwe5u8qfbbinav.mp4"
     ]
   },
   {
@@ -7994,27 +7854,6 @@
     ]
   },
   {
-    "name": "The Trials",
-    "gender": "male",
-    "image": "https://images.ctfassets.net/vfaw62ezde1i/3fWXNrAJW576upnvqxAXYb/8c430a9318512aff6f9b83b24cb936f0/Untitled_design_-_2025-03-12T215345.894.png",
-    "audios": [
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1742443376/audios/trials/qivubqhxpglsyne2pvgz.mp4",
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1741833857/audios/trials/cige0605eweky6kfuxah.mp4",
-      "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1741833914/audios/trials/z1qfstbqtnqz78fghb8e.mp4"
-    ]
-  },
-  {
-    "name": "The Trials: Winter Solstice",
-    "gender": "male",
-    "image": "https://images.ctfassets.net/vfaw62ezde1i/22qCwCoeZw9INUSyZMA95o/df2f06d03ebdfc6402bb2a2dd7a5b91e/Untitled__1080_x_1080_px___1_.png",
-    "audios": [
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1769099115/audios/TrialsWinterSolstice/lzyghe6pv4ogyh2runj4.mp4",
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1769059522/audios/TrialsWinterSolstice/i8cc94pgdwusga85tpia.mp4",
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1768799051/audios/TrialsWinterSolstice/zp8qhbzuxk0chieu6lep.mp4",
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1768799100/audios/TrialsWinterSolstice/z2c9nq8jcgdmiuy0chwb.mp4"
-    ]
-  },
-  {
     "name": "UselessTimidityVA",
     "gender": "male",
     "image": "https://images.ctfassets.net/vfaw62ezde1i/25lofURjdtreKYrwJaj52h/e63a4983c316fad0ce0950f4ef3259fb/UTVA_Profile_Pic_2025.png",
@@ -8315,15 +8154,6 @@
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/v1744080448/creators/production/7wGHyAcqOjJyEsOzhmIQCN/trioxbgzex42ijgx4wos.mp4",
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/v1741827487/creators/production/7wGHyAcqOjJyEsOzhmIQCN/mg2stkmufwulr66sqile.mp4",
       "https://res.cloudinary.com/quinn-cloudinary/video/upload/ac_aac,af_44100,br_96k/v1630348573/audios/Wkdfaerie/End_Of_The_Week_u68gns.mp4"
-    ]
-  },
-  {
-    "name": "Yes, Chef",
-    "gender": "male",
-    "image": "https://images.ctfassets.net/vfaw62ezde1i/aj6jJTq76Oe8WR9OzqqD2/8cfc042c380493020511b836af244c82/Memes__Square___4_.png",
-    "audios": [
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/v1776988235/audios/Yes%20Chef/i1s6ykq4sbai304jawsg.mp3",
-      "https://quinn-cloudinary-res.cloudinary.com/video/upload/ac_aac,af_44100,br_100k/v1776749606/audios/Yes%20Chef/nwqs5r1zolpi1sln8a4b.mp4"
     ]
   },
   {
